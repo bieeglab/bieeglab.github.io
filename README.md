@@ -133,3 +133,24 @@ Carlos Daniel Carrasco’s profile uses his personal-site `_pages/about.md` and 
 Historical project years are shown as source-record dates, without claiming current funding or recruitment. Institutional mailing addresses and archived telephone numbers were not copied into individual pages; official profile and vCard links are available where provided. Profile pages link to selected verified publications and the authoritative professional sources.
 
 Education and training on all member profiles is ordered from most recent to oldest. Undated entries follow the known career sequence without inferred dates. Wendy Torrens’s portrait comes from her personal faculty page; provenance is recorded in `data/wendy-photo-source.json`.
+
+
+## Research pages and Semantic Scholar
+The three research cards link to static domain pages under `research/`. The overview is intentionally compact; the full descriptions and study summaries live on those pages. Existing featured homepage publications remain manually selected. The separate recent-reading page recommends candidates from a rolling 12-month window, not a universal ranking of scientific quality.
+
+`data/semantic-scholar-config.json` records author IDs verified against known lab publications, including split author profiles. A different Jessica Hua's microbiology paper is explicitly excluded. Missing author IDs are not inferred from surnames. Domain tags use title/abstract keywords and can overlap; domain examples are explicitly selected in `data/research-domains.json`. Review newly discovered records for author-cluster errors before publishing. This is not a complete lab bibliography.
+
+Refresh and rebuild from public Semantic Scholar records:
+
+```sh
+python3 scripts/refresh_semantic_scholar.py --discover --as-of 2026-10-23
+python3 scripts/build_research_pages.py
+```
+
+Omit `--discover` to refresh only the source-checked seed bibliography. Omit `--as-of` to use the current date. An optional `SEMANTIC_SCHOLAR_API_KEY` environment variable can be used for API quota access; keys never enter generated files or browser code. The website makes no visitor-side API requests. Failures retain the last successful snapshot. API responses, including abstracts, are stored in the ignored `.cache/semantic-scholar/` folder for local auditing, not bundled into public pages. The saved normalized snapshot is `data/semantic-scholar-publications.json`. Rebuild from the local response with `--offline`; page generation itself needs no network.
+
+Recent recommendations require a supplied publication date within the last calendar year (inclusive). Future dates are excluded, undated records are not assumed recent, and DOI aliases are deduplicated. The ranking awards three points per lab coauthor (maximum six coauthors), six for lab first/last authorship, two per matching domain (maximum three), up to six from `2 * log(1 + citations)`, and up to three for influential citations. Preprints are labeled and receive a four-point reduction. Numbered conference abstracts, conference records, corrections, editorials, and replies are excluded from recommendations. This process suggests reading candidates for lab review; it does not replace the homepage selections.
+
+`data/research-editorial.json` contains locally written short summaries grounded in source abstracts, with translations in `data/research-translations.json`. Other records show a labeled, automated Semantic Scholar summary preview when available, or link to the source when unavailable. Published titles and automated previews stay in their source language; authored summaries and interface labels support the five site languages. Metadata dates and citation counts are snapshots, not continuously live values. The AMP SCZ EEG protocol stays featured as requested even though its June 2025 publication is outside the current rolling year.
+
+Validate with `python3 -m unittest discover -s scripts -p 'test_*.py'`. Semantic Scholar API documentation: https://api.semanticscholar.org/api-docs/graph.

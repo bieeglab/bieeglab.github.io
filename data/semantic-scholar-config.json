@@ -1,0 +1,314 @@
+{
+  "description": "Identity bindings checked against authors of the supplied lab bibliography. Split Semantic Scholar author profiles are retained explicitly. No surname-only discovery.",
+  "members": [
+    {
+      "name": "Daniel Mathalon",
+      "bindings": [
+        {
+          "authorId": "2298773112",
+          "authorName": "D. Mathalon",
+          "paperId": "dd1afc91c4af07376a57f8bb4a89c602fed0ec1e",
+          "title": "External validation and refinement of the Psychosis Polyrisk Score to detect individuals at clinical high risk for psychosis"
+        },
+        {
+          "authorId": "2340214442",
+          "authorName": "D. Mathalon",
+          "paperId": "0c0244662cf631c12fd2da9f53e6e99e269e4f47",
+          "title": "Converting negative symptom dimension scores across SANS and PANSS."
+        },
+        {
+          "authorId": "2082340",
+          "authorName": "D. Mathalon",
+          "paperId": "3c4edc98d3f1196e017c9801ffcc2ee133fc817e",
+          "title": "Larger Neural Responses to Reward in Gambling Disorder: Relationships with Depression and Gambling Severity."
+        },
+        {
+          "authorId": "2313762069",
+          "authorName": "D. Mathalon",
+          "paperId": "a64adfb6a367b6b3d96376d94dfd891d7c937ed5",
+          "title": "Electroencephalography Microstate Instability and Clinical Outcomes in Individuals at Clinical High Risk of Psychosis."
+        },
+        {
+          "authorId": "2376235928",
+          "authorName": "D. Mathalon",
+          "paperId": "341bc9596020c082bda3b3e6d0fad2d66940e786",
+          "title": "Noncanonical EEG-BOLD coupling by default and in schizophrenia."
+        }
+      ]
+    },
+    {
+      "name": "Judith Ford",
+      "bindings": [
+        {
+          "authorId": "2243736823",
+          "authorName": "Judith M. Ford",
+          "paperId": "0c0244662cf631c12fd2da9f53e6e99e269e4f47",
+          "title": "Converting negative symptom dimension scores across SANS and PANSS."
+        },
+        {
+          "authorId": "2369051928",
+          "authorName": "Judith Ford",
+          "paperId": "328854ebec08807bf87714af31f2018f28130dfd",
+          "title": "A primer on corollary discharges: neural signals that distinguish ‘Self’ from ‘World’"
+        },
+        {
+          "authorId": "2290540723",
+          "authorName": "Judith M. Ford",
+          "paperId": "d6dc097b9097119d707ae7261b40c50b96e52a07",
+          "title": "Chronic Inflammation and Altered Immune Responses in LongCOVID Associate with Neurological Manifestations and Accelerated Aging"
+        },
+        {
+          "authorId": "2106837195",
+          "authorName": "J. Ford",
+          "paperId": "8c5d220d501b368eeffbfc364171d1305154d4c3",
+          "title": "The Scanner as the Stimulus: Deficient Gamma-BOLD Coupling in Schizophrenia at Rest."
+        },
+        {
+          "authorId": "2674644",
+          "authorName": "J. Ford",
+          "paperId": "af6eb9435398a69f197540e58f13ddd9fc91fb1d",
+          "title": "Cognition is entangled with metabolism: relevance for resting-state EEG-fMRI"
+        },
+        {
+          "authorId": "2052928019",
+          "authorName": "Judith M. Ford",
+          "paperId": "45f6b9e12c4fc6dd5c9c7646c40ecdcb96ecd013",
+          "title": "No objective evidence of neuropsychological deficits in people with subjective cognitive changes following COVID-19 infection"
+        }
+      ]
+    },
+    {
+      "name": "Susanna Fryer",
+      "bindings": [
+        {
+          "authorId": "2284905311",
+          "authorName": "Susanna L. Fryer",
+          "paperId": "a36394944b131c308b8a208f9d773b1e309e8877",
+          "title": "Metabolic Improvements with a Ketogenic Diet Correlate with Symptom Improvement in Psychosis: A Randomized Controlled Trial."
+        },
+        {
+          "authorId": "2018981",
+          "authorName": "S. Fryer",
+          "paperId": "e239c9c4e6212ab25c5e2ca1e067aa0bf6e109d7",
+          "title": "Adjustment of Regional Cortical Thickness Measures for Global Cortical Thickness Obscures Deficits Across the Schizophrenia Spectrum: A Cautionary Note about Normative Modeling of Brain Imaging Data."
+        }
+      ]
+    },
+    {
+      "name": "Samantha Abram",
+      "bindings": [
+        {
+          "authorId": "2304004638",
+          "authorName": "Samantha V. Abram",
+          "paperId": "bfd0a60eab2e62c91c3d610b062cd591879590a2",
+          "title": "Reward pursuit during a translational reward task correlates with anhedonia reductions following rTMS in patients with major depressive disorder"
+        },
+        {
+          "authorId": "5200074",
+          "authorName": "Samantha V. Abram",
+          "paperId": "3ab98f7e0c57fec336547e92078d0174cb62e253",
+          "title": "Pons-to-cerebellum hypoconnectivity along the psychosis spectrum and associations with sensory prediction and hallucinations in schizophrenia"
+        }
+      ]
+    },
+    {
+      "name": "Michael Jacob",
+      "bindings": [
+        {
+          "authorId": "2258156896",
+          "authorName": "M. Jacob",
+          "paperId": "a36394944b131c308b8a208f9d773b1e309e8877",
+          "title": "Metabolic Improvements with a Ketogenic Diet Correlate with Symptom Improvement in Psychosis: A Randomized Controlled Trial."
+        },
+        {
+          "authorId": "2258951140",
+          "authorName": "Michael Jacob",
+          "paperId": "bf325bfc069d41090d97e0ced2e698429ef8344b",
+          "title": "EEG spectral attractors identify a geometric core of brain dynamics"
+        },
+        {
+          "authorId": "5451774",
+          "authorName": "Michael S. Jacob",
+          "paperId": "9897dfcd2fb48fe6d1260147bbd26064b51beb6b",
+          "title": "Toward a Bio-Organon: A model of interdependence between energy, information and knowledge in living systems"
+        },
+        {
+          "authorId": "2283089",
+          "authorName": "Michael S. Jacob",
+          "paperId": "8c5d220d501b368eeffbfc364171d1305154d4c3",
+          "title": "The Scanner as the Stimulus: Deficient Gamma-BOLD Coupling in Schizophrenia at Rest."
+        }
+      ]
+    },
+    {
+      "name": "Jessica Hua",
+      "bindings": [
+        {
+          "authorId": "2282433607",
+          "authorName": "Jessica P Y Hua",
+          "paperId": "d757b179e20e22fcb28ce8100903d3d843aeb2ec",
+          "title": "Social Determinants of Health and Neurobiology Across the Schizophrenia Course: A Systematic Review."
+        },
+        {
+          "authorId": "2354248654",
+          "authorName": "J. Hua",
+          "paperId": "c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+          "title": "Theta Oscillations Assessed From a Passive Auditory Oddball Paradigm in Individuals at Clinical High-Risk for Psychosis and Healthy Control Individuals: Associations with Clinical Outcomes and Mismatch Negativity"
+        },
+        {
+          "authorId": "1390181072",
+          "authorName": "J. Hua",
+          "paperId": "614cd67ecdaa482f1780cbcdf7687103c0f5dea6",
+          "title": "Rich-Club Connectivity and Structural Connectome Organization in Youth at Clinical High-Risk for Psychosis and Individuals with Early Illness Schizophrenia"
+        }
+      ]
+    },
+    {
+      "name": "Maria Kryza-Lacombe",
+      "bindings": [
+        {
+          "authorId": "2237319642",
+          "authorName": "Maria Kryza-Lacombe",
+          "paperId": "3c4edc98d3f1196e017c9801ffcc2ee133fc817e",
+          "title": "Larger Neural Responses to Reward in Gambling Disorder: Relationships with Depression and Gambling Severity."
+        }
+      ]
+    },
+    {
+      "name": "Holly Hamilton",
+      "bindings": [
+        {
+          "authorId": "2290162702",
+          "authorName": "H. Hamilton",
+          "paperId": "c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+          "title": "Theta Oscillations Assessed From a Passive Auditory Oddball Paradigm in Individuals at Clinical High-Risk for Psychosis and Healthy Control Individuals: Associations with Clinical Outcomes and Mismatch Negativity"
+        },
+        {
+          "authorId": "2259252509",
+          "authorName": "H. K. Hamilton",
+          "paperId": "ae4c4b9cc0cbbf0e7bddb87ac1f302bd70025a6a",
+          "title": "The electroencephalography protocol for the Accelerating Medicines Partnership® Schizophrenia Program: Reliability and stability of measures"
+        }
+      ]
+    },
+    {
+      "name": "Brian Roach",
+      "bindings": [
+        {
+          "authorId": "2354247475",
+          "authorName": "B. Roach",
+          "paperId": "c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+          "title": "Theta Oscillations Assessed From a Passive Auditory Oddball Paradigm in Individuals at Clinical High-Risk for Psychosis and Healthy Control Individuals: Associations with Clinical Outcomes and Mismatch Negativity"
+        },
+        {
+          "authorId": "2568872",
+          "authorName": "B. Roach",
+          "paperId": "67365c3c76379419505fd4b34f10d89cd904c1a1",
+          "title": "Parsing Reward Processing Substages With Multimodal EEG–fMRI"
+        }
+      ]
+    },
+    {
+      "name": "Spero Nicholas",
+      "bindings": [
+        {
+          "authorId": "2290164799",
+          "authorName": "S. Nicholas",
+          "paperId": "3c4edc98d3f1196e017c9801ffcc2ee133fc817e",
+          "title": "Larger Neural Responses to Reward in Gambling Disorder: Relationships with Depression and Gambling Severity."
+        }
+      ]
+    },
+    {
+      "name": "Wendy Torrens",
+      "bindings": [
+        {
+          "authorId": "2195682685",
+          "authorName": "W. Torrens",
+          "paperId": "1227f8cb3674981705dd9965e39cbe6f355cdcee",
+          "title": "The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography."
+        }
+      ]
+    },
+    {
+      "name": "Carlos Daniel Carrasco",
+      "bindings": [
+        {
+          "authorId": "2266472107",
+          "authorName": "C. Carrasco",
+          "paperId": "c0487bb91273e02d8bb124277621b6f71e6802d0",
+          "title": "A database of upper limb surface electromyogram signals from demographically diverse individuals"
+        }
+      ]
+    },
+    {
+      "name": "Juliette Kyner",
+      "bindings": [
+        {
+          "authorId": "2354258985",
+          "authorName": "J. Kyner",
+          "paperId": "a36394944b131c308b8a208f9d773b1e309e8877",
+          "title": "Metabolic Improvements with a Ketogenic Diet Correlate with Symptom Improvement in Psychosis: A Randomized Controlled Trial."
+        }
+      ]
+    }
+  ],
+  "seedIds": [
+    "PMID:42372343",
+    "PMID:42805768",
+    "PMID:42805423",
+    "PMID:42728096",
+    "PMID:39488001",
+    "PMID:42570037",
+    "PMID:42425953",
+    "PMID:42415343",
+    "PMID:42307922",
+    "PMID:42277344",
+    "PMID:41646831",
+    "PMID:40749749",
+    "PMID:41838854",
+    "PMID:41681123",
+    "PMID:41298157",
+    "DOI:10.1016/j.neuroscience.2026.05.041",
+    "PMID:42459164",
+    "DOI:10.1016/j.visres.2026.108833",
+    "PMID:42234419",
+    "PMID:40973605",
+    "PMID:41480039",
+    "PMID:41391110",
+    "PMID:41271013",
+    "PMID:40632686",
+    "PMID:40592929",
+    "PMID:38908749",
+    "DOI:10.1038/s41597-025-04825-z",
+    "DOI:10.1111/psyp.70038",
+    "PMID:39913293",
+    "DOI:10.1080/13546805.2025.2464728",
+    "PMID:39511448",
+    "PMID:41369364",
+    "PMID:40052052",
+    "PMID:39039138",
+    "PMID:39568645",
+    "DOI:10.1111/psyp.14570",
+    "PMID:38311290",
+    "PMID:38374980",
+    "PMID:38959021",
+    "PMID:38815987",
+    "PMID:37295595",
+    "PMID:37098100",
+    "PMID:36989668",
+    "PMID:37121090",
+    "PMID:37113322",
+    "PMID:37045705",
+    "PMID:34798229",
+    "DOI:10.1016/j.biopsych.2026.04.007",
+    "DOI:10.1093/schbul/sbag082",
+    "DOI:10.64898/2026.06.03.723612",
+    "DOI:10.1016/j.biopsych.2026.02.013",
+    "DOI:10.1038/s41537-025-00622-0"
+  ],
+  "excludedIds": [
+    "PMID:40592929"
+  ],
+  "excludedReason": "Microbiology paper by a different Jessica Hua; not a BIEEGL publication."
+}

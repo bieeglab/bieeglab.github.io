@@ -1,0 +1,44 @@
+[
+  {
+    "id": "brain-imaging",
+    "label": "Brain imaging",
+    "title": "Seeing the bigger picture",
+    "description": "The lab uses brain imaging to compare brain structure and function in people with schizophrenia and comparison participants. Functional MRI (fMRI) maps changes in blood oxygenation associated with brain activity, helping us investigate how brain systems support cognition and mental health.",
+    "shortDescription": "We use MRI and fMRI to study brain structure, activity, and networks in schizophrenia and psychosis risk.",
+    "image": "fmri-stencil.png",
+    "examples": [
+      "67365c3c76379419505fd4b34f10d89cd904c1a1",
+      "341bc9596020c082bda3b3e6d0fad2d66940e786",
+      "5a6d45d45bb507acec52e4993f4c79685701578c",
+      "e239c9c4e6212ab25c5e2ca1e067aa0bf6e109d7"
+    ]
+  },
+  {
+    "id": "electrophysiology",
+    "label": "Electrophysiology",
+    "title": "Listening to brain signals",
+    "description": "EEG captures the timing of brain activity. Our research examines responses to sounds and auditory oddball tasks, as well as brain signals during decision-making and gambling tasks. Simultaneous EEG and fMRI recordings connect the timing of electrical activity with patterns of brain function.",
+    "shortDescription": "EEG reveals the timing of brain responses during sensory, attention, and reward tasks, alongside our work combining EEG and fMRI.",
+    "image": "eeg-stencil.png",
+    "examples": [
+      "9e93ba72f2b3f17f6b25fb783b46c8be82fa22fb",
+      "a64adfb6a367b6b3d96376d94dfd891d7c937ed5",
+      "1227f8cb3674981705dd9965e39cbe6f355cdcee",
+      "ae4c4b9cc0cbbf0e7bddb87ac1f302bd70025a6a"
+    ]
+  },
+  {
+    "id": "clinical-neuroscience",
+    "label": "Clinical neuroscience",
+    "title": "Connecting brain and experience",
+    "description": "As a clinical and cognitive neuroscience lab, we combine brain-based measures with cognitive tasks, clinical assessments, and reports of lived experience. Together, these approaches help us investigate how differences in brain function relate to perception, thinking, and psychotic symptoms.",
+    "shortDescription": "We connect brain measures with cognitive tasks, clinical assessments, and lived experience to understand psychosis and mental health.",
+    "image": "conversation-stencil.png",
+    "examples": [
+      "a36394944b131c308b8a208f9d773b1e309e8877",
+      "45f6b9e12c4fc6dd5c9c7646c40ecdcb96ecd013",
+      "d757b179e20e22fcb28ce8100903d3d843aeb2ec",
+      "956f188b79ae72d70ac41ad5fd983d12942bca84"
+    ]
+  }
+]

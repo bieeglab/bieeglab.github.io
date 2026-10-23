@@ -1,0 +1,254 @@
+{
+  "Explore papers": {
+    "es": "Explorar publicaciones",
+    "zh-Hans": "浏览论文",
+    "hi": "शोधपत्र देखें",
+    "ar": "استكشف الأبحاث"
+  },
+  "Research areas": {
+    "es": "Áreas de investigación",
+    "zh-Hans": "研究领域",
+    "hi": "अनुसंधान क्षेत्र",
+    "ar": "مجالات البحث"
+  },
+  "Brain imaging": {
+    "es": "Imagen cerebral",
+    "zh-Hans": "脑影像",
+    "hi": "मस्तिष्क इमेजिंग",
+    "ar": "تصوير الدماغ"
+  },
+  "Electrophysiology": {
+    "es": "Electrofisiología",
+    "zh-Hans": "电生理学",
+    "hi": "इलेक्ट्रोफिज़ियोलॉजी",
+    "ar": "الفيزيولوجيا الكهربائية"
+  },
+  "Clinical neuroscience": {
+    "es": "Neurociencia clínica",
+    "zh-Hans": "临床神经科学",
+    "hi": "नैदानिक तंत्रिका विज्ञान",
+    "ar": "علم الأعصاب الإكلينيكي"
+  },
+  "Recent publications": {
+    "es": "Publicaciones recientes",
+    "zh-Hans": "近期论文",
+    "hi": "हाल के प्रकाशन",
+    "ar": "الأبحاث الحديثة"
+  },
+  "Example publications": {
+    "es": "Publicaciones de ejemplo",
+    "zh-Hans": "论文示例",
+    "hi": "चुनिंदा शोधपत्र",
+    "ar": "أمثلة على الأبحاث"
+  },
+  "Back to research": {
+    "es": "Volver a investigación",
+    "zh-Hans": "返回研究页面",
+    "hi": "अनुसंधान पर वापस जाएँ",
+    "ar": "العودة إلى الأبحاث"
+  },
+  "Read paper": {
+    "es": "Leer artículo",
+    "zh-Hans": "阅读论文",
+    "hi": "शोधपत्र पढ़ें",
+    "ar": "اقرأ البحث"
+  },
+  "Semantic Scholar record": {
+    "es": "Registro de Semantic Scholar",
+    "zh-Hans": "Semantic Scholar 记录",
+    "hi": "Semantic Scholar रिकॉर्ड",
+    "ar": "سجل Semantic Scholar"
+  },
+  "Lab contributors": {
+    "es": "Colaboradores del laboratorio",
+    "zh-Hans": "实验室共同作者",
+    "hi": "प्रयोगशाला के योगदानकर्ता",
+    "ar": "المساهمون من المختبر"
+  },
+  "Preprint · not peer reviewed": {
+    "es": "Prepublicación · sin revisión por pares",
+    "zh-Hans": "预印本 · 未经同行评审",
+    "hi": "प्रीप्रिंट · सहकर्मी समीक्षा नहीं हुई",
+    "ar": "مسودة أولية · غير محكمة"
+  },
+  "Research summary": {
+    "es": "Resumen de investigación",
+    "zh-Hans": "研究摘要",
+    "hi": "शोध सारांश",
+    "ar": "ملخص البحث"
+  },
+  "Semantic Scholar summary preview (automated)": {
+    "es": "Vista previa del resumen de Semantic Scholar (automática)",
+    "zh-Hans": "Semantic Scholar 摘要预览（自动生成）",
+    "hi": "Semantic Scholar सारांश पूर्वावलोकन (स्वचालित)",
+    "ar": "معاينة ملخص Semantic Scholar (آلي)"
+  },
+  "Read the source for details and limitations.": {
+    "es": "Consulte la fuente para conocer los detalles y las limitaciones.",
+    "zh-Hans": "详情与局限请参阅原文。",
+    "hi": "विवरण और सीमाओं के लिए मूल शोधपत्र पढ़ें।",
+    "ar": "راجع المصدر للاطلاع على التفاصيل والقيود."
+  },
+  "Recommended reading from the last 12 months": {
+    "es": "Lecturas recomendadas de los últimos 12 meses",
+    "zh-Hans": "过去12个月的推荐阅读",
+    "hi": "पिछले 12 महीनों के अनुशंसित शोधपत्र",
+    "ar": "قراءات مقترحة من آخر 12 شهراً"
+  },
+  "Browse recent lab papers": {
+    "es": "Ver publicaciones recientes del laboratorio",
+    "zh-Hans": "浏览实验室近期论文",
+    "hi": "प्रयोगशाला के हाल के शोधपत्र देखें",
+    "ar": "تصفح أبحاث المختبر الحديثة"
+  },
+  "How these papers are selected": {
+    "es": "Cómo se seleccionan estos artículos",
+    "zh-Hans": "论文筛选方法",
+    "hi": "इन शोधपत्रों का चयन कैसे होता है",
+    "ar": "كيف تُختار هذه الأبحاث"
+  },
+  "Recommendations favor lab involvement and relevance across our research areas, with limited weight for citation signals. Citation counts are not a measure of study quality. Preprints are labeled separately. The featured homepage list remains selected by the lab.": {
+    "es": "Las recomendaciones priorizan la participación del laboratorio y la relevancia en nuestras áreas de investigación, con un peso limitado para las citas. Las citas no miden la calidad de un estudio. Las prepublicaciones se identifican por separado. La lista destacada en la página principal sigue siendo seleccionada por el laboratorio.",
+    "zh-Hans": "推荐优先考虑实验室参与程度及研究领域相关性，引用指标权重有限。引用次数并不衡量研究质量。预印本单独标注。首页精选列表仍由实验室选定。",
+    "hi": "सिफारिशों में प्रयोगशाला की भागीदारी और हमारे अनुसंधान क्षेत्रों से प्रासंगिकता को प्राथमिकता दी जाती है; उद्धरण संकेतों का सीमित महत्व है। उद्धरण संख्या अध्ययन की गुणवत्ता का माप नहीं है। प्रीप्रिंट अलग चिह्नित हैं। मुख्य पृष्ठ की सूची प्रयोगशाला द्वारा चुनी जाती है।",
+    "ar": "تعطي التوصيات الأولوية لمشاركة المختبر والارتباط بمجالات بحثنا، مع وزن محدود للاستشهادات. عدد الاستشهادات ليس مقياساً لجودة الدراسة. تُميز المسودات الأولية بوضوح. وتبقى قائمة الصفحة الرئيسية مختارة من المختبر."
+  },
+  "Selected examples connect our research methods with questions about cognition, psychosis, and mental health.": {
+    "es": "Estos ejemplos conectan nuestros métodos de investigación con preguntas sobre cognición, psicosis y salud mental.",
+    "zh-Hans": "这些论文示例将研究方法与认知、精神病及心理健康问题联系起来。",
+    "hi": "ये उदाहरण हमारी शोध विधियों को संज्ञान, मनोविकृति और मानसिक स्वास्थ्य के प्रश्नों से जोड़ते हैं।",
+    "ar": "تربط هذه الأمثلة أساليب بحثنا بأسئلة حول الإدراك والذهان والصحة النفسية."
+  },
+  "We use MRI and fMRI to study brain structure, activity, and networks in schizophrenia and psychosis risk.": {
+    "es": "Utilizamos RM y RMf para estudiar la estructura, la actividad y las redes cerebrales en la esquizofrenia y el riesgo de psicosis.",
+    "zh-Hans": "我们利用MRI和fMRI研究精神分裂症及精神病风险中的脑结构、活动与网络。",
+    "hi": "हम सिज़ोफ्रेनिया और मनोविकृति के जोखिम में मस्तिष्क की संरचना, गतिविधि और नेटवर्क का अध्ययन MRI और fMRI से करते हैं।",
+    "ar": "نستخدم التصوير بالرنين المغناطيسي والوظيفي لدراسة بنية الدماغ ونشاطه وشبكاته في الفصام وخطر الذهان."
+  },
+  "EEG reveals the timing of brain responses during sensory, attention, and reward tasks, alongside our work combining EEG and fMRI.": {
+    "es": "El EEG revela cuándo responde el cerebro durante tareas sensoriales, de atención y de recompensa, junto con nuestro trabajo que combina EEG y RMf.",
+    "zh-Hans": "EEG揭示感觉、注意及奖赏任务中脑反应的时间过程，并与结合EEG和fMRI的研究相互补充。",
+    "hi": "EEG संवेदी, ध्यान और पुरस्कार संबंधी कार्यों के दौरान मस्तिष्क प्रतिक्रियाओं का समय बताता है; हम EEG और fMRI को मिलाकर भी अध्ययन करते हैं।",
+    "ar": "يكشف تخطيط كهربية الدماغ توقيت استجابات الدماغ في المهام الحسية والانتباه والمكافأة، إلى جانب أبحاثنا التي تجمعه بالرنين المغناطيسي الوظيفي."
+  },
+  "We connect brain measures with cognitive tasks, clinical assessments, and lived experience to understand psychosis and mental health.": {
+    "es": "Relacionamos medidas cerebrales con tareas cognitivas, evaluaciones clínicas y experiencias vividas para comprender la psicosis y la salud mental.",
+    "zh-Hans": "我们结合脑测量、认知任务、临床评估及生活体验，研究精神病与心理健康。",
+    "hi": "मनोविकृति और मानसिक स्वास्थ्य को समझने के लिए हम मस्तिष्क मापों को संज्ञानात्मक कार्यों, नैदानिक आकलन और जीवन अनुभवों से जोड़ते हैं।",
+    "ar": "نربط قياسات الدماغ بالمهام المعرفية والتقييمات السريرية والتجربة المعاشة لفهم الذهان والصحة النفسية."
+  },
+  "Snapshot date": {
+    "es": "Fecha de actualización",
+    "zh-Hans": "快照日期",
+    "hi": "डेटा अद्यतन तिथि",
+    "ar": "تاريخ تحديث البيانات"
+  },
+  "Reading window": {
+    "es": "Periodo de lectura",
+    "zh-Hans": "阅读时间范围",
+    "hi": "प्रकाशन अवधि",
+    "ar": "الفترة المشمولة"
+  },
+  "Metadata and citation counts come from Semantic Scholar. Coverage is limited to verified author IDs and source-checked lab publications; this is not a complete bibliography. Paper titles and automated summary previews retain their source language.": {
+    "es": "Los metadatos y las citas proceden de Semantic Scholar. La cobertura se limita a identificadores de autor verificados y publicaciones del laboratorio contrastadas; no es una bibliografía completa. Los títulos y las vistas previas automáticas conservan el idioma de la fuente.",
+    "zh-Hans": "元数据与引用次数来自Semantic Scholar。收录范围限于已核实的作者ID及有来源依据的实验室论文，并非完整书目。论文标题和自动摘要预览保留原始语言。",
+    "hi": "मेटाडेटा और उद्धरण संख्या Semantic Scholar से हैं। कवरेज सत्यापित लेखक पहचान और स्रोत-जाँचे प्रयोगशाला प्रकाशनों तक सीमित है; यह पूर्ण ग्रंथसूची नहीं है। शोधपत्रों के शीर्षक और स्वचालित सारांश पूर्वावलोकन मूल भाषा में रहते हैं।",
+    "ar": "تأتي البيانات الوصفية وأعداد الاستشهادات من Semantic Scholar. تقتصر التغطية على معرفات المؤلفين المتحقق منها وأبحاث المختبر الموثقة، وليست قائمة شاملة. تبقى عناوين الأبحاث ومعاينات الملخصات الآلية بلغتها الأصلية."
+  },
+  "Recommended reading": {
+    "es": "Lecturas recomendadas",
+    "zh-Hans": "推荐阅读",
+    "hi": "अनुशंसित शोधपत्र",
+    "ar": "قراءات مقترحة"
+  },
+  "More recent papers": {
+    "es": "Más artículos recientes",
+    "zh-Hans": "更多近期论文",
+    "hi": "अन्य हाल के शोधपत्र",
+    "ar": "المزيد من الأبحاث الحديثة"
+  },
+  "EEG and fMRI measurements linked distinct stages of reward processing to complementary timing and brain-network signals.": {
+    "es": "Las mediciones de EEG y RMf vincularon distintas etapas del procesamiento de recompensas con señales temporales y de redes cerebrales complementarias.",
+    "zh-Hans": "EEG与fMRI测量将奖赏加工的不同阶段与互补的时间及脑网络信号联系起来。",
+    "hi": "EEG और fMRI मापों ने पुरस्कार प्रसंस्करण के अलग चरणों को पूरक समय-संबंधी और मस्तिष्क नेटवर्क संकेतों से जोड़ा।",
+    "ar": "ربطت قياسات تخطيط كهربية الدماغ والرنين المغناطيسي الوظيفي مراحل معالجة المكافآت بإشارات متكاملة للتوقيت وشبكات الدماغ."
+  },
+  "Simultaneous EEG-fMRI revealed differences in the timing of electrical–hemodynamic coupling across brain regions and in schizophrenia.": {
+    "es": "El EEG-RMf simultáneo reveló diferencias en el acoplamiento eléctrico-hemodinámico entre regiones cerebrales y en la esquizofrenia.",
+    "zh-Hans": "同步EEG-fMRI揭示了不同脑区及精神分裂症中电活动与血流动力学耦合时间的差异。",
+    "hi": "एक साथ EEG-fMRI ने विभिन्न मस्तिष्क क्षेत्रों और सिज़ोफ्रेनिया में विद्युत–हीमोडायनामिक युग्मन के समय में अंतर दिखाए।",
+    "ar": "كشف التسجيل المتزامن عن اختلافات في توقيت الاقتران الكهربائي والديناميكي الدموي بين مناطق الدماغ وفي الفصام."
+  },
+  "The study examined associations between an epigenetic inflammation marker, MRI-derived brain volumes, and symptoms in youth at psychosis risk.": {
+    "es": "El estudio examinó asociaciones entre un marcador epigenético de inflamación, volúmenes cerebrales medidos por RM y síntomas en jóvenes con riesgo de psicosis.",
+    "zh-Hans": "该研究考察了精神病高风险青年中表观遗传炎症标志物、MRI脑体积与症状之间的关联。",
+    "hi": "इस अध्ययन ने मनोविकृति के जोखिम वाले युवाओं में एपिजेनेटिक सूजन संकेतक, MRI-आधारित मस्तिष्क आयतन और लक्षणों के बीच संबंध जाँचे।",
+    "ar": "فحصت الدراسة الارتباطات بين مؤشر التهابي لاجيني وأحجام الدماغ بالرنين المغناطيسي والأعراض لدى شباب معرضين لخطر الذهان."
+  },
+  "This methods paper examined how adjusting regional cortical thickness for global thickness can obscure differences across the schizophrenia spectrum.": {
+    "es": "Este artículo metodológico examinó cómo ajustar el grosor cortical regional por el grosor global puede ocultar diferencias en el espectro de la esquizofrenia.",
+    "zh-Hans": "这篇方法学论文研究了以全脑皮层厚度校正局部厚度如何掩盖精神分裂症谱系中的差异。",
+    "hi": "इस पद्धति संबंधी शोधपत्र ने जाँचा कि वैश्विक मोटाई के लिए क्षेत्रीय कॉर्टिकल मोटाई का समायोजन सिज़ोफ्रेनिया स्पेक्ट्रम के अंतरों को कैसे छिपा सकता है।",
+    "ar": "بحثت هذه الورقة المنهجية كيف قد يخفي ضبط سماكة القشرة الإقليمية بحسب السماكة العامة الفروق عبر طيف الفصام."
+  },
+  "Visual oddball responses in NAPLS-2 were associated with later psychosis onset, supporting further study of P300 as a risk marker.": {
+    "es": "Las respuestas visuales de oddball en NAPLS-2 se asociaron con la aparición posterior de psicosis, apoyando más investigación del P300 como marcador de riesgo.",
+    "zh-Hans": "NAPLS-2中的视觉oddball反应与后续精神病发病相关，支持进一步研究P300作为风险标志物。",
+    "hi": "NAPLS-2 में दृश्य ऑडबॉल प्रतिक्रियाएँ बाद में मनोविकृति की शुरुआत से जुड़ी थीं, जिससे P300 जोखिम संकेतक पर आगे अध्ययन का समर्थन मिलता है।",
+    "ar": "ارتبطت استجابات المهمة البصرية في NAPLS-2 بظهور الذهان لاحقاً، مما يدعم مواصلة دراسة P300 كمؤشر للمخاطر."
+  },
+  "The AMP SCZ protocol evaluated the repeatability of EEG measures intended for studies of clinical high risk and psychosis outcomes.": {
+    "es": "El protocolo AMP SCZ evaluó la repetibilidad de medidas de EEG destinadas a estudios de alto riesgo clínico y resultados de psicosis.",
+    "zh-Hans": "AMP SCZ方案评估了用于临床高风险及精神病结局研究的EEG指标的可重复性。",
+    "hi": "AMP SCZ प्रोटोकॉल ने नैदानिक उच्च जोखिम और मनोविकृति परिणामों के अध्ययन हेतु EEG मापों की पुनरावृत्ति विश्वसनीयता जाँची।",
+    "ar": "قيّم بروتوكول AMP SCZ قابلية تكرار قياسات تخطيط كهربية الدماغ المخصصة لدراسات الخطر السريري المرتفع ونتائج الذهان."
+  },
+  "Resting EEG microstate instability was associated with clinical risk and subsequent psychosis outcomes in the NAPLS-2 cohort.": {
+    "es": "La inestabilidad de microestados del EEG en reposo se asoció con el riesgo clínico y los resultados posteriores de psicosis en NAPLS-2.",
+    "zh-Hans": "NAPLS-2队列中静息EEG微状态不稳定性与临床风险及后续精神病结局相关。",
+    "hi": "NAPLS-2 समूह में विश्राम EEG माइक्रोस्टेट अस्थिरता नैदानिक जोखिम और बाद के मनोविकृति परिणामों से जुड़ी थी।",
+    "ar": "ارتبط عدم استقرار الحالات الدقيقة لتخطيط الدماغ أثناء الراحة بالخطر السريري ونتائج الذهان اللاحقة في مجموعة NAPLS-2."
+  },
+  "This study tested an electrode clip designed to improve EEG recording across hair textures without requiring braiding.": {
+    "es": "Este estudio probó un clip de electrodos diseñado para mejorar el registro de EEG en distintas texturas de cabello sin requerir trenzado.",
+    "zh-Hans": "该研究测试了一种旨在适应不同发质、无需编辫即可改善EEG记录的电极夹。",
+    "hi": "इस अध्ययन ने बिना चोटी बनाए अलग-अलग बालों की बनावट में EEG रिकॉर्डिंग सुधारने के लिए डिज़ाइन किए गए इलेक्ट्रोड क्लिप का परीक्षण किया।",
+    "ar": "اختبرت الدراسة مشبك أقطاب لتحسين تسجيل تخطيط الدماغ عبر أنماط الشعر المختلفة دون الحاجة إلى تضفيره."
+  },
+  "Computational modeling of auditory EEG responses examined whether altered excitation and inhibition were associated with later conversion to psychosis.": {
+    "es": "El modelado computacional de respuestas auditivas de EEG examinó si cambios en excitación e inhibición se asociaban con la conversión posterior a psicosis.",
+    "zh-Hans": "该研究对听觉EEG反应进行计算建模，考察兴奋与抑制改变是否与后续精神病转化相关。",
+    "hi": "श्रवण EEG प्रतिक्रियाओं के कम्प्यूटेशनल मॉडलिंग से जाँचा गया कि उत्तेजना और अवरोध में परिवर्तन बाद में मनोविकृति में परिवर्तन से जुड़े थे या नहीं।",
+    "ar": "فحصت النمذجة الحاسوبية لاستجابات الدماغ السمعية ما إذا كانت تغيرات الاستثارة والتثبيط ترتبط بالتحول اللاحق إلى الذهان."
+  },
+  "This randomized trial examined relationships between metabolic changes, ketosis, and symptom changes during a ketogenic-diet intervention in psychosis.": {
+    "es": "Este ensayo aleatorizado examinó relaciones entre cambios metabólicos, cetosis y cambios sintomáticos durante una intervención con dieta cetogénica en psicosis.",
+    "zh-Hans": "这项随机试验研究了精神病生酮饮食干预期间代谢变化、酮症与症状变化之间的关系。",
+    "hi": "इस यादृच्छिक परीक्षण ने मनोविकृति में कीटोजेनिक आहार हस्तक्षेप के दौरान चयापचयी परिवर्तन, कीटोसिस और लक्षण परिवर्तनों के संबंध जाँचे।",
+    "ar": "فحصت هذه التجربة العشوائية العلاقات بين التغيرات الأيضية والكيتوزية وتغير الأعراض أثناء تدخل غذائي كيتوني في الذهان."
+  },
+  "This preprint compared subjective post-COVID cognitive complaints with neuropsychological testing and examined associated affective and biological factors.": {
+    "es": "Esta prepublicación comparó quejas cognitivas subjetivas tras la COVID con pruebas neuropsicológicas y examinó factores afectivos y biológicos asociados.",
+    "zh-Hans": "这篇预印本比较了新冠感染后主观认知诉求与神经心理测验，并考察相关情绪和生物因素。",
+    "hi": "इस प्रीप्रिंट ने कोविड के बाद व्यक्तिपरक संज्ञानात्मक शिकायतों की तुलना तंत्रिका-मनोवैज्ञानिक परीक्षणों से की और संबंधित भावनात्मक व जैविक कारक जाँचे।",
+    "ar": "قارنت هذه المسودة الشكاوى المعرفية الذاتية بعد كوفيد بالاختبارات النفسية العصبية وفحصت العوامل العاطفية والبيولوجية المرتبطة بها."
+  },
+  "This systematic review examined evidence linking social disadvantage with brain measures across the schizophrenia spectrum.": {
+    "es": "Esta revisión sistemática examinó la evidencia que vincula la desventaja social con medidas cerebrales en el espectro de la esquizofrenia.",
+    "zh-Hans": "这项系统综述考察了社会不利因素与精神分裂症谱系脑测量指标之间关联的证据。",
+    "hi": "इस व्यवस्थित समीक्षा ने सिज़ोफ्रेनिया स्पेक्ट्रम में सामाजिक वंचना और मस्तिष्क मापों के संबंधों के प्रमाणों की जाँच की।",
+    "ar": "فحصت هذه المراجعة المنهجية الأدلة التي تربط الحرمان الاجتماعي بقياسات الدماغ عبر طيف الفصام."
+  },
+  "Auditory oddball theta responses were studied alongside mismatch negativity and later clinical outcomes in people at high risk for psychosis.": {
+    "es": "Se estudiaron respuestas theta auditivas de oddball junto con la negatividad de discrepancia y resultados clínicos posteriores en personas con alto riesgo de psicosis.",
+    "zh-Hans": "该研究结合失匹配负波及后续临床结局，研究精神病高风险人群的听觉oddball theta反应。",
+    "hi": "मनोविकृति के उच्च जोखिम वाले लोगों में श्रवण ऑडबॉल थीटा प्रतिक्रियाओं का अध्ययन मिसमैच नेगेटिविटी और बाद के नैदानिक परिणामों के साथ किया गया।",
+    "ar": "دُرست استجابات ثيتا السمعية مع سلبية عدم التطابق والنتائج السريرية اللاحقة لدى أشخاص معرضين بشدة لخطر الذهان."
+  },
+  "Citation count": {
+    "es": "Número de citas",
+    "zh-Hans": "引用次数",
+    "hi": "उद्धरण संख्या",
+    "ar": "عدد الاستشهادات"
+  }
+}

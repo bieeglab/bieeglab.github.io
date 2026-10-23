@@ -1,0 +1,4863 @@
+{
+  "updated": "2026-10-23",
+  "windowStart": "2025-10-23",
+  "windowEnd": "2026-10-23",
+  "source": "Semantic Scholar Academic Graph API",
+  "discovery": true,
+  "coverage": "Verified author IDs and source-checked seed publications; not a complete bibliography.",
+  "recommendationMethod": "Lab author count (capped at six), lab first/last authorship, domain coverage, capped citation signals; preprints receive a separate flag and a four-point adjustment. These are review candidates, not a quality ranking.",
+  "recentRecommendations": [
+    "67365c3c76379419505fd4b34f10d89cd904c1a1",
+    "a36394944b131c308b8a208f9d773b1e309e8877",
+    "c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+    "a64adfb6a367b6b3d96376d94dfd891d7c937ed5",
+    "956f188b79ae72d70ac41ad5fd983d12942bca84",
+    "341bc9596020c082bda3b3e6d0fad2d66940e786"
+  ],
+  "papers": [
+    {
+      "id": "ba7a9ada43f95267e371b00b26bea7b833b5f990",
+      "title": "Prospective Bidirectional Associations Between Core Schemas, Attenuated Psychotic Symptoms, and Functioning in Youth at Clinical High Risk for Psychosis",
+      "journal": "medRxiv",
+      "year": 2026,
+      "date": "2026-10-02",
+      "doi": "10.64898/2026.09.30.26364206",
+      "url": "https://doi.org/10.64898/2026.09.30.26364206",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ba7a9ada43f95267e371b00b26bea7b833b5f990",
+      "authors": [
+        "A. Broekhuijse",
+        "A. Saxena",
+        "C. Mourgues-Codern",
+        "H. Mukhtar",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "D. Mathalon",
+        "T. Mcglashan",
+        "D. Perkins",
+        "E. Walker",
+        "T. Cannon",
+        "S. Woods",
+        "A. Powers",
+        "E. Farina"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ba7a9ada43f95267e371b00b26bea7b833b5f990?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 1.0
+    },
+    {
+      "id": "26186a1e938af73f2abcbf1836d0803d6758deae",
+      "title": "Depression severity and sleep efficiency's associations with amyloid burden are additive but dependent on underlying genetic risk in late life depression",
+      "journal": "Alzheimer's & Dementia",
+      "year": 2026,
+      "date": "2026-10-01",
+      "doi": "10.1002/dad2.70478",
+      "url": "https://doi.org/10.1002/dad2.70478",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/26186a1e938af73f2abcbf1836d0803d6758deae",
+      "authors": [
+        "Anita Shankar",
+        "Maria Kryza-Lacombe",
+        "P. Insel",
+        "Edith Harris",
+        "M. Kassel",
+        "Lizabeth A. Goldstein",
+        "Andrew D. Krystal",
+        "Susan M. Landau",
+        "D. Tosun",
+        "Meryl A. Butters",
+        "Paul S. Aisen",
+        "Rema Raman",
+        "A. Toga",
+        "C. Jack",
+        "J. C. Nelson",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Depression severity and sleep efficiency's relationship with Aβ may be dependent on the presence of the APOE ɛ4 allele, which may partially explain mixed findings examining LLD as a risk factor for Alzheimer's disease.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/26186a1e938af73f2abcbf1836d0803d6758deae?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "000505f808dba0bddf1e395f633b60d2891bc974",
+      "title": "2.49 Interaction of Cannabis and Family History of Psychosis Predicts Conversion to Psychosis at Long-Term Follow-Up in Clinical High-Risk Youth",
+      "journal": "Journal of the American Academy of Child &amp; Adolescent Psychiatry",
+      "year": 2026,
+      "date": "2026-10-01",
+      "doi": "10.1016/j.jaac.2026.08.159",
+      "url": "https://doi.org/10.1016/j.jaac.2026.08.159",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/000505f808dba0bddf1e395f633b60d2891bc974",
+      "authors": [
+        "Erick Regalado",
+        "Tara H. Trujillo",
+        "J. Addington",
+        "C. Bearden",
+        "T. Cannon",
+        "R. Carrión",
+        "Matcheri Keshevan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods",
+        "K. Cadenhead"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/000505f808dba0bddf1e395f633b60d2891bc974?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "fcf611d4354d9d5e99259957c3f50f4daea731cd",
+      "title": "Unraveling Suicidal Ideation and Behaviors in a Global Cohort of Individuals at Clinical High-Risk for Psychosis: Multivariable Correlates and Subthreshold Psychotic Symptoms",
+      "journal": "Acta Psychiatrica Scandinavica",
+      "year": 2026,
+      "date": "2026-09-11",
+      "doi": "10.1111/acps.70138",
+      "url": "https://doi.org/10.1111/acps.70138",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/fcf611d4354d9d5e99259957c3f50f4daea731cd",
+      "authors": [
+        "S. Damiani",
+        "M. Orlandi",
+        "U. Provenzani",
+        "E. Bortolin",
+        "Margherita Rovida",
+        "R. Stefanelli",
+        "J. Addington",
+        "L. Alameda",
+        "C. Arango",
+        "N. Breitborde",
+        "Matthew R. Broome",
+        "K. Cadenhead",
+        "Monica E. Calkins",
+        "R. Carrión",
+        "Rolando I. Castillo-Passi",
+        "E. Y. H. Chen",
+        "Jimmy Choi",
+        "P. Conus",
+        "B. Cornblatt",
+        "C. Díaz-Caneja",
+        "L. Ellman",
+        "Abigayle Fogarty",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "L. Glenthøj",
+        "Leslie E. Horton",
+        "C. Hui",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic",
+        "M. Keshavan",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "Nikolaos Koutsouleris",
+        "Z. Kristof",
+        "J. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "D. Mathalon",
+        "V. Mittal",
+        "Josh Nguyen",
+        "M. Nordentoft",
+        "Godfrey D. Pearlson",
+        "N. Penzel",
+        "Jesús Pérez",
+        "D. Perkins",
+        "A. Powers",
+        "J. Rogers",
+        "Fred W. Sabb",
+        "Jason Schiffman",
+        "J. Shah",
+        "S. Silverstein",
+        "Stefan Smesny",
+        "William S. Stone",
+        "G. Strauss",
+        "Judy L. Thompson",
+        "R. Upthegrove",
+        "S. Verma",
+        "Cassandra M. J. Wannan",
+        "Ji-Jun Wang",
+        "H. Wastler",
+        "Daniel H. Wolf",
+        "Tian-Hong Zhang",
+        "S. Bouix",
+        "Cheryl M. Corcoran",
+        "Tina Kapur",
+        "O. Pasternak",
+        "C. Bearden",
+        "René S. Kahn",
+        "John M. Kane",
+        "P. McGorry",
+        "Barnaby Nelson",
+        "M. Shenton",
+        "S. W. Woods",
+        "P. Fusar-Poli"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "SIB in CHR-P individuals reflects a multidimensional clinical profile primarily outside of core psychosis-risk symptoms, and overall subthreshold psychotic symptoms across the SIB spectrum indicate increasing overall subthreshold psychotic symptoms across the SIB spectrum.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/fcf611d4354d9d5e99259957c3f50f4daea731cd?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "dd1afc91c4af07376a57f8bb4a89c602fed0ec1e",
+      "title": "External validation and refinement of the Psychosis Polyrisk Score to detect individuals at clinical high risk for psychosis",
+      "journal": "BMJ mental health",
+      "year": 2026,
+      "date": "2026-09-01",
+      "doi": "10.1136/bmjment-2026-302838",
+      "url": "https://doi.org/10.1136/bmjment-2026-302838",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/dd1afc91c4af07376a57f8bb4a89c602fed0ec1e",
+      "authors": [
+        "R. Stefanelli",
+        "Dominic Oliver",
+        "S. Damiani",
+        "M. Orlandi",
+        "U. Provenzani",
+        "E. Bortolin",
+        "Margherita Rovida",
+        "J. Addington",
+        "Luis Alameda",
+        "C. Arango",
+        "N. Breitborde",
+        "Matthew R. Broome",
+        "K. Cadenhead",
+        "Monica E. Calkins",
+        "R. Carrión",
+        "Rolando I. Castillo-Passi",
+        "Yu Hai Eric Chen",
+        "Jimmy Choi",
+        "P. Conus",
+        "B. Cornblatt",
+        "C. Díaz-Caneja",
+        "L. Ellman",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "Louise Birkedal Glenthøj",
+        "L. Horton",
+        "C. Hui",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic",
+        "M. Keshavan",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "Nikolaos Koutsouleris",
+        "J. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "D. Mathalon",
+        "V. Mittal",
+        "M. Nordentoft",
+        "G. Pearlson",
+        "N. Penzel",
+        "Jesús Pérez",
+        "D. Perkins",
+        "A. Powers",
+        "Jack R. Rogers",
+        "Fred W. Sabb",
+        "J. Schiffman",
+        "J. Shah",
+        "S. Silverstein",
+        "Stefan Smesny",
+        "William S. Stone",
+        "G. P. Strauss",
+        "Judy L. Thompson",
+        "R. Upthegrove",
+        "S. Verma",
+        "Ji-Jun Wang",
+        "Daniel H. Wolf",
+        "Tian-Hong Zhang",
+        "S. Bouix",
+        "Cheryl M. Corcoran",
+        "Tina Kapur",
+        "O. Pasternak",
+        "C. Bearden",
+        "René S. Kahn",
+        "John M. Kane",
+        "P. McGorry",
+        "Barnaby Nelson",
+        "M. Shenton",
+        "S. W. Woods",
+        "P. Fusar-Poli"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The PPS showed good generalisability to a large, independent sample, and performance improved after model refinement, suggesting it represents a potential scalable tool within stepped assessment frameworks for identifying individuals who warrant further CHR-P assessment.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/dd1afc91c4af07376a57f8bb4a89c602fed0ec1e?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "5a6d45d45bb507acec52e4993f4c79685701578c",
+      "title": "Epigenetic C-Reactive Protein and Corticolimbic Gray Matter Volume in Youth at Clinical High Risk for Psychosis",
+      "journal": "Brain, behavior, and immunity",
+      "year": 2026,
+      "date": "2026-09-01",
+      "doi": "10.1016/j.bbi.2026.107036",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107036",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/5a6d45d45bb507acec52e4993f4c79685701578c",
+      "authors": [
+        "B. Ku",
+        "Ying Xu",
+        "David R. Goldsmith",
+        "C. Sawyers",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "R. Carrión",
+        "M. Keshavan",
+        "D. Mathalon",
+        "W. Stone",
+        "S. Woods",
+        "Elaine F. Walker",
+        "D. Perkins",
+        "A. Bozack"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "This study is the first to show that epigenetic CRP is associated with corticolimbic structural differences in CHR-P and HC youth, suggesting that epigenetic CRP may capture inflammation-related neurostructural variation relevant to psychosis risk.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/5a6d45d45bb507acec52e4993f4c79685701578c?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "cc7012e87efb494fc26237eddda3ecbc69584efd",
+      "title": "Right hippocampal volume and attenuated psychotic symptoms distinguish subgroups of youth with common patterns of temporoparietal effective connectivity",
+      "journal": "Brain Structure and Function",
+      "year": 2026,
+      "date": "2026-08-08",
+      "doi": "10.1007/s00429-026-03161-1",
+      "url": "https://doi.org/10.1007/s00429-026-03161-1",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/cc7012e87efb494fc26237eddda3ecbc69584efd",
+      "authors": [
+        "K. Aberizk",
+        "B. Ku",
+        "Heng-Yi Cao",
+        "C. Schleifer",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "R. Carrión",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "S. Woods",
+        "Elaine F. Walker"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/cc7012e87efb494fc26237eddda3ecbc69584efd?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "82f7fe907b4d197345b0f4d0670bde687cc5740f",
+      "title": "Corrigendum to \"The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography\" [Neuroscience 609C (2026) 58-68]",
+      "journal": "Neuroscience",
+      "year": 2026,
+      "date": "2026-07-15",
+      "doi": "10.1016/j.neuroscience.2026.06.041",
+      "url": "https://doi.org/10.1016/j.neuroscience.2026.06.041",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/82f7fe907b4d197345b0f4d0670bde687cc5740f",
+      "authors": [
+        "W. Torrens",
+        "Skylor Olshefsky",
+        "Rasia B. Yankaway",
+        "Michelle Ruiz",
+        "Kensal G. Coudriet",
+        "Mia K Price",
+        "Stephanie Otto",
+        "Sarah M. Haigh"
+      ],
+      "labMembers": [
+        "Wendy Torrens"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/82f7fe907b4d197345b0f4d0670bde687cc5740f?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.0
+    },
+    {
+      "id": "bfd0a60eab2e62c91c3d610b062cd591879590a2",
+      "title": "Reward pursuit during a translational reward task correlates with anhedonia reductions following rTMS in patients with major depressive disorder",
+      "journal": "Translational Psychiatry",
+      "year": 2026,
+      "date": "2026-07-10",
+      "doi": "10.1038/s41398-026-04248-3",
+      "url": "https://doi.org/10.1038/s41398-026-04248-3",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/bfd0a60eab2e62c91c3d610b062cd591879590a2",
+      "authors": [
+        "Samantha V. Abram",
+        "A. McInnes",
+        "Christi R. P. Sullivan",
+        "Dawson C. Cooper",
+        "Brian M. Sweis",
+        "A. Widge"
+      ],
+      "labMembers": [
+        "Samantha Abram"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "A novel translational reward-pursuit metric is presented that correlates with anhedonia reductions following rTMS therapy and shows promise for tracking clinical treatment response in depression.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/bfd0a60eab2e62c91c3d610b062cd591879590a2?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.0
+    },
+    {
+      "id": "700584be4a9397a2b3bd6e285ae9e331c4661b39",
+      "title": "Relationship among Sleep Disturbance, Stress, and Suicidal Ideation in Clinical High Risk for Psychosis",
+      "journal": "Schizophrenia Bulletin Open",
+      "year": 2026,
+      "date": "2026-07-08",
+      "doi": "10.1093/schizbullopen/sgag024",
+      "url": "https://doi.org/10.1093/schizbullopen/sgag024",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/700584be4a9397a2b3bd6e285ae9e331c4661b39",
+      "authors": [
+        "H. Wastler",
+        "Aubrey M. Moe",
+        "Alexandra M Blouin",
+        "M. Bozzay",
+        "Melissa F. V. Kilicoglu",
+        "C. Arango",
+        "S. Bouix",
+        "Matthew R. Broome",
+        "Monica E. Calkins",
+        "P. Conus",
+        "Cheryl M. Corcoran",
+        "Courtney Crawford",
+        "C. Díaz-Caneja",
+        "S. Damiani",
+        "P. Fusar-Poli",
+        "M. Keshavan",
+        "V. Mittal",
+        "Josh Nguyen",
+        "J. Schiffman",
+        "J. Shah",
+        "W. Yassin",
+        "A. Yung",
+        "J. Addington",
+        "L. Alameda",
+        "K. Cadenhead",
+        "R. Carrión",
+        "Rolando I. Castillo-Passi",
+        "E. Y. H. Chen",
+        "Jimmy Choi",
+        "B. Cornblatt",
+        "L. Ellman",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "L. Glenthøj",
+        "Leslie E. Horton",
+        "C. Hui",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "Nikolaos Koutsouleris",
+        "J. S. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "D. Mathalon",
+        "M. Nordentoft",
+        "G. Pearlson",
+        "Jesús Pérez",
+        "D. Perkins",
+        "A. Powers",
+        "Jack C. Rogers",
+        "Fred W. Sabb",
+        "S. Silverstein",
+        "Stefan Smesny",
+        "William S. Stone",
+        "G. Strauss",
+        "Judy L. Thompson",
+        "Rachel Upthegrove",
+        "S. Verma",
+        "Ji-Jun Wang",
+        "Daniel H. Wolf",
+        "Tian-Hong Zhang",
+        "O. Pasternak",
+        "René S. Kahn",
+        "M. Shenton",
+        "P. McGorry",
+        "Barnaby Nelson",
+        "John M. Kane",
+        "C. Bearden",
+        "S. W. Woods",
+        "N. Breitborde"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "A relationship between sleep disturbance and suicidal ideation/attempts in CHR is supported, with participants who had lifetime ideation and attempts experiencing more sleep disturbance than those with no ideation or attempts.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/700584be4a9397a2b3bd6e285ae9e331c4661b39?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "380cd1b075f90e3cb2ca00115fadb2cf29fd1ff5",
+      "title": "Social and Role Functioning in the Psychosis Risk Syndrome: Moving Beyond Symptoms for Predicting Psychosis Onset",
+      "journal": "Schizophrenia bulletin",
+      "year": 2026,
+      "date": "2026-07-03",
+      "doi": "10.1093/schbul/sbaf228",
+      "url": "https://doi.org/10.1093/schbul/sbaf228",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/380cd1b075f90e3cb2ca00115fadb2cf29fd1ff5",
+      "authors": [
+        "R. Carrión",
+        "Andrea M. Auther",
+        "Danielle McLaughlin",
+        "Mitchell D Arnovitz",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Poor baseline social, but not role functioning independently predicted time to psychosis onset, underscoring its importance as a prognostic marker in the early identification of psychosis risk.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/380cd1b075f90e3cb2ca00115fadb2cf29fd1ff5?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "2546d4720e23f194d86c0f252da91e82622ae006",
+      "title": "Processing Speed and Verbal Learning Ability as Predictors of Assessor-Rated and Ecological Momentary Assessment Self-Reported Functioning: Findings from AMP® SCZ",
+      "journal": "Schizophrenia bulletin",
+      "year": 2026,
+      "date": "2026-07-03",
+      "doi": "10.1093/schbul/sbag056",
+      "url": "https://doi.org/10.1093/schbul/sbag056",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/2546d4720e23f194d86c0f252da91e82622ae006",
+      "authors": [
+        "D. Pratt",
+        "Kathryn E. Lewandowski",
+        "Hannah Hacker",
+        "L. Kambeitz-Ilankovic",
+        "W. Yassin",
+        "J. Shah",
+        "K. Allott",
+        "William S. Stone",
+        "J. Addington",
+        "A. Yung",
+        "Trevor F. Williams",
+        "Henry R. Cowan",
+        "Si-Yan He",
+        "J. Schiffman",
+        "R. Carrión",
+        "J. Torous",
+        "P. Fusar-Poli",
+        "M. Lepage",
+        "Sung-Wan Kim",
+        "S. Verma",
+        "M. Nordentoft",
+        "L. Glenthøj",
+        "Stefan Smesny",
+        "P. Conus",
+        "Matthew R. Broome",
+        "C. Hui",
+        "Fred W. Sabb",
+        "D. Perkins",
+        "A. Powers",
+        "Monica E. Calkins",
+        "Daniel H. Wolf",
+        "Cheryl M. Corcoran",
+        "Leslie E. Horton",
+        "L. Ellman",
+        "G. Strauss",
+        "D. Mamah",
+        "G. Pearlson",
+        "Jimmy Choi",
+        "Minah Kim",
+        "J. Kambeitz",
+        "Pablo A. Gaspar",
+        "D. Mathalon",
+        "K. Cadenhead",
+        "Jesús Pérez",
+        "C. Arango",
+        "N. Koutsouleris",
+        "S. Silverstein",
+        "N. Breitborde",
+        "S. Bouix",
+        "Justin T. Baker",
+        "Tina Kapur",
+        "O. Pasternak",
+        "René S. Kahn",
+        "Guillermo A. Cecchi",
+        "Michael J. Coleman",
+        "John M. Kane",
+        "P. McGorry",
+        "C. Bearden",
+        "Barnaby Nelson",
+        "M. Shenton",
+        "S. Woods",
+        "V. Mittal"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/2546d4720e23f194d86c0f252da91e82622ae006?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "a36394944b131c308b8a208f9d773b1e309e8877",
+      "title": "Metabolic Improvements with a Ketogenic Diet Correlate with Symptom Improvement in Psychosis: A Randomized Controlled Trial",
+      "journal": "Schizophrenia bulletin",
+      "year": 2026,
+      "date": "2026-07-01",
+      "doi": "10.1093/schbul/sbag082",
+      "url": "https://doi.org/10.1093/schbul/sbag082",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/a36394944b131c308b8a208f9d773b1e309e8877",
+      "authors": [
+        "Samantha V. Abram",
+        "J. Kyner",
+        "A. Vũ",
+        "Zanib Naeem",
+        "Shebani Sethi",
+        "M. Jacob",
+        "Susanna L. Fryer",
+        "D. Mathalon",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Juliette Kyner",
+        "Michael Jacob",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 1,
+      "preprint": false,
+      "automatedSummary": "Improvement in depressive symptoms was associated with ketosis rather than weight loss, implicating ketosis as the therapeutic mechanism, and feasibility of administering a KETO in outpatients with schizophrenia and bipolar-1 disorder is demonstrated.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/a36394944b131c308b8a208f9d773b1e309e8877?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 29.773
+    },
+    {
+      "id": "6dec55adc83ac72e9498768e6cf29233e7c9d313",
+      "title": "Association Between Social and Role Functioning and Transition to Psychosis in the North American Prodrome Longitudinal Study Consortium",
+      "journal": "Schizophrenia bulletin",
+      "year": 2026,
+      "date": "2026-07-01",
+      "doi": "10.1093/schbul/sbaf258",
+      "url": "https://doi.org/10.1093/schbul/sbaf258",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/6dec55adc83ac72e9498768e6cf29233e7c9d313",
+      "authors": [
+        "J. Addington",
+        "Monica Chu",
+        "Lu Liu",
+        "R. Heinssen",
+        "Andrea M. Auther",
+        "C. Bearden",
+        "T. Cannon",
+        "R. Carrión",
+        "Matcheri Keshevan",
+        "D. Mathalon",
+        "T. Mcglashan",
+        "D. Perkins",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "K. Cadenhead"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "These results underscore the significance of social and role functioning in predicting subsequent transition to psychosis in CHR participants, suggesting an underlying vulnerability that is possibly independent of clinical symptoms.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/6dec55adc83ac72e9498768e6cf29233e7c9d313?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "0c0244662cf631c12fd2da9f53e6e99e269e4f47",
+      "title": "Converting negative symptom dimension scores across SANS and PANSS",
+      "journal": "Schizophrenia Research",
+      "year": 2026,
+      "date": "2026-06-29",
+      "doi": "10.1016/j.schres.2026.06.019",
+      "url": "https://doi.org/10.1016/j.schres.2026.06.019",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/0c0244662cf631c12fd2da9f53e6e99e269e4f47",
+      "authors": [
+        "S. O. M. Vijayakumar Kamalakannan",
+        "Jaylen Lee",
+        "A. Lella",
+        "A. Belger",
+        "J. Bustillo",
+        "D. Mathalon",
+        "Judith M. Ford",
+        "K. Lim",
+        "Adrian Preda",
+        "S. Potkin",
+        "Anthony O. Ahmed",
+        "G. P. Strauss",
+        "V. Calhoun",
+        "Jessica A. Turner",
+        "T. V. van Erp"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/0c0244662cf631c12fd2da9f53e6e99e269e4f47?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 8.0
+    },
+    {
+      "id": "5e3b65e26f54970033ad16b2865c7afe8397af48",
+      "title": "Exploring Group Differences in Attenuated Symptoms and Functioning Between Clinical High‐Risk Individuals With and Without Posttraumatic Stress Disorder",
+      "journal": "Early Intervention in Psychiatry",
+      "year": 2026,
+      "date": "2026-06-24",
+      "doi": "10.1111/eip.70188",
+      "url": "https://doi.org/10.1111/eip.70188",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/5e3b65e26f54970033ad16b2865c7afe8397af48",
+      "authors": [
+        "Danielle Pham",
+        "L. Kennedy",
+        "J. Addington",
+        "C. Bearden",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods",
+        "K. Cadenhead"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "A large number of youth at clinical high risk (CHR) for psychosis are diagnosed with PTSD, and the effect of PTSD in youth at clinical high risk (CHR) for psychosis is unknown.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/5e3b65e26f54970033ad16b2865c7afe8397af48?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "4a350fa198cddd7f1c63c2e507ac72bee8f0ac52",
+      "title": "Association of Fetal Gene Regulatory Gene Deletions With Poor Cognition in Schizophrenia and Community-Based Samples",
+      "journal": "American Journal of Psychiatry",
+      "year": 2026,
+      "date": "2026-06-24",
+      "doi": "10.1176/appi.ajp.20240779",
+      "url": "https://doi.org/10.1176/appi.ajp.20240779",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/4a350fa198cddd7f1c63c2e507ac72bee8f0ac52",
+      "authors": [
+        "Jennifer K. Forsyth",
+        "Jin-Han Zhu",
+        "A. Chavannes",
+        "Z. Trevorrow",
+        "M. Hyat",
+        "S. Sievertsen",
+        "S. Ferreira-Ianone",
+        "Matthew P. Conomos",
+        "Keith H. Nuechterlein",
+        "Robert F. Asarnow",
+        "M. F. Green",
+        "Katherine H. Karlsgodt",
+        "D. Perkins",
+        "T. Cannon",
+        "J. Addington",
+        "K. Cadenhead",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "K. Narr",
+        "S. McEwen",
+        "C. Schleifer",
+        "Cindy M. Yee",
+        "Caroline K. Diehl",
+        "Anika Guha",
+        "Gregory A. Miller",
+        "A. Alexander-Bloch",
+        "Zhiqiang Sha",
+        "Joe Glessner",
+        "J. Seidlitz",
+        "R. Bethlehem",
+        "R. Ophoff",
+        "C. Bearden"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The study results confirm contributions of known risk CNVs to severe phenotypes in SSDs, implicate disrupted fetal brain development in poor cognition, and demonstrate the utility of a neurodevelopmental framework for identifying mechanisms underlying severe SSD-relevant phenotypes.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/4a350fa198cddd7f1c63c2e507ac72bee8f0ac52?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 8.386
+    },
+    {
+      "id": "d757b179e20e22fcb28ce8100903d3d843aeb2ec",
+      "title": "Social Determinants of Health and Neurobiology Across the Schizophrenia Course: A Systematic Review",
+      "journal": "JAMA psychiatry",
+      "year": 2026,
+      "date": "2026-06-17",
+      "doi": "10.1001/jamapsychiatry.2026.1312",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2026.1312",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/d757b179e20e22fcb28ce8100903d3d843aeb2ec",
+      "authors": [
+        "Jessica P Y Hua",
+        "Kaitlyn Dal Bon"
+      ],
+      "labMembers": [
+        "Jessica Hua"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Strong evidence that greater exposure to adverse SDOHs may be associated with neurobiological abnormalities, including cortical thinning, regional brain volume reduction, decreased structural connectivity and functional activation, and abnormal neurochemical levels was found.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/d757b179e20e22fcb28ce8100903d3d843aeb2ec?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 14.386
+    },
+    {
+      "id": "328854ebec08807bf87714af31f2018f28130dfd",
+      "title": "A primer on corollary discharges: neural signals that distinguish ‘Self’ from ‘World’",
+      "journal": "NPP—Digital Psychiatry and Neuroscience",
+      "year": 2026,
+      "date": "2026-06-11",
+      "doi": "10.1038/s44277-026-00063-2",
+      "url": "https://doi.org/10.1038/s44277-026-00063-2",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/328854ebec08807bf87714af31f2018f28130dfd",
+      "authors": [
+        "T. Whitford",
+        "Judith Ford"
+      ],
+      "labMembers": [
+        "Judith Ford"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/328854ebec08807bf87714af31f2018f28130dfd?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.0
+    },
+    {
+      "id": "45f6b9e12c4fc6dd5c9c7646c40ecdcb96ecd013",
+      "title": "No objective evidence of neuropsychological deficits in people with subjective cognitive changes following COVID-19 infection",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "date": "2026-06-04",
+      "doi": "10.64898/2026.06.03.723612",
+      "url": "https://doi.org/10.64898/2026.06.03.723612",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/45f6b9e12c4fc6dd5c9c7646c40ecdcb96ecd013",
+      "authors": [
+        "Samantha V. Abram",
+        "Kaitlyn Dal Bon",
+        "D. Mathalon",
+        "Susanna L. Fryer",
+        "Sarah Song",
+        "Zanib Naeem",
+        "Norina Tang",
+        "L. Pulliam",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "Subjective cognitive complaints following COVID-19 were not accompanied by measurable neuropsychological deficits but were linked to elevated affective symptoms and biological risk markers, and suggest that inflammatory, genetic, and affective factors may shape self-perceived decline.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/45f6b9e12c4fc6dd5c9c7646c40ecdcb96ecd013?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 16.0
+    },
+    {
+      "id": "a64adfb6a367b6b3d96376d94dfd891d7c937ed5",
+      "title": "Electroencephalography Microstate Instability and Clinical Outcomes in Individuals at Clinical High Risk of Psychosis",
+      "journal": "JAMA psychiatry",
+      "year": 2026,
+      "date": "2026-06-03",
+      "doi": "10.1001/jamapsychiatry.2026.1084",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2026.1084",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/a64adfb6a367b6b3d96376d94dfd891d7c937ed5",
+      "authors": [
+        "Matthias Liebrand",
+        "H. Hamilton",
+        "B. Roach",
+        "S. Nicholas",
+        "P. Bachman",
+        "A. Belger",
+        "R. Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "Gregory A. Light",
+        "M. Niznikiewicz",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods",
+        "T. Cannon",
+        "Thomas Koenig",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "EEG microstate stability, irrespective of class, was reduced in individuals at CHR compared to HC participants and was especially diminished in future CHR converters, suggesting that instability may at least partly reflect a compensatory mechanism for attention deficits.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/a64adfb6a367b6b3d96376d94dfd891d7c937ed5?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 24.197
+    },
+    {
+      "id": "1227f8cb3674981705dd9965e39cbe6f355cdcee",
+      "title": "The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography",
+      "journal": "Neuroscience",
+      "year": 2026,
+      "date": "2026-06-01",
+      "doi": "10.1016/j.neuroscience.2026.05.041",
+      "url": "https://doi.org/10.1016/j.neuroscience.2026.05.041",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/1227f8cb3674981705dd9965e39cbe6f355cdcee",
+      "authors": [
+        "W. Torrens",
+        "Skylor Olshefsky",
+        "Rasia B. Yankaway",
+        "Michelle Ruiz",
+        "Kensal G. Coudriet",
+        "Mia K Price",
+        "Stephanie Otto",
+        "Sarah M. Haigh"
+      ],
+      "labMembers": [
+        "Wendy Torrens"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The UE-C performed similarly to the SEVO clip, without braiding requirements and accommodating various hairstyles without requiring braiding procedures, and offered a step forward toward correcting the hair bias in EEG methodology.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/1227f8cb3674981705dd9965e39cbe6f355cdcee?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.0
+    },
+    {
+      "id": "ca8075fa491975b1e509930788267776be62e7d8",
+      "title": "Tobacco Use is Related to Parietal-Hippocampal Connectivity in People at Clinical High Risk for Psychosis",
+      "journal": "medRxiv",
+      "year": 2026,
+      "date": "2026-05-28",
+      "doi": "10.64898/2026.05.26.26354136",
+      "url": "https://doi.org/10.64898/2026.05.26.26354136",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ca8075fa491975b1e509930788267776be62e7d8",
+      "authors": [
+        "Yu-Nong Bai",
+        "Maxwell J. Roeske",
+        "A. Beermann",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "R. Carrión",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "L. Seidman",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "R. Brady",
+        "H. Ward"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "More frequent tobacco use was associated with higher DMN-hippocampal connectivity in both CHR-P and controls, and CHR-P diagnosis enhanced this relationship.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ca8075fa491975b1e509930788267776be62e7d8?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 3.0
+    },
+    {
+      "id": "8163927142799e97cc592f07a24f601d3acc0660",
+      "title": "Schizophrenia Disrupts Normative Covariation of Neural Activity Across Modalities of Perception",
+      "journal": "Journal of Psychopathology and Clinical Science",
+      "year": 2026,
+      "date": "2026-05-11",
+      "doi": "10.1037/abn0001128",
+      "url": "https://doi.org/10.1037/abn0001128",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/8163927142799e97cc592f07a24f601d3acc0660",
+      "authors": [
+        "Kayla R. Donaldson",
+        "Julia Hanson",
+        "Victor J. Pokorny",
+        "Chen Shen",
+        "Samuel D. Klein",
+        "H. K. Hamilton",
+        "S. Sponheim"
+      ],
+      "labMembers": [
+        "Holly Hamilton"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/8163927142799e97cc592f07a24f601d3acc0660?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "1ed490c5710201229eaed73bde76769fa1297cc2",
+      "title": "The Dynamics of Psychopathology, Cognitive Performance and Functioning in Individuals at Clinical High Risk for Psychosis: A Network Analysis of Ambulatory Assessments in a Prospective Longitudinal Cohort (Preprint)",
+      "journal": "JMIR Mental Health",
+      "year": 2026,
+      "date": "2026-05-07",
+      "doi": "10.2196/100370",
+      "url": "https://doi.org/10.2196/100370",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/1ed490c5710201229eaed73bde76769fa1297cc2",
+      "authors": [
+        "Hannah Hacker",
+        "J. Hartmann",
+        "Annkathrin Böke",
+        "J. Wigman",
+        "D. Pratt",
+        "V. A. Mittal",
+        "K. Allott",
+        "Justin T. Baker",
+        "Dominic B. Dwyer",
+        "Habiballah Rahimi Eichi",
+        "Grace R. Jacobs",
+        "Dimitrios Kiakos",
+        "Isabelle Scott",
+        "W. Stone",
+        "J. Torous",
+        "S. Vieira",
+        "Cassandra M. J. Wannan",
+        "Stephen J. Wood",
+        "J. Addington",
+        "L. Alameda",
+        "C. Arango",
+        "N. Breitborde",
+        "Matthew R. Broome",
+        "K. Cadenhead",
+        "Monica E. Calkins",
+        "R. Carrión",
+        "Rolando I. Castillo-Passi",
+        "E. Y. H. Chen",
+        "Jimmy Choi",
+        "P. Conus",
+        "B. Cornblatt",
+        "C. Díaz-Caneja",
+        "L. Ellman",
+        "P. Fusar-Poli",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "Louise Birkedal Glenthøj",
+        "Leslie E. Horton",
+        "C. Hui",
+        "M. Keshavan",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "Nikolaos Koutsouleris",
+        "J. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "D. Mathalon",
+        "M. Nordentoft",
+        "G. Pearlson",
+        "Jesús Pérez",
+        "D. Perkins",
+        "A. Powers",
+        "Jack C. Rogers",
+        "F. Sabb",
+        "Jason Schiffman",
+        "J. Shah",
+        "Steven M. Silverstein",
+        "Stefan Smesny",
+        "G. Strauss",
+        "Judy L. Thompson",
+        "R. Upthegrove",
+        "S. Verma",
+        "Ji-Jun Wang",
+        "Daniel H. Wolf",
+        "Tian-Hong Zhang",
+        "S. Bouix",
+        "Cheryl M. Corcoran",
+        "Tina Kapur",
+        "O. Pasternak",
+        "C. Bearden",
+        "René S. Kahn",
+        "John M. Kane",
+        "P. McGorry",
+        "M. Shenton",
+        "S. Woods",
+        "Barnaby Nelson",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/1ed490c5710201229eaed73bde76769fa1297cc2?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "73b6dade2b1b6be880bb0c2579572269bebef8c7",
+      "title": "Loss of Pyramidal Neuron Excitability is Present From the Prodrome in Psychosis, but may not be Common to All Subgroups Within the Psychosis Spectrum",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.045",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.045",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/73b6dade2b1b6be880bb0c2579572269bebef8c7",
+      "authors": [
+        "Rick A. Adams",
+        "D. Hauke",
+        "Julia Rodriguez-Sanchez",
+        "Hope Oloye",
+        "David Parker",
+        "Godfrey Pearlson",
+        "M. Keshavan",
+        "E. Gershon",
+        "S. Keedy",
+        "S. Nicholas",
+        "H. Hamilton",
+        "B. Roach",
+        "S. Woods",
+        "K. Friston",
+        "D. Pinotsis",
+        "T. Cannon",
+        "B. Clementz",
+        "C. Tamminga",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/73b6dade2b1b6be880bb0c2579572269bebef8c7?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 20.0
+    },
+    {
+      "id": "409dccb50591735d0779cb6f47f1190803138bd8",
+      "title": "Gray Matter Volume Predicts Improvement in Depression Symptoms Following Psychotherapy in Late Life Depression",
+      "journal": "The American journal of geriatric psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.jagp.2026.05.014",
+      "url": "https://doi.org/10.1016/j.jagp.2026.05.014",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/409dccb50591735d0779cb6f47f1190803138bd8",
+      "authors": [
+        "Maria Kryza-Lacombe",
+        "M. Kassel",
+        "P. Insel",
+        "Craig Nelson",
+        "D. Tosun",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Better gray matter volume prior to therapy is associated with a greater likelihood of depression symptom improvement following psychotherapy, and nucleus accumbens volume should be evaluated as a potential biomarker of psychotherapy treatment response.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/409dccb50591735d0779cb6f47f1190803138bd8?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 14.386
+    },
+    {
+      "id": "d303330c0083c3473e441c49f8d4dc7d77edc74a",
+      "title": "Cannabis and tobacco co-use predicts psychosis in clinical high risk cohorts",
+      "journal": "Nature Mental Health",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1038/s44220-026-00648-y",
+      "url": "https://doi.org/10.1038/s44220-026-00648-y",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/d303330c0083c3473e441c49f8d4dc7d77edc74a",
+      "authors": [
+        "Daniel Bello",
+        "S. Blyth",
+        "Rachel A Rabin",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "R. Carrión",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "L. Seidman",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "R. Brady",
+        "H. Ward"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "In individuals at clinical high risk for psychosis, the concurrent use of cannabis and tobacco predicted an elevated risk of transitioning to psychosis, and heavy cannabis use combined with light tobacco use was linked to a threefold increase in the risk of transition.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/d303330c0083c3473e441c49f8d4dc7d77edc74a?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "ef227be3d2acba14b98c18ec63bf6aec7a6ae0ee",
+      "title": "746. Distinct Pathways From Early Adversity to Poor Functioning in High-Risk Youth: The Roles of MMN and Neurocognition",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.980",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.980",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ef227be3d2acba14b98c18ec63bf6aec7a6ae0ee",
+      "authors": [
+        "Ricardo Carrión",
+        "Sarah Dorvil",
+        "Andrea M. Auther",
+        "Danielle McLaughlin",
+        "Benson S. Ku",
+        "P. Bachman",
+        "A. Belger",
+        "E. Duncan",
+        "H. Hamilton",
+        "J. Johannesen",
+        "G. Light",
+        "M. Niznikiewicz",
+        "B. Roach",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "M. Keshavan",
+        "D. Perkins",
+        "W. Stone",
+        "E. Walker",
+        "S. Woods",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ef227be3d2acba14b98c18ec63bf6aec7a6ae0ee?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 17.0
+    },
+    {
+      "id": "98a7ce5d4f4dc1effec54faaa40501d181c55223",
+      "title": "744. Neural Habituation Deficits in Clinical High-Risk Youth: Evidence From Auditory and Visual P300 Event-Related Potentials (ERP) in the Accelerating Medicines Partnership® Schizophrenia Project",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.978",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.978",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/98a7ce5d4f4dc1effec54faaa40501d181c55223",
+      "authors": [
+        "Carlos Carrasco",
+        "G. Light",
+        "S. Nicholas",
+        "S. Lavoie",
+        "Thomas Whitford",
+        "B. Roach",
+        "H. Hamilton",
+        "René S. Kahn",
+        "P. McGorry",
+        "John Kane",
+        "C. Bearden",
+        "Barnaby Nelson",
+        "S. Woods",
+        "M. Shenton",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/98a7ce5d4f4dc1effec54faaa40501d181c55223?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 22.0
+    },
+    {
+      "id": "b07e4f8b6a455f336e2fef86458342239a8b62de",
+      "title": "664. Social Daily Stress, Epigenetic Age Acceleration, and Conversion to Psychosis Among Adolescents at Clinical High Risk for Psychosis",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.898",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.898",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/b07e4f8b6a455f336e2fef86458342239a8b62de",
+      "authors": [
+        "Benson S. Ku",
+        "Ying Xu",
+        "E. Arrant",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "Ricardo Carrión",
+        "M. Keshavan",
+        "D. Mathalon",
+        "W. Stone",
+        "S. Woods",
+        "E. Walker",
+        "D. Perkins",
+        "A. Huels",
+        "Anne Bozack"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/b07e4f8b6a455f336e2fef86458342239a8b62de?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "619232fd67e2e1657c85bd7c7a7134ddb36f0149",
+      "title": "645. Cognitive Function and EEG Correlates in Clinical High-Risk for Psychosis: A Canonical Correlation Analysis of NAPLS2 Data",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.879",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.879",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/619232fd67e2e1657c85bd7c7a7134ddb36f0149",
+      "authors": [
+        "J. Hua",
+        "B. Roach",
+        "H. Hamilton",
+        "P. Bachman",
+        "A. Belger",
+        "Ricardo Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "G. Light",
+        "M. Niznikiewicz",
+        "Daniel I. Shapiro",
+        "Kristen A. Woodberry",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "B. Cornblatt",
+        "D. Perkins",
+        "W. Stone",
+        "E. Walker",
+        "S. Woods",
+        "T. Cannon",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Jessica Hua"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/619232fd67e2e1657c85bd7c7a7134ddb36f0149?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 22.0
+    },
+    {
+      "id": "406f955615384ec0568858d409c50c1a3448b79c",
+      "title": "631. Clinical and Neuroanatomical Variability Across Psychotic Diagnoses",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.865",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.865",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/406f955615384ec0568858d409c50c1a3448b79c",
+      "authors": [
+        "Z. Trevorrow",
+        "A. Chavannes",
+        "S. Ferreira-Ianone",
+        "Jinhan Zhu",
+        "Keith H. Nuechterlein",
+        "Robert F. Asarnow",
+        "J. Addington",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "M. Tsuang",
+        "E. Walker",
+        "S. Woods",
+        "Katherine L. Narr",
+        "S. McEwen",
+        "R. Ophoff",
+        "C. Bearden",
+        "Jennifer K. Forsyth"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/406f955615384ec0568858d409c50c1a3448b79c?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "225ba5b7e295885b3e2922f24152113f42df39cc",
+      "title": "629. Longitudinal Relationships Between Cannabis and Tobacco Use and Psychiatric Symptoms in Individuals at Clinical High-Risk for Psychosis",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.863",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.863",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/225ba5b7e295885b3e2922f24152113f42df39cc",
+      "authors": [
+        "Yu-Nong Bai",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "Larry J. Seidman",
+        "W. Stone",
+        "M. Tsuang",
+        "E. Walker",
+        "S. Woods",
+        "Roscoe Brady",
+        "Ricardo Carrión",
+        "H. Ward"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/225ba5b7e295885b3e2922f24152113f42df39cc?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "9418c09d071dae36d52ffaf33dc0c94ee4f3aa16",
+      "title": "568. No Objective Evidence of Neuropsychological Deficits in People With Subjective Cognitive Deficits Following COVID-19 Infection",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.802",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.802",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/9418c09d071dae36d52ffaf33dc0c94ee4f3aa16",
+      "authors": [
+        "Kaitlyn Dal Bon",
+        "Samantha V. Abram",
+        "D. Mathalon",
+        "Susanna L. Fryer",
+        "Norina Tang",
+        "Sarah Song",
+        "Zanib Naeem",
+        "L. Pulliam",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/9418c09d071dae36d52ffaf33dc0c94ee4f3aa16?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 20.0
+    },
+    {
+      "id": "7083cf10014e2cb52f0e0aeafb9b00205c0167ac",
+      "title": "405. Posterior Default Mode Network Volume and Clinical Correlates of Suicidal Ideation in Late-Life Depression",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.639",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.639",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/7083cf10014e2cb52f0e0aeafb9b00205c0167ac",
+      "authors": [
+        "Maria Kryza-Lacombe",
+        "David Bickford",
+        "Joseph S. Goveas",
+        "Craig Nelson",
+        "P. Insel",
+        "Susanna L. Fryer",
+        "M. Kassel",
+        "Emma Rhodes",
+        "Ruth T. Morin",
+        "Edith Harris",
+        "Anita Shankar",
+        "Susan M. Landau",
+        "D. Tosun",
+        "M. Butters",
+        "P. Aisen",
+        "A. Toga",
+        "A. Saykin",
+        "C. Jack",
+        "M. Weiner",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/7083cf10014e2cb52f0e0aeafb9b00205c0167ac?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 14.0
+    },
+    {
+      "id": "b928db2b95d11928ab03fbe9afbbda6aa686f238",
+      "title": "4. Ketogenic Diet Improves Metabolic Markers, Psychiatric Symptoms and Cognition in Psychosis: A Randomized Controlled Trial",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.184",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.184",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/b928db2b95d11928ab03fbe9afbbda6aa686f238",
+      "authors": [
+        "J. Kyner",
+        "Samantha V. Abram",
+        "A. Vũ",
+        "Zanib Naeem",
+        "Shebani Sethi",
+        "Michael S. Jacob",
+        "Susanna L. Fryer",
+        "D. Mathalon",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Juliette Kyner",
+        "Michael Jacob",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/b928db2b95d11928ab03fbe9afbbda6aa686f238?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 26.0
+    },
+    {
+      "id": "006d82ca8d043600d1ebd08e301fdaba739ed9c9",
+      "title": "36. Sleep Disruption and Depressive Symptoms Are Uniquely Associated With Amyloid Burden in APOE-Ɛ4 Positive Individuals With Late Life Depression",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.270",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.270",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/006d82ca8d043600d1ebd08e301fdaba739ed9c9",
+      "authors": [
+        "Anita Shankar",
+        "Maria Kryza-Lacombe",
+        "P. Insel",
+        "Edith Harris",
+        "M. Kassel",
+        "Susan M. Landau",
+        "D. Tosun",
+        "M. Butters",
+        "P. Aisen",
+        "A. Toga",
+        "A. Saykin",
+        "C. Jack",
+        "M. Weiner",
+        "Craig Nelson",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/006d82ca8d043600d1ebd08e301fdaba739ed9c9?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "534126cd5a42634fb53573b171e5c82fdfd44cbe",
+      "title": "295. Reidentification of Anti-PAGE5 Autoantibodies in Early-Onset Psychosis",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.529",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.529",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/534126cd5a42634fb53573b171e5c82fdfd44cbe",
+      "authors": [
+        "Rahul Tyagi",
+        "Jennifer H. Yang",
+        "Corrine Blucher",
+        "R. Loewy",
+        "D. Mathalon",
+        "P. Khil",
+        "Thomas J. Esparza",
+        "Aaron D. Besterman",
+        "C. Bartley"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/534126cd5a42634fb53573b171e5c82fdfd44cbe?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "786b4019f4a936e97396ecd6fbf42749b10e0b38",
+      "title": "286. Schizophrenia Polygenic Risk, Deviations From Typical Brain Development, and Expected Brain Deficit Patterns in Individuals With Schizophrenia, Unaffected Relatives, and Healthy Controls",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.520",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.520",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/786b4019f4a936e97396ecd6fbf42749b10e0b38",
+      "authors": [
+        "J. Karalis",
+        "A. Chavannes",
+        "Jinhan Zhu",
+        "Z. Trevorrow",
+        "S. Ferreira-Ianone",
+        "Keith H. Nuechterlein",
+        "Robert F. Asarnow",
+        "J. Addington",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "Katherine L. Narr",
+        "S. McEwen",
+        "R. Ophoff",
+        "C. Bearden",
+        "Jennifer K. Forsyth"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/786b4019f4a936e97396ecd6fbf42749b10e0b38?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "cb5acdf114c6d3d1909bc25ceae3a2f1331825cc",
+      "title": "277. Visual Target P3b Amplitude Mediates the Relationship Between Childhood Traumatic Experiences and Social Functioning in People at Clinical High Risk for Psychosis",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.511",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.511",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/cb5acdf114c6d3d1909bc25ceae3a2f1331825cc",
+      "authors": [
+        "J. Smucny",
+        "H. Hamilton",
+        "G. Light",
+        "S. Nicholas",
+        "S. Lavoie",
+        "Thomas Whitford",
+        "L. Alameda",
+        "Öznur Baştürk",
+        "Grace R. Jacobs",
+        "I. Lepreux",
+        "T. Petrova",
+        "L. Pries",
+        "S. Vieira",
+        "René S. Kahn",
+        "P. McGorry",
+        "John Kane",
+        "C. Bearden",
+        "Barnaby Nelson",
+        "S. Woods",
+        "M. Shenton",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/cb5acdf114c6d3d1909bc25ceae3a2f1331825cc?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 19.0
+    },
+    {
+      "id": "d140c0b318fde39cb939e5e9c8c79d59340e6bfd",
+      "title": "254. Long-Term (5-20-Year) Functional Profiles of Individuals at Clinical High-Risk (CHR) for Psychosis Across Age Groups: Variations in Life Events, Role, and Social Engagement",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.488",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.488",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/d140c0b318fde39cb939e5e9c8c79d59340e6bfd",
+      "authors": [
+        "Leda Kennedy",
+        "Ricardo Carrión",
+        "J. Addington",
+        "C. Bearden",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "E. Walker",
+        "S. Woods",
+        "K. Cadenhead"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/d140c0b318fde39cb939e5e9c8c79d59340e6bfd?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "9302fb8be8fe454e481ec07cc4f271cfd5482abd",
+      "title": "211. Reduced Functional Connectivity and Structural Volumes in the Striato-Thalamo-Cerebellar Circuit in Individuals With Self-Reported Long COVID",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.445",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.445",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/9302fb8be8fe454e481ec07cc4f271cfd5482abd",
+      "authors": [
+        "Kaitlyn Dal Bon",
+        "J. Hua",
+        "D. Mathalon",
+        "L. Pulliam",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Judith Ford"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/9302fb8be8fe454e481ec07cc4f271cfd5482abd?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 17.0
+    },
+    {
+      "id": "f7ddd67fb525186cebdeb14b909f2c1d5c9afece",
+      "title": "2. Mapping the Pathway From Neurocognition to Functioning in Youth at Clinical High Risk for Psychosis: Distinct Associations With Functional Capacity and Social Engagement",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.182",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.182",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/f7ddd67fb525186cebdeb14b909f2c1d5c9afece",
+      "authors": [
+        "Rui Ma",
+        "Ricardo Carrión",
+        "B. Cornblatt",
+        "J. Addington",
+        "K. Cadenhead",
+        "T. Cannon",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "M. Tsuang",
+        "E. Walker",
+        "S. Woods",
+        "C. Bearden"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/f7ddd67fb525186cebdeb14b909f2c1d5c9afece?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "52cd5d6c216a47a25f681c6fac426e3ab41d6d34",
+      "title": "139. Associations Between Clinical Symptoms and Brain Age in Major Depressive Disorder",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-05-01",
+      "doi": "10.1016/j.biopsych.2026.03.373",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.373",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/52cd5d6c216a47a25f681c6fac426e3ab41d6d34",
+      "authors": [
+        "Maria Kryza-Lacombe",
+        "J. Hua",
+        "H. Hamilton",
+        "Samantha V. Abram",
+        "E. Hazlett",
+        "Zoë Rygg",
+        "Kaitlyn Dal Bon",
+        "S. Nicholas",
+        "T. Durazzo",
+        "R. Mackin",
+        "Judith M. Ford",
+        "D. Mathalon",
+        "Susanna L. Fryer"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Jessica Hua",
+        "Judith Ford",
+        "Maria Kryza-Lacombe",
+        "Samantha Abram",
+        "Spero Nicholas",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/52cd5d6c216a47a25f681c6fac426e3ab41d6d34?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 28.0
+    },
+    {
+      "id": "cbd15fd114988df8a664847535dde3030e60c8d7",
+      "title": "Individual differences in susceptibility to color induced visual discomfort",
+      "journal": "Vision Research",
+      "year": 2026,
+      "date": "2026-04-17",
+      "doi": "10.1016/j.visres.2026.108833",
+      "url": "https://doi.org/10.1016/j.visres.2026.108833",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/cbd15fd114988df8a664847535dde3030e60c8d7",
+      "authors": [
+        "S. Haigh",
+        "W. Torrens",
+        "J. Pablo",
+        "L. L. Kemmelmeier",
+        "M. E. Berryhill"
+      ],
+      "labMembers": [
+        "Wendy Torrens"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 1,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/cbd15fd114988df8a664847535dde3030e60c8d7?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.386
+    },
+    {
+      "id": "6c7bfc0228764426e087fd91f692fcf85c941dc5",
+      "title": "Investigating Pathway-Partitioned Polygenic Risk Scores for Schizophrenia: Insights into Clinical Variability in Two Patient Cohorts",
+      "journal": "medRxiv",
+      "year": 2026,
+      "date": "2026-04-13",
+      "doi": "10.64898/2026.04.11.26349671",
+      "url": "https://doi.org/10.64898/2026.04.11.26349671",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/6c7bfc0228764426e087fd91f692fcf85c941dc5",
+      "authors": [
+        "Jin-Han Zhu",
+        "T. Boltz",
+        "Keith H. Nuechterlein",
+        "R. F. Asarnow",
+        "Michael Green",
+        "Katherine H. Karlsgodt",
+        "D. Perkins",
+        "T. Cannon",
+        "J. Addington",
+        "K. Cadenhead",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "William S. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "Matthew P. Conomos",
+        "T. Bigdeli",
+        "R. Ophoff",
+        "C. Bearden",
+        "Jennifer K. Forsyth"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "It is suggested that neurovascular and postnatal synaptic signaling and refinement mechanisms contribute to AOO variation in SCZ, and that pathway-informed PRS, especially with brain-specific non-coding SNP-to-gene mappings, can help identify mechanisms contributing to variability in AOO.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/6c7bfc0228764426e087fd91f692fcf85c941dc5?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 1.0
+    },
+    {
+      "id": "38f8b28c315a1eab5c0ee3af5311d01b1a66d266",
+      "title": "Correlation networks of blood proteins in the neuroimmunology of schizophrenia—replication and extension",
+      "journal": "Translational Psychiatry",
+      "year": 2026,
+      "date": "2026-04-11",
+      "doi": "10.1038/s41398-026-03934-6",
+      "url": "https://doi.org/10.1038/s41398-026-03934-6",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/38f8b28c315a1eab5c0ee3af5311d01b1a66d266",
+      "authors": [
+        "Clark D. Jeffries",
+        "C. Bizon",
+        "J. Ford",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "L. Seidman",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods",
+        "D. Perkins"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The increased correlation of SERPINE1 and TIMP1 in converters is consistent with restricted brain circuit remodeling and increased tendency to coagulation.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/38f8b28c315a1eab5c0ee3af5311d01b1a66d266?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "58aac634a3b1a6faa7ca5da4c454120a4fdac4da",
+      "title": "Social withdrawal and hippocampal volume among adolescents at clinical high risk for psychosis and healthy comparisons: The moderating role of neighborhood residential stability",
+      "journal": "Schizophrenia Research",
+      "year": 2026,
+      "date": "2026-04-08",
+      "doi": "10.1016/j.schres.2026.03.024",
+      "url": "https://doi.org/10.1016/j.schres.2026.03.024",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/58aac634a3b1a6faa7ca5da4c454120a4fdac4da",
+      "authors": [
+        "B. Ku",
+        "E. Arrant",
+        "Qingyue Yuan",
+        "K. Aberizk",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "R. Carrión",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "S. Woods",
+        "Elaine F. Walker"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Social withdrawal may reflect neurodevelopmental vulnerability in adolescence, and neighborhood stability may buffer this risk, and these findings underscore the value of integrating both behavioral and contextual factors into early risk detection and intervention efforts.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/58aac634a3b1a6faa7ca5da4c454120a4fdac4da?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "f80cddb8b1d33358000492cf3324b30499b4506d",
+      "title": "Local chemoarchitecture explains widespread lower cortical thickness associated with clinical high risk for psychosis",
+      "journal": "Molecular Psychiatry",
+      "year": 2026,
+      "date": "2026-04-04",
+      "doi": "10.1038/s41380-026-03586-4",
+      "url": "https://doi.org/10.1038/s41380-026-03586-4",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/f80cddb8b1d33358000492cf3324b30499b4506d",
+      "authors": [
+        "Xi Yang",
+        "I. Agartz",
+        "O. Andreassen",
+        "P. Bachman",
+        "I. Baeza",
+        "C. Bartholomeusz",
+        "Stefan Borgwardt",
+        "Sun-Ho Choi",
+        "T. Colibazzi",
+        "Rebecca Cooper",
+        "Cheryl Corcoran",
+        "C. de la Fuente-Sandoval",
+        "B. Ebdrup",
+        "Adriana Fortea",
+        "B. Glenthøj",
+        "L. Glenthøj",
+        "S. Haas",
+        "H. Hamilton",
+        "R. Hayes",
+        "Ying He",
+        "K. Heekeren",
+        "W. ten Velden Hegelstad",
+        "Christine I. Hooker",
+        "Michael Kaess",
+        "Kiyoto Kasai",
+        "Naoyuki Katagiri",
+        "Minah Kim",
+        "J. Kindler",
+        "S. Koike",
+        "Tina Kristensen",
+        "J. Kwon",
+        "S. Lawrie",
+        "Jimmy Lee",
+        "Ashleigh Lin",
+        "R. Loewy",
+        "D. Mathalon",
+        "P. McGorry",
+        "C. Michel",
+        "P. Møller",
+        "T. Nemoto",
+        "Marta Pena",
+        "J. Raghava",
+        "F. Reyes-Madrigal",
+        "Luis F. Rivera-Chávez",
+        "W. Rössler",
+        "D. Sasabayashi",
+        "U. Schall",
+        "A. Schmidt",
+        "L. Smigielski",
+        "M. Sørensen",
+        "Gisela Sugranyes",
+        "Tsutomu Takahashi",
+        "C. Tamnes",
+        "Jinsong Tang",
+        "Anastasia Theodoridou",
+        "J. Tor",
+        "P. Uhlhaas",
+        "T. Værnes",
+        "Esther Via",
+        "Sophia Vinogradov",
+        "J. Waltz",
+        "L. Westlye",
+        "Stephen J. Wood",
+        "H. Yamasue",
+        "A. Yung",
+        "J. Zhou",
+        "P. Fusar-Poli",
+        "Romina Mizrahi",
+        "V. Cropley",
+        "Paul M. Thompson",
+        "T. van Amelsvoort",
+        "M. Jalbrzikowski",
+        "Benjamin Becker",
+        "David E. J. Linden",
+        "D. Hernaus"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Holly Hamilton"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Using multilinear model analysis, it is shown that local chemoarchitecture significantly explains CT differences associated with CHR case-control status, the severity of negative symptoms, and future psychosis transition after excluding medication confounds.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/f80cddb8b1d33358000492cf3324b30499b4506d?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 10.0
+    },
+    {
+      "id": "0b6931bb8c279a4d389041fc0c7a3d59a17295e1",
+      "title": "Cannabis and Tobacco Co-Use Is Associated With Impaired Neurocognitive Performance in Individuals at Clinical High Risk for Psychosis",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "year": 2026,
+      "date": "2026-04-01",
+      "doi": "10.1016/j.bpsc.2026.03.021",
+      "url": "https://doi.org/10.1016/j.bpsc.2026.03.021",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/0b6931bb8c279a4d389041fc0c7a3d59a17295e1",
+      "authors": [
+        "Daniel Bello",
+        "J. Connolly",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "L. Seidman",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "R. Brady",
+        "R. Carrión",
+        "H. Ward"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Cannabis and tobacco co-use is associated with lower neurocognitive performance, which may explain the mixed associations between cannabis use and cognitive performance in previous literature.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/0b6931bb8c279a4d389041fc0c7a3d59a17295e1?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 6.386
+    },
+    {
+      "id": "956f188b79ae72d70ac41ad5fd983d12942bca84",
+      "title": "Biophysical modeling of excitation/inhibition balance and conversion to psychosis in the clinical high risk syndrome",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-04-01",
+      "doi": "10.1016/j.biopsych.2026.04.007",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.04.007",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/956f188b79ae72d70ac41ad5fd983d12942bca84",
+      "authors": [
+        "Julia Rodriguez-Sanchez",
+        "D. Hauke",
+        "D. Pinotsis",
+        "L. C. S. Berndt",
+        "Hope Oloye",
+        "S. Nicholas",
+        "H. Hamilton",
+        "B. Roach",
+        "P. Bachman",
+        "A. Belger",
+        "R. Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "G. Light",
+        "M. Niznikiewicz",
+        "K. Friston",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "D. Perkins",
+        "Elaine F. Walker",
+        "S. Woods",
+        "T. Cannon",
+        "Rick A. Adams",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "It is suggested that reduced pyramidal cell excitability is present at baseline in future CHR-Converters, consistent with the hypothesis that hypofunction of pyramidal cells is a primary pathology in schizophrenia, rather than a consequence of chronic illness.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/956f188b79ae72d70ac41ad5fd983d12942bca84?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 24.197
+    },
+    {
+      "id": "e06bc336de71ece767b009b6d8d18bcbd7620dca",
+      "title": "Metabolic psychiatry targeting metabolic dysregulation in mental health",
+      "journal": "Nature Mental Health",
+      "year": 2026,
+      "date": "2026-03-30",
+      "doi": "10.1038/s44220-026-00609-5",
+      "url": "https://doi.org/10.1038/s44220-026-00609-5",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/e06bc336de71ece767b009b6d8d18bcbd7620dca",
+      "authors": [
+        "Shebani Sethi",
+        "Michael Berk",
+        "A. Andreazza",
+        "L. R. Mujica-Parodi",
+        "I. Campbell",
+        "Harry Campbell",
+        "C. Longhitano",
+        "N. Rasgon",
+        "Jeffrey S. Volek",
+        "C. Calkin",
+        "Judith Ford",
+        "R. McCullumsmith",
+        "Stephen Cunnane",
+        "T. Liwinski",
+        "D. D'Agostino",
+        "M. Frye",
+        "Z. Sarnyai"
+      ],
+      "labMembers": [
+        "Judith Ford"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/e06bc336de71ece767b009b6d8d18bcbd7620dca?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 9.159
+    },
+    {
+      "id": "20fdef402000803cfd58e8b9fdf5ad22b37da884",
+      "title": "Longitudinal Relationships Between Cannabis and Tobacco Use and Symptom Severity in Individuals at Clinical High Risk for Psychosis",
+      "journal": "medRxiv",
+      "year": 2026,
+      "date": "2026-03-23",
+      "doi": "10.64898/2026.03.16.26347411",
+      "url": "https://doi.org/10.64898/2026.03.16.26347411",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/20fdef402000803cfd58e8b9fdf5ad22b37da884",
+      "authors": [
+        "Yu-Nong Bai",
+        "S. Vandekar",
+        "Brandee Feola",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "L. Seidman",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "R. Carrión",
+        "H. Ward"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "In CHR-R, current tobacco and cannabis use predicted worse anxiety at future visits, especially for negative symptoms, and baseline cannabis use frequency predicts worse clinical trajectory.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/20fdef402000803cfd58e8b9fdf5ad22b37da884?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 1.0
+    },
+    {
+      "id": "05d35e89787210f3e075270179aae435ba711763",
+      "title": "Causal-Augmented Source-Free Domain Adaptation With Scale-Free Transformer for Schizophrenia Classification",
+      "journal": "IEEE transactions on neural systems and rehabilitation engineering",
+      "year": 2026,
+      "date": "2026-03-23",
+      "doi": "10.1109/TNSRE.2026.3676767",
+      "url": "https://doi.org/10.1109/TNSRE.2026.3676767",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/05d35e89787210f3e075270179aae435ba711763",
+      "authors": [
+        "Yi-Xin Ji",
+        "V. Calhoun",
+        "Qi Zhu",
+        "Zheng-Wang Xia",
+        "Jin Zhang",
+        "Sheng-Rong Li",
+        "T. V. van Erp",
+        "D. Mathalon",
+        "Siyong Yeo",
+        "S. Qi",
+        "Dao-Qiang Zhang"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "This work proposed a source-free DA framework based on a scale-free transformer encoder for SZ classification that outperformed the other 4 transformer, 7 DA, 6 multi-site and 6 state-of-the-art methods across two SZ datasets and provided insights into the dysfunctional neural-mechanisms in SZ.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/05d35e89787210f3e075270179aae435ba711763?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "2044f4f473e2e2e3126618a3e2ba09abac74d03b",
+      "title": "Cognition and Electrophysiology Clustering in Clinical High Risk for Psychosis Delineates Distinct Dimensions of Heterogeneity: Implications for Multimodal Clustering",
+      "journal": "medRxiv",
+      "year": 2026,
+      "date": "2026-03-17",
+      "doi": "10.64898/2026.03.14.26347633",
+      "url": "https://doi.org/10.64898/2026.03.14.26347633",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/2044f4f473e2e2e3126618a3e2ba09abac74d03b",
+      "authors": [
+        "W. Yassin",
+        "J. Green",
+        "M. Cai",
+        "D. Ansari",
+        "X.-J. Kong",
+        "E. Re",
+        "H. Hamilton",
+        "S. Nicholas",
+        "B. Roach",
+        "P. Bachman",
+        "A. Belger",
+        "R. Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "G. Light",
+        "S. Loo",
+        "M. Niznikiewicz",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "D. Perkins",
+        "E. Walker",
+        "S. Woods",
+        "M. Keshavan",
+        "D. Mathalon",
+        "W. Stone"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "The results of the previous study of cognition-only clustering and the current study of combining cognition and electrophysiology indicate that multimodal clustering, if not developmentally informed, may obscure meaningful subtyping.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/2044f4f473e2e2e3126618a3e2ba09abac74d03b?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 12.0
+    },
+    {
+      "id": "b2d0e17faf449242133a4eb7aec964885a429124",
+      "title": "The Utility of Negative Symptoms in Predicting Transition to Psychosis Among Individuals at Clinical High Risk",
+      "journal": "Schizophrenia bulletin",
+      "year": 2026,
+      "date": "2026-03-07",
+      "doi": "10.1093/schbul/sbaf244",
+      "url": "https://doi.org/10.1093/schbul/sbaf244",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/b2d0e17faf449242133a4eb7aec964885a429124",
+      "authors": [
+        "Mitchell D Arnovitz",
+        "B. Cornblatt",
+        "Andrea M. Auther",
+        "Danielle McLaughlin",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "M. Tsuang",
+        "Elaine F. Walker",
+        "S. Woods",
+        "J. Kane",
+        "R. Carrión"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The findings reinforce the importance of negative symptoms in predicting psychosis in CHR-P youth and support consideration of negative symptoms in predictive algorithms for enhancing early recognition and treatment strategies.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/b2d0e17faf449242133a4eb7aec964885a429124?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "ee1eb2b300abf51c668054caeff0e0263a6ed001",
+      "title": "Goal-Oriented Attentional Self-Regulation Training Improves Executive Function and Complex Attention in Veterans With mTBI-Randomized-Control Study",
+      "journal": "Archives of Clinical Neuropsychology",
+      "year": 2026,
+      "date": "2026-02-27",
+      "doi": "10.1093/arclin/acaf087",
+      "url": "https://doi.org/10.1093/arclin/acaf087",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ee1eb2b300abf51c668054caeff0e0263a6ed001",
+      "authors": [
+        "Rachel Santiago",
+        "Maria Kryza-Lacombe",
+        "Jillian M. Tessier",
+        "Anna Hwang",
+        "Brian A Maruyama",
+        "Sky Raptentsetsang",
+        "Gary Abrams",
+        "P. Mukherjee",
+        "T. Novakovic-Agopian"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Goal-Oriented Attentional Self-Regulation training improved performance on neuropsychological and ecologically valid functional measures of complex attention and executive function, as well as emotional functioning in veterans with mTBI.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ee1eb2b300abf51c668054caeff0e0263a6ed001?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "67365c3c76379419505fd4b34f10d89cd904c1a1",
+      "title": "Parsing Reward Processing Substages With Multimodal EEG–fMRI",
+      "journal": "Human Brain Mapping",
+      "year": 2026,
+      "date": "2026-02-12",
+      "doi": "10.1002/hbm.70466",
+      "url": "https://doi.org/10.1002/hbm.70466",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/67365c3c76379419505fd4b34f10d89cd904c1a1",
+      "authors": [
+        "Ken J. Lau",
+        "B. Roach",
+        "Samantha V. Abram",
+        "S. Nicholas",
+        "Clay B. Holroyd",
+        "E. Shamshiri",
+        "Martin P. Paulus",
+        "Judith M. Ford",
+        "D. Mathalon",
+        "Susanna L. Fryer"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Samantha Abram",
+        "Spero Nicholas",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "These findings demonstrate that temporally precise electrophysiological and spatially rich hemodynamic measures of reward processing converge to map onto specific substages of reward‐related brain processes.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/67365c3c76379419505fd4b34f10d89cd904c1a1?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 31.386
+    },
+    {
+      "id": "785bee9c7ebfe5b4ed2e2ca3474606f09a3ad92b",
+      "title": "Contributions of regional cortical thickness and surface area to cognitive functioning in psychosis-risk",
+      "journal": "Schizophrenia Research",
+      "year": 2026,
+      "date": "2026-02-10",
+      "doi": "10.1016/j.schres.2026.02.004",
+      "url": "https://doi.org/10.1016/j.schres.2026.02.004",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/785bee9c7ebfe5b4ed2e2ca3474606f09a3ad92b",
+      "authors": [
+        "R. Guest",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "B. Cornblatt",
+        "D. Mathalon",
+        "D. Perkins",
+        "M. Tsuang",
+        "S. Woods",
+        "T. Cannon",
+        "M. Keshavan",
+        "W. Stone",
+        "Elaine F. Walker"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Increased CTh in frontoparietal regions and increased SA across the cortex was associated with better cognitive functioning for both groups, though people at CHR-P demonstrated a more diffuse pattern of associations, highlighting the importance of decomposing cortical volume into CTh and SA and how variation in cognitive functioning may be potentially supported by shared and group-specific substrates.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/785bee9c7ebfe5b4ed2e2ca3474606f09a3ad92b?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "a29827ba6d806f6964a9fafd25a5cf9f1ca08cac",
+      "title": "Reshaping Perception Through Technology: From Ancient Script to Large Language Models",
+      "journal": "arXiv.org",
+      "year": 2026,
+      "date": "2026-02-02",
+      "doi": "10.48550/arXiv.2602.02794",
+      "url": "https://doi.org/10.48550/arXiv.2602.02794",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/a29827ba6d806f6964a9fafd25a5cf9f1ca08cac",
+      "authors": [
+        "Parham Pourdavood",
+        "Michael Jacob"
+      ],
+      "labMembers": [
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "It is argued that AI is best understood not as artificial intelligence but as a new medium -- one that, like writing before it, reshapes perception and enables novel forms of creativity.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/a29827ba6d806f6964a9fafd25a5cf9f1ca08cac?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "9e93ba72f2b3f17f6b25fb783b46c8be82fa22fb",
+      "title": "Visual P300 and risk for psychosis onset in youth at clinical high-risk",
+      "journal": "Biological Psychiatry",
+      "year": 2026,
+      "date": "2026-02-01",
+      "doi": "10.1016/j.biopsych.2026.02.013",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.02.013",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/9e93ba72f2b3f17f6b25fb783b46c8be82fa22fb",
+      "authors": [
+        "H. Hamilton",
+        "B. Roach",
+        "S. Nicholas",
+        "R. Dembo",
+        "P. Bachman",
+        "A. Belger",
+        "R. Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "G. Light",
+        "M. Niznikiewicz",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "D. Perkins",
+        "Elaine F. Walker",
+        "S. Woods",
+        "T. Cannon",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Visual target P3b deficits are associated with future psychosis conversion and the imminence of conversion, showing promise as a biomarker of psychosis onset among at-risk individuals.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/9e93ba72f2b3f17f6b25fb783b46c8be82fa22fb?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 23.386
+    },
+    {
+      "id": "383afc78ad4dd11ca48fc1a1f5750f51ff02137d",
+      "title": "Neighborhood social fragmentation and cerebello-thalamo-cortical connectivity in youth at clinical high-risk for psychosis and healthy comparisons",
+      "journal": "Brain and environment",
+      "year": 2026,
+      "date": "2026-02-01",
+      "doi": "10.1016/j.braen.2026.100016",
+      "url": "https://doi.org/10.1016/j.braen.2026.100016",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/383afc78ad4dd11ca48fc1a1f5750f51ff02137d",
+      "authors": [
+        "B. Ku",
+        "E. Arrant",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "Ricardo Carrión",
+        "M. Keshavan",
+        "D. Mathalon",
+        "W. Stone",
+        "S. Woods",
+        "Elaine F. Walker",
+        "D. Perkins",
+        "Heng-Yi Cao"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "It is suggested that the social environment may contribute to psychosis risk by modulating CTC connectivity, highlighting potential targets for prevention and early intervention.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/383afc78ad4dd11ca48fc1a1f5750f51ff02137d?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 9.197
+    },
+    {
+      "id": "665262ea14091358d753a0e3c32f2cdd7fdba8e3",
+      "title": "Prototypical Representation Learning for Multi-Site Domain Generalization in Schizophrenia Diagnosis",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "year": 2026,
+      "date": "2026-01-28",
+      "doi": "10.1109/TBME.2026.3658874",
+      "url": "https://doi.org/10.1109/TBME.2026.3658874",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/665262ea14091358d753a0e3c32f2cdd7fdba8e3",
+      "authors": [
+        "Yi-Xin Ji",
+        "V. Calhoun",
+        "Jin Zhang",
+        "Qi Zhu",
+        "Sheng-Rong Li",
+        "D. Mathalon",
+        "Siyong Yeo",
+        "Dao-Qiang Zhang",
+        "S. Qi"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/665262ea14091358d753a0e3c32f2cdd7fdba8e3?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.0
+    },
+    {
+      "id": "bb53b385ff135f6868af69d9a0955b1d9a477664",
+      "title": "Shared genetic architecture of brain age gap across 30 cohorts worldwide",
+      "journal": "medRxiv",
+      "year": 2025,
+      "date": "2025-12-27",
+      "doi": "10.64898/2025.12.23.25342890",
+      "url": "https://doi.org/10.64898/2025.12.23.25342890",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/bb53b385ff135f6868af69d9a0955b1d9a477664",
+      "authors": [
+        "V. Baltramonaityte",
+        "P. Jawinski",
+        "M. Staginnus",
+        "M. Shahisavandi",
+        "B. Kovacs",
+        "I. Schuurmans",
+        "C. Constantinides",
+        "A. Hariri",
+        "A. Teumer",
+        "A. Rodrigue",
+        "A. Tsuchida",
+        "A. Manzouri",
+        "A. Karuk",
+        "A. Fürtjes",
+        "A. Lella",
+        "A. Knodt",
+        "Antonia Jüllig",
+        "A. Caspi",
+        "B. Crespo-Facorro",
+        "B. Penninx",
+        "C. Lavebratt",
+        "C. Lochner",
+        "Clarissa Yasuda",
+        "D. Alnæs",
+        "Dan J. Stein",
+        "D. Mathalon",
+        "D. Glahn",
+        "D. Klose",
+        "D. Kiltschewskij",
+        "E. Pomarol-Clotet",
+        "E. Bruxel",
+        "Fabrice Crivello",
+        "F. Cendes",
+        "G. Davies",
+        "G. Salum",
+        "H. Grabe",
+        "H. Zar",
+        "Henning Tiemeier",
+        "H. Völzke",
+        "Hervé Lemaître",
+        "I. Lopes-Cendes",
+        "Í. Aventurato",
+        "Jean Shin",
+        "J. Turner",
+        "J. Wardlaw",
+        "J. Blangero",
+        "J. Ipser",
+        "Judith Ford",
+        "K. Sim",
+        "K. Sugden",
+        "K. Wittfeld",
+        "Kristina Salontaji",
+        "Kristoffer N. T. Månsson",
+        "L. E. Hong",
+        "L. Westlye",
+        "L. Schmaal",
+        "Lucas T. Ito",
+        "L. Scárdua-Silva",
+        "M. Santoro",
+        "María Alemany-Navarro",
+        "M. Bastin",
+        "M. Mufford",
+        "Melissa J. Green",
+        "Murray J. Cairns",
+        "N. Parker",
+        "N. McGregor",
+        "O. Andreassen",
+        "Oliver Gruber",
+        "O. Watkeys",
+        "P. M. Pan",
+        "P. Kochunov",
+        "Q. Chew",
+        "R. Romero-Garcia",
+        "R. Salvador",
+        "Reremoana Theodore",
+        "R. Poulton",
+        "R. Bülow",
+        "R. Bressan",
+        "R. Muetzel",
+        "S. Markett",
+        "S. Defina",
+        "S. Koopowitz",
+        "Shir Dahan",
+        "Simon R. Cox",
+        "S. Belangero",
+        "S. Kamalakannan",
+        "S. Thomopoulos",
+        "S. Frenzel",
+        "T. Moffitt",
+        "T. V. van Erp",
+        "T. Furmark",
+        "T. Paus",
+        "U. Völker",
+        "V. Calhoun",
+        "Y. Quidé",
+        "Younghwa Lee",
+        "Y. Milaneschi",
+        "Z. Pausova",
+        "Paul M. Thompson",
+        "Laura K. M. Han",
+        "Jean-Baptiste Pingault",
+        "James H. Cole",
+        "Charlotte A. M. Cecil",
+        "S. Medland",
+        "D. Dima",
+        "Esther Walton"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "BAG factor PGS captured more associations with health traits than individual BAG PGSs, suggesting that the shared signal may provide a more sensitive marker of brain health than any single model alone.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/bb53b385ff135f6868af69d9a0955b1d9a477664?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 4.0
+    },
+    {
+      "id": "ae4c5e61c5317da19f2cabce493483fe0fd2ef1f",
+      "title": "Neurophysiological Evidence of Motor Preparation Dysfunction during Inner Speech and its Association with Auditory Verbal Hallucinations in Schizophrenia Spectrum Disorders",
+      "journal": "Schizophrenia bulletin",
+      "year": 2025,
+      "date": "2025-12-14",
+      "doi": "10.1093/schbul/sbaf219",
+      "url": "https://doi.org/10.1093/schbul/sbaf219",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ae4c5e61c5317da19f2cabce493483fe0fd2ef1f",
+      "authors": [
+        "L. K. Chung",
+        "T. Whitford",
+        "O. Griffiths",
+        "B. N. Jack",
+        "M. L. Le Pelley",
+        "K. Spencer",
+        "A. R. Barreiros",
+        "A. W. Harrison",
+        "N. Han",
+        "S. Libesman",
+        "D. Pearson",
+        "R. Elijah",
+        "Marianthe Godwin",
+        "Carla Haroutonian",
+        "S. S. Chan",
+        "G. Chong",
+        "G. K. Lau",
+        "Yip-Chau Wong",
+        "J. W. Wong",
+        "Judith M. Ford",
+        "D. Mathalon",
+        "S. So",
+        "A. W. Harris"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ae4c5e61c5317da19f2cabce493483fe0fd2ef1f?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.386
+    },
+    {
+      "id": "3160316cf5e1f6b4f5cf6c73af459925c9ad1f72",
+      "title": "Perturbed sensory memory associated with schizotypy symptom load",
+      "journal": "Schizophrenia Research",
+      "year": 2025,
+      "date": "2025-12-09",
+      "doi": "10.1016/j.schres.2025.12.001",
+      "url": "https://doi.org/10.1016/j.schres.2025.12.001",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/3160316cf5e1f6b4f5cf6c73af459925c9ad1f72",
+      "authors": [
+        "W. Torrens",
+        "J. Pablo",
+        "M. E. Berryhill",
+        "S. Haigh"
+      ],
+      "labMembers": [
+        "Wendy Torrens"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/3160316cf5e1f6b4f5cf6c73af459925c9ad1f72?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 13.0
+    },
+    {
+      "id": "4c207c567e8de52d98d62267b9c2ffa0b8990ae7",
+      "title": "Premorbid adjustment problems, negative symptoms, and cognitive impairment in a large international sample at clinical high risk for psychosis: Findings from the Accelerating Medicines Partnership—Schizophrenia",
+      "journal": "Schizophrenia bulletin",
+      "year": 2025,
+      "date": "2025-12-05",
+      "doi": "10.1093/schbul/sbaf197",
+      "url": "https://doi.org/10.1093/schbul/sbaf197",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/4c207c567e8de52d98d62267b9c2ffa0b8990ae7",
+      "authors": [
+        "Henry R. Cowan",
+        "D. Pratt",
+        "J. Shah",
+        "S. Woods",
+        "L. Alameda",
+        "M. Lepage",
+        "Stewart A. Shankman",
+        "J. Addington",
+        "C. Arango",
+        "C. Bearden",
+        "S. Bouix",
+        "N. Breitborde",
+        "Matthew R. Broome",
+        "K. Cadenhead",
+        "Monica E. Calkins",
+        "Rolando I. Castillo-Passi",
+        "E. Y. H. Chen",
+        "Jimmy Choi",
+        "P. Conus",
+        "Cheryl M. Corcoran",
+        "B. Cornblatt",
+        "C. Díaz-Caneja",
+        "L. Ellman",
+        "P. Fusar-Poli",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "L. Glenthøj",
+        "Cláudia C. Gonçalves",
+        "Leslie E. Horton",
+        "C. Hui",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic",
+        "René S. Kahn",
+        "J. Kane",
+        "M. Keshavan",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "Nikolaos Koutsouleris",
+        "J. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "D. Mathalon",
+        "P. McGorry",
+        "Barnaby Nelson",
+        "M. Nordentoft",
+        "O. Pasternak",
+        "Godfrey D. Pearlson",
+        "Jesus Perez",
+        "D. Perkins",
+        "A. Powers",
+        "Jack C. Rogers",
+        "Fred W. Sabb",
+        "J. Schiffman",
+        "M. Shenton",
+        "S. Silverstein",
+        "Stefan Smesny",
+        "W. Stone",
+        "G. Strauss",
+        "Judy L. Thompson",
+        "Rachel Upthegrove",
+        "S. Verma",
+        "Ji-Jun Wang",
+        "Daniel H. Wolf",
+        "A. Yung",
+        "Tian-Hong Zhang",
+        "Courtney Crawford",
+        "W. Yassin",
+        "S. Kelly",
+        "Michael J. Coleman",
+        "Grace R. Jacobs",
+        "Kathryn E. Lewandowski",
+        "N. Penzel",
+        "Justin T. Baker",
+        "Guillermo Cecci",
+        "K. Allott",
+        "Kate Buccilli",
+        "Sophie Tod",
+        "Lauren Addamo",
+        "Li-Hua Xu",
+        "V. Mittal"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Relationships between premorbid adjustment, negative symptoms, and cognition were independent of depression/anxiety and developmental stage of CHR symptom onset, and were consistent in the subsample residing outside North America.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/4c207c567e8de52d98d62267b9c2ffa0b8990ae7?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 6.386
+    },
+    {
+      "id": "c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+      "title": "Theta Oscillations Assessed From a Passive Auditory Oddball Paradigm in Individuals at Clinical High-Risk for Psychosis and Healthy Control Individuals: Associations with Clinical Outcomes and Mismatch Negativity",
+      "journal": "Biological Psychiatry Global Open Science",
+      "year": 2025,
+      "date": "2025-12-01",
+      "doi": "10.1016/j.bpsgos.2025.100664",
+      "url": "https://doi.org/10.1016/j.bpsgos.2025.100664",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/c159240b8d0c0cf4781c7e41f6f22a3721d7c026",
+      "authors": [
+        "J. Hua",
+        "B. Roach",
+        "H. Hamilton",
+        "P. Bachman",
+        "A. Belger",
+        "R. Carrión",
+        "E. Duncan",
+        "J. Johannesen",
+        "G. Light",
+        "M. Niznikiewicz",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods",
+        "T. Cannon",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Jessica Hua"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 1,
+      "preprint": false,
+      "automatedSummary": "These results implicate abnormalities in microcircuit generators of theta oscillations in CHR-P individuals at highest risk.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/c159240b8d0c0cf4781c7e41f6f22a3721d7c026?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 25.197
+    },
+    {
+      "id": "aeb6b162d3cbed3a646d48c30768054f80f79c3f",
+      "title": "A meta-analytic analysis of the acute effects of MDMA on empathy and emotion recognition in humans",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "date": "2025-11-29",
+      "doi": "10.1038/s41598-025-25610-3",
+      "url": "https://doi.org/10.1038/s41598-025-25610-3",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/aeb6b162d3cbed3a646d48c30768054f80f79c3f",
+      "authors": [
+        "L. Peled-Avron",
+        "J. Aday",
+        "Madeline M. Pantoni",
+        "H. K. Hamilton",
+        "Joshua D. Woolley"
+      ],
+      "labMembers": [
+        "Holly Hamilton"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/aeb6b162d3cbed3a646d48c30768054f80f79c3f?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 6.386
+    },
+    {
+      "id": "39db0da84ccd40494e9ac22693f7ff8908027241",
+      "title": "Neighborhood Characteristics and Social Functioning: Exploring Shared and Distinct Psychosocial Pathways Among Individuals at Clinical High-Risk for Psychosis",
+      "journal": "Schizophrenia bulletin",
+      "year": 2025,
+      "date": "2025-11-10",
+      "doi": "10.1093/schbul/sbaf192",
+      "url": "https://doi.org/10.1093/schbul/sbaf192",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/39db0da84ccd40494e9ac22693f7ff8908027241",
+      "authors": [
+        "Qingyue Yuan",
+        "Cope Feurer",
+        "Qing D Zhou",
+        "R. Carrión",
+        "J. Addington",
+        "C. Bearden",
+        "K. Cadenhead",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "S. Woods",
+        "Elaine F. Walker",
+        "B. Ku"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/39db0da84ccd40494e9ac22693f7ff8908027241?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.773
+    },
+    {
+      "id": "f3a22cd7bbe62bf0cdc8d2f39417ea4d74a7c9ee",
+      "title": "Response to “Brain Amyloid and Cognitive Decline in Late-Life Depression”",
+      "journal": "The American journal of geriatric psychiatry",
+      "year": 2025,
+      "date": "2025-11-01",
+      "doi": "10.1016/j.jagp.2025.10.010",
+      "url": "https://doi.org/10.1016/j.jagp.2025.10.010",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/f3a22cd7bbe62bf0cdc8d2f39417ea4d74a7c9ee",
+      "authors": [
+        "Emma Rhodes",
+        "P. Insel",
+        "M. Kassel",
+        "Maria Kryza-Lacombe",
+        "Meryl A. Butters",
+        "David Bickford",
+        "D. Tosun",
+        "Ruth T. Morin",
+        "P. Aisen",
+        "Howie J. Rosen",
+        "Rema Raman",
+        "Susan M. Landau",
+        "A. Saykin",
+        "A. Toga",
+        "C. Jack",
+        "M. Weiner",
+        "Craig Nelson",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": false,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/f3a22cd7bbe62bf0cdc8d2f39417ea4d74a7c9ee?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 5.0
+    },
+    {
+      "id": "341bc9596020c082bda3b3e6d0fad2d66940e786",
+      "title": "Noncanonical EEG-BOLD coupling by default and in schizophrenia",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "year": 2025,
+      "date": "2025-11-01",
+      "doi": "10.1016/j.bpsc.2025.11.002",
+      "url": "https://doi.org/10.1016/j.bpsc.2025.11.002",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/341bc9596020c082bda3b3e6d0fad2d66940e786",
+      "authors": [
+        "M. Jacob",
+        "B. Roach",
+        "D. Mathalon",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "These findings suggest that hemodynamic signals are dynamically coupled to ongoing neural activity across distributed networks, and further, that the hemo-neural lag may be associated with subjective arousal or stress.",
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/341bc9596020c082bda3b3e6d0fad2d66940e786?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 24.0
+    },
+    {
+      "id": "4ac3933ebbba157e644b9c03c8b213184f864598",
+      "title": "Older adults are impaired by distractors presented during working memory encoding",
+      "journal": "Psychological Research",
+      "year": 2025,
+      "date": "2025-10-28",
+      "doi": "10.1007/s00426-025-02197-y",
+      "url": "https://doi.org/10.1007/s00426-025-02197-y",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/4ac3933ebbba157e644b9c03c8b213184f864598",
+      "authors": [
+        "C. Carrasco",
+        "Kevin T. Jones",
+        "Marian E. Berryhill"
+      ],
+      "labMembers": [
+        "Carlos Daniel Carrasco"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": true,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/4ac3933ebbba157e644b9c03c8b213184f864598?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 13.197
+    },
+    {
+      "id": "87a35e747d2d479e6f53ddcdc8078e729b6ed636",
+      "title": "Accelerated Cognitive Decline in Late Life Depression: The Role of Amyloid-β, Cortico-Limbic Volume, and White Matter Hyperintensities",
+      "journal": "The American journal of geriatric psychiatry",
+      "year": 2025,
+      "date": "2025-08-01",
+      "doi": "10.1016/j.jagp.2025.08.008",
+      "url": "https://doi.org/10.1016/j.jagp.2025.08.008",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/87a35e747d2d479e6f53ddcdc8078e729b6ed636",
+      "authors": [
+        "Emma Rhodes",
+        "P. Insel",
+        "M. Kassel",
+        "Maria Kryza-Lacombe",
+        "Meryl A. Butters",
+        "David Bickford",
+        "D. Tosun",
+        "Ruth T. Morin",
+        "P. Aisen",
+        "Howie J. Rosen",
+        "Rema Raman",
+        "Susan M. Landau",
+        "A. Saykin",
+        "A. Toga",
+        "C. Jack",
+        "M. Weiner",
+        "Craig Nelson",
+        "R. Mackin"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Findings demonstrate significant cognitive decline in LLD independent of Aβ pathology and highlight the importance of identifying causal mechanisms for cortico-limbic volume abnormalities in this patient population.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/87a35e747d2d479e6f53ddcdc8078e729b6ed636?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 9.773
+    },
+    {
+      "id": "5c6ae431d405532e88b0c8c8a0ed07e024bc3833",
+      "title": "Test taking location and practice effects as factors contributing to scores on remotely administered neurocognitive performance tests in a sample of older adults",
+      "journal": "Applied neuropsychology. Adult",
+      "year": 2025,
+      "date": "2025-07-09",
+      "doi": "10.1080/23279095.2025.2518574",
+      "url": "https://doi.org/10.1080/23279095.2025.2518574",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/5c6ae431d405532e88b0c8c8a0ed07e024bc3833",
+      "authors": [
+        "R. Mackin",
+        "Emily Burns",
+        "P. Insel",
+        "N. Ganesh",
+        "M. Kassel",
+        "Maria Kryza-Lacombe",
+        "Miriam Ashford",
+        "J. Eichenbaum",
+        "Melanie J. Miller",
+        "A. Aaronson",
+        "R. Tank",
+        "M. Camacho",
+        "J. Fockler",
+        "D. Truran",
+        "Nicole F. Ng",
+        "R. Nosheny",
+        "M. Weiner"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Reducing variability in NCPT performance related to testing location and practice effects represents two possible avenues for improving their utility for detection of cognitive decline in older adults.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/5c6ae431d405532e88b0c8c8a0ed07e024bc3833?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 6.386
+    },
+    {
+      "id": "3c4edc98d3f1196e017c9801ffcc2ee133fc817e",
+      "title": "Larger Neural Responses to Reward in Gambling Disorder: Relationships with Depression and Gambling Severity",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "year": 2025,
+      "date": "2025-07-01",
+      "doi": "10.1016/j.bpsc.2025.07.008",
+      "url": "https://doi.org/10.1016/j.bpsc.2025.07.008",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/3c4edc98d3f1196e017c9801ffcc2ee133fc817e",
+      "authors": [
+        "Maria Kryza-Lacombe",
+        "Samantha V. Abram",
+        "Marc N. Potenza",
+        "R. Mackin",
+        "Ken J. Lau",
+        "S. Nicholas",
+        "Judith M. Ford",
+        "S. Batki",
+        "D. Mathalon",
+        "Susanna L. Fryer"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Maria Kryza-Lacombe",
+        "Samantha Abram",
+        "Spero Nicholas",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/3c4edc98d3f1196e017c9801ffcc2ee133fc817e?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 30.773
+    },
+    {
+      "id": "ae4c4b9cc0cbbf0e7bddb87ac1f302bd70025a6a",
+      "title": "The electroencephalography protocol for the Accelerating Medicines Partnership® Schizophrenia Program: Reliability and stability of measures",
+      "journal": "Schizophrenia",
+      "year": 2025,
+      "date": "2025-06-06",
+      "doi": "10.1038/s41537-025-00622-0",
+      "url": "https://doi.org/10.1038/s41537-025-00622-0",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/ae4c4b9cc0cbbf0e7bddb87ac1f302bd70025a6a",
+      "authors": [
+        "D. Mathalon",
+        "S. Nicholas",
+        "B. Roach",
+        "Tashrif Billah",
+        "S. Lavoie",
+        "Thomas Whitford",
+        "H. K. Hamilton",
+        "Lauren Addamo",
+        "Andrey Anohkin",
+        "Tristán Bekinschtein",
+        "A. Belger",
+        "Kate Buccilli",
+        "John D. Cahill",
+        "R. Carrión",
+        "S. Damiani",
+        "Ilvana Dzafic",
+        "B. Ebdrup",
+        "I. Izyurov",
+        "J. Jarcho",
+        "R. Jenni",
+        "Anna Jo",
+        "Sarah Kerins",
+        "Clarice Lee",
+        "Elizabeth A. Martin",
+        "Rocio Mayol-Troncoso",
+        "M. Niznikiewicz",
+        "M. Parvaz",
+        "O. Pogarell",
+        "Julio Prieto-Montalvo",
+        "Rachel A. Rabin",
+        "D. Roalf",
+        "Jack C. Rogers",
+        "D. Salisbury",
+        "Riaz B. Shaik",
+        "Stewart A. Shankman",
+        "Michael C. Stevens",
+        "Y. Suen",
+        "Nicole C. Swann",
+        "Xiao-Chen Tang",
+        "Judy L. Thompson",
+        "I. Tso",
+        "J. Wenzel",
+        "J. Zhou",
+        "J. Addington",
+        "L. Alameda",
+        "C. Arango",
+        "N. Breitborde",
+        "M. Broome",
+        "K. Cadenhead",
+        "Monica E. Calkins",
+        "Rolando I. Castillo-Passi",
+        "E. Y. H. Chen",
+        "Jimmy Choi",
+        "P. Conus",
+        "Cheryl M. Corcoran",
+        "B. Cornblatt",
+        "C. Díaz-Caneja",
+        "L. Ellman",
+        "P. Fusar-Poli",
+        "Pablo A. Gaspar",
+        "Carla Gerber",
+        "L. Glenthøj",
+        "L. Horton",
+        "C. Hui",
+        "J. Kambeitz",
+        "L. Kambeitz-Ilankovic",
+        "M. Keshavan",
+        "Minah Kim",
+        "Sung-Wan Kim",
+        "N. Koutsouleris",
+        "J. Kwon",
+        "K. Langbein",
+        "D. Mamah",
+        "V. Mittal",
+        "M. Nordentoft",
+        "G. Pearlson",
+        "Jesús Pérez",
+        "D. Perkins",
+        "A. Powers",
+        "Fred W. Sabb",
+        "J. Schiffman",
+        "J. Shah",
+        "Steven M. Silverstein",
+        "S. Smesny",
+        "W. Stone",
+        "G. Strauss",
+        "R. Upthegrove",
+        "S. Verma",
+        "Ji-Jun Wang",
+        "Daniel H. Wolf",
+        "Tian-Hong Zhang",
+        "S. Bouix",
+        "O. Pasternak",
+        "K. Cho",
+        "M. J. Coleman",
+        "Dominic B. Dwyer",
+        "Angela R. Nunez",
+        "Zailyn Tamayo",
+        "Stephen J. Wood",
+        "René S. Kahn",
+        "John M. Kane",
+        "P. McGorry",
+        "C. Bearden",
+        "Barnaby Nelson",
+        "S. Woods",
+        "M. Shenton",
+        "Gregory A. Light"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Holly Hamilton",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 11,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Test-retest reliabilities of the AMP SCZ EEG-based measures are sufficiently strong to support their use in CHR studies as potential predictors of clinical outcomes, markers of illness progression, and/or target engagement or secondary outcome measures in controlled clinical trials.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/ae4c4b9cc0cbbf0e7bddb87ac1f302bd70025a6a?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 26.97
+    },
+    {
+      "id": "350affc9c24a7a0e65449302256665e6143ee06c",
+      "title": "Enhanced Working Memory Representations for Rare Events",
+      "journal": "Psychophysiology",
+      "year": 2025,
+      "date": "2025-03-01",
+      "doi": "10.1111/psyp.70038",
+      "url": "https://doi.org/10.1111/psyp.70038",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/350affc9c24a7a0e65449302256665e6143ee06c",
+      "authors": [
+        "C. Carrasco",
+        "A. M. Simmons",
+        "John E. Kiat",
+        "S. J. Luck"
+      ],
+      "labMembers": [
+        "Carlos Daniel Carrasco"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/350affc9c24a7a0e65449302256665e6143ee06c?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 15.197
+    },
+    {
+      "id": "538163f4aadc835c6885176e7c567330fd5ca9a1",
+      "title": "Identifying Overlapping and Distinctive Traits of Autism and Schizophrenia Using Machine Learning Classification",
+      "journal": "Cognitive Neuropsychiatry",
+      "year": 2025,
+      "date": "2025-02-19",
+      "doi": "10.1080/13546805.2025.2464728",
+      "url": "https://doi.org/10.1080/13546805.2025.2464728",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/538163f4aadc835c6885176e7c567330fd5ca9a1",
+      "authors": [
+        "J. Pablo",
+        "Jorja Shires",
+        "W. Torrens",
+        "L. L. Kemmelmeier",
+        "S. Haigh",
+        "M. E. Berryhill"
+      ],
+      "labMembers": [
+        "Wendy Torrens"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 4,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Overall, the SPQ-BR and AQ measure overlapping symptoms that can be isolated to some factors that provide guidance for leveraging existing screeners to avert misdiagnosis and advancing specific/selective biomarker identification.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/538163f4aadc835c6885176e7c567330fd5ca9a1?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 8.219
+    },
+    {
+      "id": "3031426b798ffff75739eb6598feb65adfe3a355",
+      "title": "Bioethical and critical consciousness in clinical translational neuroscience",
+      "journal": "Journal of Clinical and Translational Science",
+      "year": 2025,
+      "date": "2025-01-22",
+      "doi": "10.1017/cts.2025.5",
+      "url": "https://doi.org/10.1017/cts.2025.5",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/3031426b798ffff75739eb6598feb65adfe3a355",
+      "authors": [
+        "Angela Fang",
+        "R. Anderson",
+        "Sierra Carter",
+        "Kristen L. Eckstrand",
+        "Kean J. Hsu",
+        "Shawn C. T. Jones",
+        "Maria Kryza-Lacombe",
+        "Andrew Peckham",
+        "Greg J. Siegle",
+        "Lucina Q. Uddin",
+        "Mariann R. Weierich",
+        "Mary L. Woody",
+        "Judy Illes"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "It is suggested that bioethical and critical consciousness can be paired to intersect with structures of power within which science and clinical practice are conducted, and practitioners will be better positioned to benefit from cutting-edge research in the biological and social sciences.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/3031426b798ffff75739eb6598feb65adfe3a355?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 7.773
+    },
+    {
+      "id": "f8df164c852bb72459a6914ecbe080367d8fc475",
+      "title": "The Goal Processing Scale: cognitive correlates of an ecologically valid measure of executive functioning in mild traumatic brain injury",
+      "journal": "International journal of rehabilitation research. Internationale Zeitschrift fur Rehabilitationsforschung. Revue internationale de recherches de readaptation",
+      "year": 2025,
+      "date": "2025-01-21",
+      "doi": "10.1097/MRR.0000000000000656",
+      "url": "https://doi.org/10.1097/MRR.0000000000000656",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/f8df164c852bb72459a6914ecbe080367d8fc475",
+      "authors": [
+        "Jillian M. Tessier",
+        "Maria Kryza-Lacombe",
+        "Rachel Santiago",
+        "Gary Abrams",
+        "A. Chen",
+        "S. Rome",
+        "T. Novakovic-Agopian"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Results suggest that the GPS facilitates structured assessment of goal-directed performance requiring integration of multiple executive functioning subdomains and may be valuable in assessing and predicting real-world functional difficulties not captured by traditional neuropsychological assessment.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/f8df164c852bb72459a6914ecbe080367d8fc475?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 6.386
+    },
+    {
+      "id": "2abd2880d702ebeb0d969e4d38c1bc13b1735f30",
+      "title": "Cortico-Limbic Volume Abnormalities in Late Life Depression are Distinct from β Amyloid and White Matter Pathologies",
+      "journal": "Molecular Psychiatry",
+      "year": 2024,
+      "date": "2024-11-07",
+      "doi": "10.1038/s41380-024-02677-4",
+      "url": "https://doi.org/10.1038/s41380-024-02677-4",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/2abd2880d702ebeb0d969e4d38c1bc13b1735f30",
+      "authors": [
+        "R. Mackin",
+        "Emma Rhodes",
+        "M. Kassel",
+        "Maria Kryza-Lacombe",
+        "Emily Burns",
+        "David Bickford",
+        "Ruth T. Morin",
+        "D. Tosun",
+        "Susan M. Landau",
+        "Meryl A. Butters",
+        "P. Aisen",
+        "Rema Raman",
+        "A. Saykin",
+        "A. Toga",
+        "R. Koeppe",
+        "C. Jack",
+        "M. Weiner",
+        "Craig Nelson",
+        "P. Insel"
+      ],
+      "labMembers": [
+        "Maria Kryza-Lacombe"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "The results support LLD as being associated with cortico-limbic volume abnormalities that are distinct from Aβ and white matter pathologies and that these volume abnormalities are important factors associated with cognitive dysfunction in LLD.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/2abd2880d702ebeb0d969e4d38c1bc13b1735f30?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 11.159
+    },
+    {
+      "id": "75253ae49be4032162f6bfa4ecb1c28c8b0f379c",
+      "title": "Protective Factors Predict Resilient Outcomes in Clinical High-Risk Youth with the Highest Individualized Psychosis Risk Scores",
+      "journal": "Schizophrenia bulletin",
+      "year": 2024,
+      "date": "2024-11-02",
+      "doi": "10.1093/schbul/sbae182",
+      "url": "https://doi.org/10.1093/schbul/sbae182",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/75253ae49be4032162f6bfa4ecb1c28c8b0f379c",
+      "authors": [
+        "K. Cadenhead",
+        "J. Addington",
+        "C. Bearden",
+        "T. Cannon",
+        "B. Cornblatt",
+        "M. Keshavan",
+        "D. Mathalon",
+        "D. Perkins",
+        "W. Stone",
+        "Elaine F. Walker",
+        "S. Woods"
+      ],
+      "labMembers": [
+        "Daniel Mathalon"
+      ],
+      "labLeadAuthor": false,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 4,
+      "influentialCitationCount": 1,
+      "preprint": false,
+      "automatedSummary": "A supportive childhood environment, positive experiences, and educational enrichment may contribute to better premorbid functioning and brain development, which in turn contribute to more resilient outcomes, which in turn contribute to more resilient outcomes.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/75253ae49be4032162f6bfa4ecb1c28c8b0f379c?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 9.219
+    },
+    {
+      "id": "689fb5337be6dd88cb3b251f4e272dfc9b07dabb",
+      "title": "Pons connectivity correlates with neurophysiological and clinical signatures of predictive coding in psychosis",
+      "journal": "Neuropsychopharmacology",
+      "year": 2024,
+      "date": "2024-07-22",
+      "doi": "10.1038/s41386-024-01919-x",
+      "url": "https://doi.org/10.1038/s41386-024-01919-x",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/689fb5337be6dd88cb3b251f4e272dfc9b07dabb",
+      "authors": [
+        "Samantha V. Abram",
+        "Jessica P Y Hua"
+      ],
+      "labMembers": [
+        "Jessica Hua",
+        "Samantha Abram"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/689fb5337be6dd88cb3b251f4e272dfc9b07dabb?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 16.0
+    },
+    {
+      "id": "00889e0595ee2bda2b050036281b1da2bea3330d",
+      "title": "Brain Morphometry Normative Modeling-Omit Global Thickness",
+      "journal": "JAMA psychiatry",
+      "year": 2024,
+      "date": "2024-07-03",
+      "doi": "10.1001/jamapsychiatry.2024.1695",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2024.1695",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/00889e0595ee2bda2b050036281b1da2bea3330d",
+      "authors": [
+        "Jessica P Y Hua",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Jessica Hua"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging"
+      ],
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/00889e0595ee2bda2b050036281b1da2bea3330d?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 15.386
+    },
+    {
+      "id": "bf325bfc069d41090d97e0ced2e698429ef8344b",
+      "title": "EEG spectral attractors identify a geometric core of brain dynamics",
+      "journal": "Patterns",
+      "year": 2024,
+      "date": "2024-07-01",
+      "doi": "10.1016/j.patter.2024.101025",
+      "url": "https://doi.org/10.1016/j.patter.2024.101025",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/bf325bfc069d41090d97e0ced2e698429ef8344b",
+      "authors": [
+        "Parham Pourdavood",
+        "Michael Jacob"
+      ],
+      "labMembers": [
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology"
+      ],
+      "citationCount": 10,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "These findings support a process-developmental perspective on the brain’s dynamic core, whereby more complex information differentiates out of an integrative and global geometric core.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/bf325bfc069d41090d97e0ced2e698429ef8344b?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 15.796
+    },
+    {
+      "id": "e239c9c4e6212ab25c5e2ca1e067aa0bf6e109d7",
+      "title": "Adjustment of Regional Cortical Thickness Measures for Global Cortical Thickness Obscures Deficits Across the Schizophrenia Spectrum: A Cautionary Note about Normative Modeling of Brain Imaging Data",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "year": 2024,
+      "date": "2024-06-01",
+      "doi": "10.1016/j.bpsc.2024.06.001",
+      "url": "https://doi.org/10.1016/j.bpsc.2024.06.001",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/e239c9c4e6212ab25c5e2ca1e067aa0bf6e109d7",
+      "authors": [
+        "Jessica P Y Hua",
+        "S. Fryer",
+        "Barbara K. Stuart",
+        "R. Loewy",
+        "Sophia Vinogradov",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "It is empirically demonstrate that this statistical approach severely underestimates regional thickness dysmorphology in psychiatric disorders, and results in erroneous conclusions that regional thickness is normal in disorders like schizophrenia or clinical high-risk syndrome.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/e239c9c4e6212ab25c5e2ca1e067aa0bf6e109d7?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 21.197
+    },
+    {
+      "id": "52471dcf67716486149842522cc8229e71096c8b",
+      "title": "Brain Age Gap in Early Illness Schizophrenia and the Clinical High-Risk Syndrome: Associations With Experiential Negative Symptoms and Conversion to Psychosis",
+      "journal": "Schizophrenia bulletin",
+      "year": 2024,
+      "date": "2024-05-30",
+      "doi": "10.1093/schbul/sbae074",
+      "url": "https://doi.org/10.1093/schbul/sbae074",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/52471dcf67716486149842522cc8229e71096c8b",
+      "authors": [
+        "Jessica P Y Hua",
+        "Samantha V. Abram",
+        "R. Loewy",
+        "Barbara K. Stuart",
+        "S. Fryer",
+        "Sophia Vinogradov",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 18,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Results suggest abnormal brain development is present early in psychosis, and an increased brain age gap may be especially relevant to motivational and functional deficits in schizophrenia.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/52471dcf67716486149842522cc8229e71096c8b?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 27.889
+    },
+    {
+      "id": "bd123f15595411e5cea3584c3a8195a7ddba54a7",
+      "title": "Using Multivariate Pattern Analysis to Increase Effect Sizes for Event-Related Potential Analyses",
+      "journal": "Psychophysiology",
+      "year": 2024,
+      "date": "2024-03-22",
+      "doi": "10.1111/psyp.14570",
+      "url": "https://doi.org/10.1111/psyp.14570",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/bd123f15595411e5cea3584c3a8195a7ddba54a7",
+      "authors": [
+        "C. Carrasco",
+        "Brett Bahle",
+        "A. M. Simmons",
+        "S. J. Luck"
+      ],
+      "labMembers": [
+        "Carlos Daniel Carrasco"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology"
+      ],
+      "citationCount": 19,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/bd123f15595411e5cea3584c3a8195a7ddba54a7?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 16.991
+    },
+    {
+      "id": "d30bbe5897b80cd991aea50aa1ad5fb320ad31b1",
+      "title": "Languaging psychopathology: neurobiology and metaphor",
+      "journal": "Frontiers in Psychiatry",
+      "year": 2024,
+      "date": "2024-02-05",
+      "doi": "10.3389/fpsyt.2024.1320771",
+      "url": "https://doi.org/10.3389/fpsyt.2024.1320771",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/d30bbe5897b80cd991aea50aa1ad5fb320ad31b1",
+      "authors": [
+        "A. Syed",
+        "Michael Jacob"
+      ],
+      "labMembers": [
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "clinical-neuroscience"
+      ],
+      "citationCount": 3,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": null,
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/d30bbe5897b80cd991aea50aa1ad5fb320ad31b1?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 13.773
+    },
+    {
+      "id": "3ab98f7e0c57fec336547e92078d0174cb62e253",
+      "title": "Pons-to-cerebellum hypoconnectivity along the psychosis spectrum and associations with sensory prediction and hallucinations in schizophrenia",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "year": 2024,
+      "date": "2024-02-01",
+      "doi": "10.1016/j.bpsc.2024.01.010",
+      "url": "https://doi.org/10.1016/j.bpsc.2024.01.010",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/3ab98f7e0c57fec336547e92078d0174cb62e253",
+      "authors": [
+        "Samantha V. Abram",
+        "Jessica P Y Hua",
+        "S. Nicholas",
+        "B. Roach",
+        "S. Keedy",
+        "John A. Sweeney",
+        "D. Mathalon",
+        "Judith M. Ford"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Judith Ford",
+        "Samantha Abram",
+        "Spero Nicholas"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 12,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Deficient pons-to-cerebellum connectivity links sensory prediction network breakdowns with perceptual abnormalities in schizophrenia, highlighting shared features and clinical heterogeneity across the psychosis spectrum.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/3ab98f7e0c57fec336547e92078d0174cb62e253?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 35.13
+    },
+    {
+      "id": "8c5d220d501b368eeffbfc364171d1305154d4c3",
+      "title": "The Scanner as the Stimulus: Deficient Gamma-BOLD Coupling in Schizophrenia at Rest",
+      "journal": "Schizophrenia bulletin",
+      "year": 2023,
+      "date": "2023-04-25",
+      "doi": "10.1093/schbul/sbad014",
+      "url": "https://doi.org/10.1093/schbul/sbad014",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/8c5d220d501b368eeffbfc364171d1305154d4c3",
+      "authors": [
+        "Michael S. Jacob",
+        "K. Sargent",
+        "B. Roach",
+        "E. Shamshiri",
+        "D. Mathalon",
+        "J. Ford"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 16,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Fundamental sensory-neural processing deficits in SZ are present at rest when considering scanner background sound as a \"stimulus\" and may impact the interpretation of rs-fMRI activity in studies of people with SZ.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/8c5d220d501b368eeffbfc364171d1305154d4c3?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 29.666
+    },
+    {
+      "id": "af6eb9435398a69f197540e58f13ddd9fc91fb1d",
+      "title": "Cognition is entangled with metabolism: relevance for resting-state EEG-fMRI",
+      "journal": "Frontiers in Human Neuroscience",
+      "year": 2023,
+      "date": "2023-04-11",
+      "doi": "10.3389/fnhum.2023.976036",
+      "url": "https://doi.org/10.3389/fnhum.2023.976036",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/af6eb9435398a69f197540e58f13ddd9fc91fb1d",
+      "authors": [
+        "Michael S. Jacob",
+        "J. Ford",
+        "T. Deacon"
+      ],
+      "labMembers": [
+        "Judith Ford",
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 12,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "By combining EEG with fMRI, new experimental work can reconcile emerging controversies in neurovascular coupling and the significance of ongoing, background activity during resting-state paradigms, and a new conceptual framework for neuroimaging paradigm is developed to investigate how ongoing neural activity is “entangled” with metabolism.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/af6eb9435398a69f197540e58f13ddd9fc91fb1d?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 23.13
+    },
+    {
+      "id": "cfebde3bad383a1ccaebb6da3a6d8ddfa3e7171d",
+      "title": "Cortical and Subcortical Brain Morphometry Abnormalities in Youth at Clinical High-Risk for Psychosis and Individuals with Early Illness Schizophrenia",
+      "journal": "Psychiatry research. Neuroimaging",
+      "year": 2023,
+      "date": "2023-04-01",
+      "doi": "10.1016/j.pscychresns.2023.111653",
+      "url": "https://doi.org/10.1016/j.pscychresns.2023.111653",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/cfebde3bad383a1ccaebb6da3a6d8ddfa3e7171d",
+      "authors": [
+        "J. Hua",
+        "R. Loewy",
+        "Barbara K. Stuart",
+        "S. Fryer",
+        "T. Niendam",
+        "C. Carter",
+        "S. Vinogradov",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 6,
+      "influentialCitationCount": 1,
+      "preprint": false,
+      "automatedSummary": "Results suggest that morphometric abnormalities in ESZ are not present in CHR-P, except for ventricular enlargement, which was evident in CHR-P who developed psychosis.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/cfebde3bad383a1ccaebb6da3a6d8ddfa3e7171d?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 23.892
+    },
+    {
+      "id": "614cd67ecdaa482f1780cbcdf7687103c0f5dea6",
+      "title": "Rich-Club Connectivity and Structural Connectome Organization in Youth at Clinical High-Risk for Psychosis and Individuals with Early Illness Schizophrenia",
+      "journal": "Schizophrenia Research",
+      "year": 2023,
+      "date": "2023-03-27",
+      "doi": "10.1016/j.schres.2023.03.016",
+      "url": "https://doi.org/10.1016/j.schres.2023.03.016",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/614cd67ecdaa482f1780cbcdf7687103c0f5dea6",
+      "authors": [
+        "J. Hua",
+        "J. Cummings",
+        "B. Roach",
+        "S. Fryer",
+        "R. Loewy",
+        "Barbara K. Stuart",
+        "J. Ford",
+        "S. Vinogradov",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Jessica Hua",
+        "Judith Ford",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 6,
+      "influentialCitationCount": 0,
+      "preprint": false,
+      "automatedSummary": "Findings suggest that rich-club and connectome organization abnormalities are present early in schizophrenia and in CHR-P individuals who subsequently transition to psychosis.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/614cd67ecdaa482f1780cbcdf7687103c0f5dea6?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 28.892
+    },
+    {
+      "id": "8f32c27be643bf735565e2f4a707adb9647835b2",
+      "title": "Alpha Event-related Desynchronization During Reward Processing in Schizophrenia",
+      "journal": "bioRxiv",
+      "year": 2021,
+      "date": "2021-02-27",
+      "doi": "10.1101/2021.02.25.432936",
+      "url": "https://doi.org/10.1101/2021.02.25.432936",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/8f32c27be643bf735565e2f4a707adb9647835b2",
+      "authors": [
+        "S. Fryer",
+        "Tobias F. Marton",
+        "B. Roach",
+        "Clay B. Holroyd",
+        "Samantha V. Abram",
+        "Ken J. Lau",
+        "J. Ford",
+        "John R. McQuaid",
+        "D. Mathalon"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Samantha Abram",
+        "Susanna Fryer"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "electrophysiology",
+        "clinical-neuroscience"
+      ],
+      "citationCount": 7,
+      "influentialCitationCount": 0,
+      "preprint": true,
+      "automatedSummary": "It is hypothesized that alpha event-related desynchronization (ERD) during reward processing is altered in schizophrenia, leading to less difference in alpha ERD magnitude between winning and losing outcomes, even when reward attainment places minimal demands on higher-order cognitive processes during slot machine play.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/8f32c27be643bf735565e2f4a707adb9647835b2?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 25.159
+    },
+    {
+      "id": "112437295d801ac8b60e6f99d7a7f444192c40d6",
+      "title": "Aperiodic measures of neural excitability are associated with anticorrelated hemodynamic networks at rest: A combined EEG-fMRI study",
+      "journal": "bioRxiv",
+      "year": 2021,
+      "date": "2021-02-01",
+      "doi": "10.1016/j.neuroimage.2021.118705",
+      "url": "https://doi.org/10.1016/j.neuroimage.2021.118705",
+      "semanticScholarUrl": "https://www.semanticscholar.org/paper/112437295d801ac8b60e6f99d7a7f444192c40d6",
+      "authors": [
+        "Michael S. Jacob",
+        "B. Roach",
+        "K. Sargent",
+        "D. Mathalon",
+        "J. Ford"
+      ],
+      "labMembers": [
+        "Brian Roach",
+        "Daniel Mathalon",
+        "Judith Ford",
+        "Michael Jacob"
+      ],
+      "labLeadAuthor": true,
+      "domains": [
+        "brain-imaging",
+        "electrophysiology"
+      ],
+      "citationCount": 57,
+      "influentialCitationCount": 1,
+      "preprint": true,
+      "automatedSummary": "These findings suggest that resting-state EEG signals acquired in an fMRI scanner reflect a balance of top-down and bottom-up stimulus processing, even in the absence of an explicit task.",
+      "recommendationEligible": true,
+      "recent": false,
+      "sources": [
+        "https://api.semanticscholar.org/graph/v1/paper/112437295d801ac8b60e6f99d7a7f444192c40d6?fields=title,authors,year,publicationDate,externalIds,abstract,tldr,citationCount,influentialCitationCount,url,venue,publicationTypes"
+      ],
+      "recommendationScore": 25
+    }
+  ],
+  "omitted": [
+    {
+      "requestedId": "PMID:40592929",
+      "reason": "not indexed or explicitly excluded"
+    },
+    {
+      "requestedId": "DOI:10.1038/s41597-025-04825-z",
+      "reason": "no verified lab author or domain match"
+    },
+    {
+      "requestedId": "PMID:41369364",
+      "reason": "no verified lab author or domain match"
+    },
+    {
+      "requestedId": "PMID:37295595",
+      "reason": "no verified lab author or domain match"
+    },
+    {
+      "requestedId": "37840dd2da3ebfff7927c70347a31308991c5619",
+      "reason": "no verified lab author or domain match"
+    }
+  ]
+}

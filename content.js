@@ -174,7 +174,7 @@ window.LAB_PEOPLE = [
     "name": "Brian Roach",
     "role": "Consultant",
     "group": "Collaborators",
-    "portrait": null,
+    "portrait": "assets/people/brian-roach-freedman.png",
     "bio": "Longtime EEG and neuroimaging research contributor, with work on sensory prediction, brain connectivity, and neural–hemodynamic coupling.",
     "profile": "people/brian-roach.html",
     "draft": true,

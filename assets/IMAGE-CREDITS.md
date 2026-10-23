@@ -43,3 +43,5 @@ These marks identify the lab’s institutional affiliations and are not AI-gener
 - `people/zoe-rygg-linkedin.jpg`: portrait from https://www.linkedin.com/in/zo%C3%AB-rygg-7a5347223, linked by the user through Google Images. Copied unchanged; exact source and image URLs are in `data/staff-photo-sources.json`.
 
 - `people/spero-nicholas.jpg`: Smith-Kettlewell portrait saved to the repository by the user, copied unchanged. Source recorded in `data/spero-photo-source.json`.
+
+- `people/brian-roach-freedman.png`: portrait displayed on https://freedmanhealthcare.com/author/briroa211/, copied unchanged. That page credits corporate photography to David Shopper (https://www.davidshopper.com/). Exact image URL is recorded in `data/brian-photo-source.json`.
