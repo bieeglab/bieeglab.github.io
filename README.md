@@ -26,8 +26,8 @@ Search and group filters combine. Use Everyone and clear the search to reset. Al
 
 | Group | Members |
 | --- | --- |
-| Principal Investigators | Daniel Mathalon; Judith Ford; Susanna Fryer |
-| Early Career PIs | Samantha Abram; Michael Jacob; Jessica Hua; Maria Kryza-Lacombe |
+| Directors | Daniel Mathalon (Co-Director); Judith Ford (Co-Director); Susanna Fryer (Associate Director) |
+| Principal Investigators | Samantha Abram; Michael Jacob; Jessica Hua; Maria Kryza-Lacombe |
 | Postdoctoral Fellows | Jessica Mow; Carlos Carrasco; Maya Wong; Wendy Torrens |
 | CRCs / RAs | Juliette Kyner; Zoe Rygg; Olivia Dance |
 | Lab Manager | Paul Betancourt |

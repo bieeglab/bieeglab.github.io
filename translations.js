@@ -895,5 +895,26 @@ window.LAB_TRANSLATIONS = {
   "Portrait of {name}": {
     "hi": "{name} की तस्वीर",
     "ar": "صورة {name}"
+  },
+  "Directors": {
+    "es": "Dirección",
+    "zh-Hans": "实验室主任",
+    "hi": "निदेशक",
+    "ar": "إدارة المختبر",
+    "vi": "Ban giám đốc"
+  },
+  "Co-Director": {
+    "es": "Codirector/a",
+    "zh-Hans": "共同主任",
+    "hi": "सह-निदेशक",
+    "ar": "إدارة مشتركة",
+    "vi": "Đồng giám đốc"
+  },
+  "Associate Director": {
+    "es": "Directora asociada",
+    "zh-Hans": "副主任",
+    "hi": "सहयोगी निदेशक",
+    "ar": "مديرة مشاركة",
+    "vi": "Phó giám đốc"
   }
 };
