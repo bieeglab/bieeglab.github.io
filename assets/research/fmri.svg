@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" fill="none"><title>MRI scanner with a participant on the scanning table</title>
+<ellipse cx="166" cy="151" rx="122" ry="5" fill="#052049" opacity=".06"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M201 146h38l8 7h-71l7-7" fill="#B4E2E8" stroke="#052049" stroke-width="2.5"/>
+<circle cx="207" cy="82" r="65" fill="#FFFFFF" stroke="#052049" stroke-width="3"/>
+<circle cx="207" cy="82" r="49" fill="#E2F4FC" stroke="#14828C" stroke-width="2.5"/>
+<path d="M169 55a45 45 0 0 1 49-15" stroke="#60D0DA" stroke-width="4"/>
+<path d="M235 51a42 42 0 0 1 10 40" stroke="#B4E2E8" stroke-width="7"/>
+<path d="M68 113v31m110-27v27M57 145h132" stroke="#052049" stroke-width="3"/>
+<path d="M58 109h163v12H58a6 6 0 0 1 0-12Z" fill="#FFFFFF" stroke="#052049" stroke-width="3"/>
+<path d="M74 108V98h78c12 0 22 3 28 10" fill="#B4E2E8" stroke="#14828C" stroke-width="3"/>
+<circle cx="195" cy="96" r="12" fill="#FFFFFF" stroke="#052049" stroke-width="3"/>
+<path d="M78 99h41m-14-5h31" stroke="#14828C" stroke-width="2"/>
+<path d="M204 89c5 0 7 3 7 7" stroke="#14828C" stroke-width="2"/>
+<circle cx="208" cy="26" r="2.5" fill="#14828C"/>
+</g></svg>
