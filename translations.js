@@ -1058,5 +1058,19 @@ window.LAB_TRANSLATIONS = {
     "zh-Hans": "个人资料内容目前提供英文版本。",
     "hi": "प्रोफ़ाइल की सामग्री फिलहाल अंग्रेज़ी में उपलब्ध है।",
     "ar": "محتوى الملف الشخصي متاح حاليا باللغة الإنجليزية."
+  },
+  "The UCSF Path Program supports young people with early psychosis or increased risk through assessment, treatment, and family support. Led by Daniel Mathalon, its research team studies early warning signs and approaches to care.": {
+    "es": "El Programa Path de UCSF apoya a jóvenes con psicosis temprana o riesgo elevado mediante evaluación, tratamiento y apoyo familiar. Dirigido por Daniel Mathalon, su equipo de investigación estudia señales tempranas y enfoques de atención.",
+    "zh-Hans": "UCSF Path项目通过评估、治疗和家庭支持，帮助早期精神病或风险升高的青年。Daniel Mathalon领导的研究团队研究早期征兆及照护方法。",
+    "hi": "UCSF Path कार्यक्रम आकलन, उपचार और पारिवारिक सहयोग से शुरुआती मनोविकृति या बढ़े जोखिम वाले युवाओं की सहायता करता है। Daniel Mathalon के नेतृत्व में इसकी शोध टीम शुरुआती संकेतों और देखभाल के तरीकों का अध्ययन करती है।",
+    "ar": "يدعم برنامج Path في UCSF الشباب المصابين بالذهان المبكر أو المعرضين لخطر متزايد من خلال التقييم والعلاج ودعم الأسرة. ويدرس فريقه البحثي بقيادة Daniel Mathalon العلامات المبكرة وأساليب الرعاية.",
+    "vi": "Chương trình Path của UCSF hỗ trợ thanh thiếu niên và người trẻ bị loạn thần giai đoạn sớm hoặc có nguy cơ cao thông qua đánh giá, điều trị và hỗ trợ gia đình. Nhóm nghiên cứu do Daniel Mathalon dẫn dắt nghiên cứu các dấu hiệu sớm và phương pháp chăm sóc."
+  },
+  "AMP SCZ is an international public–private partnership developing tools to identify schizophrenia risk and predict clinical outcomes. Explore its studies, scientific protocols, and research resources through the official program website.": {
+    "es": "AMP SCZ es una alianza internacional público-privada que desarrolla herramientas para identificar el riesgo de esquizofrenia y predecir resultados clínicos. Explore sus estudios, protocolos científicos y recursos de investigación en el sitio oficial del programa.",
+    "zh-Hans": "AMP SCZ是一个国际公私合作项目，开发识别精神分裂症风险和预测临床结局的工具。请通过项目官网了解研究、科学方案及研究资源。",
+    "hi": "AMP SCZ एक अंतरराष्ट्रीय सार्वजनिक–निजी साझेदारी है, जो सिज़ोफ्रेनिया के जोखिम की पहचान और नैदानिक परिणामों के पूर्वानुमान के उपकरण विकसित करती है। कार्यक्रम की आधिकारिक वेबसाइट पर अध्ययन, वैज्ञानिक प्रोटोकॉल और शोध संसाधन देखें।",
+    "ar": "AMP SCZ شراكة دولية بين القطاعين العام والخاص تطور أدوات لتحديد خطر الفصام والتنبؤ بالنتائج السريرية. استكشف الدراسات والبروتوكولات العلمية والموارد البحثية عبر الموقع الرسمي للبرنامج.",
+    "vi": "AMP SCZ là quan hệ đối tác công–tư quốc tế phát triển công cụ xác định nguy cơ tâm thần phân liệt và dự đoán kết quả lâm sàng. Khám phá các nghiên cứu, quy trình khoa học và tài nguyên nghiên cứu trên trang web chính thức của chương trình."
   }
 };

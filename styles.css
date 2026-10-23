@@ -164,3 +164,21 @@ main section.section[id]{scroll-margin-top:-76px}
 @media(max-width:700px){.research-domain-intro{grid-template-columns:1fr;gap:20px}.research-domain-intro img{width:200px;justify-self:center}.research-paper{padding:22px}.research-paper h3{font-size:24px}.paper-summary{font-size:16px}.research-area-nav{gap:8px}.research-area-nav a{font-size:14px;padding:8px 10px}}
 
 .paper-citations{font-size:14px;color:var(--muted);margin-bottom:14px}
+
+/* Keep both program identities, summaries, and links visible on a desktop jump. */
+.programs-section .section-heading{margin-bottom:28px}
+.programs-section .section-heading .eyebrow{margin-bottom:12px}
+.programs-section .section-heading h2{font-size:clamp(35px,3.1vw,44px);line-height:1.15}
+.programs-section .program-banner{min-height:172px;padding:22px 28px;gap:18px}
+.programs-section .program-body{padding:24px 28px}
+.programs-section .program-body h3{font-size:29px;margin-bottom:14px}
+.programs-section .program-body>p{font-size:17px;line-height:1.65;margin-bottom:16px}
+.programs-section .program-links{padding-top:0;gap:12px 24px}
+.programs-section .program-source{margin-top:18px;margin-bottom:0}
+@media(max-width:640px){
+ .programs-section .section-heading{margin-bottom:24px}
+ .programs-section .program-banner{padding:22px;min-height:155px}
+ .programs-section .program-body{padding:22px}
+ .programs-section .program-body h3{font-size:27px}
+ .programs-section .program-body>p{font-size:16px}
+}
