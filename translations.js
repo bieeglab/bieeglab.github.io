@@ -792,12 +792,12 @@ window.LAB_TRANSLATIONS = {
     "hi": "संपर्क विवरण जल्द उपलब्ध होंगे।",
     "ar": "ستتاح معلومات الاتصال قريبا."
   },
-  "The former website located the lab at the San Francisco VA Medical Center, Building 8, and described additional research space at UCSF. Current lab contact details and visitor directions are being confirmed.": {
-    "es": "El sitio anterior situaba el laboratorio en el edificio 8 del Centro Médico de Veteranos de San Francisco y mencionaba espacios de investigación adicionales en UCSF. Estamos confirmando los datos de contacto y las indicaciones para visitantes.",
-    "zh-Hans": "旧网站将实验室地址列为旧金山退伍军人医疗中心 8 号楼，并提及 UCSF 的其他研究空间。目前的联系方式和访客路线正在确认中。",
-    "vi": "Trang web cũ ghi địa chỉ phòng thí nghiệm tại Tòa nhà 8, Trung tâm Y tế Cựu chiến binh San Francisco VA, đồng thời đề cập đến không gian nghiên cứu bổ sung tại UCSF. Thông tin liên hệ hiện tại và hướng dẫn dành cho khách đang được xác nhận.",
-    "hi": "पुरानी वेबसाइट के अनुसार प्रयोगशाला सैन फ़्रांसिस्को वीए मेडिकल सेंटर की बिल्डिंग 8 में थी और यूसीएसएफ में अतिरिक्त अनुसंधान स्थान भी था। प्रयोगशाला के वर्तमान संपर्क विवरण और आगंतुकों के लिए दिशानिर्देशों की पुष्टि की जा रही है।",
-    "ar": "حدد الموقع السابق مكان المختبر في المبنى 8 بمركز سان فرانسيسكو الطبي لشؤون المحاربين القدامى، وذكر وجود مساحة بحثية إضافية في UCSF. ويجري التأكد من معلومات الاتصال الحالية وإرشادات الزيارة."
+  "We are located at the San Francisco VA Medical Center (SFVA) and the Pritzker Building at UCSF. We are currently updating our contact information and visitor directions.": {
+      "es": "Estamos ubicados en el Centro Médico de Veteranos de San Francisco (SFVA) y en el edificio Pritzker de UCSF. Actualmente estamos actualizando nuestra información de contacto y las indicaciones para visitantes.",
+      "zh-Hans": "我们位于旧金山退伍军人医疗中心（SFVA）及 UCSF 的 Pritzker 大楼。目前正在更新联系信息和访客路线。",
+      "vi": "Chúng tôi đặt tại Trung tâm Y tế Cựu chiến binh San Francisco (SFVA) và Tòa nhà Pritzker tại UCSF. Chúng tôi hiện đang cập nhật thông tin liên hệ và hướng dẫn dành cho khách.",
+      "hi": "हम सैन फ़्रांसिस्को वीए मेडिकल सेंटर (SFVA) और UCSF के प्रिट्ज़कर भवन में स्थित हैं। हम वर्तमान में अपनी संपर्क जानकारी और आगंतुकों के लिए दिशानिर्देश अपडेट कर रहे हैं।",
+      "ar": "نحن موجودون في المركز الطبي لشؤون المحاربين القدامى في سان فرانسيسكو (SFVA) ومبنى بريتزكر في UCSF. نعمل حالياً على تحديث معلومات الاتصال وإرشادات الوصول للزوار."
   },
   "This mockup does not collect inquiries or participant information.": {
     "es": "Esta versión de muestra no recopila consultas ni información de participantes.",
