@@ -110,3 +110,8 @@ The research cards now use the built-in image generator’s flat stencil/cartoon
 The site displays the four papers specifically selected by the user: Mathalon et al. (2025, Schizophrenia), Rodriguez-Sanchez et al. (2026, Biological Psychiatry), Abram et al. (2026, bioRxiv COVID preprint), and Abram et al. (2026, Schizophrenia Bulletin ketogenic-diet trial). The broader source records and refresh script in the worktree remain preparatory and are not connected to the site. There is no automatic publication feed.
 
 Final copy cleanup removed the archive adaptation note, historical-project disclosure, team tagline, and first-pass directory note.
+
+
+## Languages
+The top-bar language selector offers English, Spanish, and Simplified Chinese (`zh-Hans`). The selection is stored locally in the browser; no translation service receives visitor data. `translations.js` holds the site-authored Spanish and Chinese translations. The English HTML remains the source and works without JavaScript. The directory, filters, search, accessible labels, placeholders, and page title switch with the content. Names, published paper titles, citations, journal names, and official program names retain their original form for accurate reference. External program websites have their own language availability. Review translated clinical and participation copy with fluent speakers before public launch. Add or update translation keys whenever English copy changes.
+Program and join/participate number labels and the top mockup badge have been removed.

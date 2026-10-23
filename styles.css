@@ -51,3 +51,8 @@ body{font-size:18px}.research-text>p:not(.card-number){font-size:16px;min-height
 
 /* Make section labels readable at every viewport size. */
 .section .eyebrow{font-size:18px;line-height:1.6;letter-spacing:.11em}.join-section .eyebrow{font-size:18px}@media(max-width:640px){.section .eyebrow,.join-section .eyebrow{font-size:16px;letter-spacing:.08em}}
+
+/* Language control replaces the mockup badge. */
+.language-control{flex-shrink:0}.language-control select{font:inherit;font-size:14px;color:white;background:var(--navy);border:1px solid #8ca2b8;padding:5px 28px 5px 10px;border-radius:3px;max-width:150px}.language-control option{background:var(--navy);color:white}.institution-bar .container{align-items:center;gap:16px}.join-grid article{padding-left:0}html[lang="zh-Hans"] h1,html[lang="zh-Hans"] h2,html[lang="zh-Hans"] h3{letter-spacing:0;line-height:1.4}html:not([lang="en"]) nav{gap:16px}html[lang="es"] .brand-sub{max-width:240px;white-space:normal}@media(max-width:640px){.language-control select{font-size:13px;max-width:115px;padding-left:6px}.institution-bar .container{gap:8px}.institution-bar .container>span{max-width:60%}.join-grid article{padding-left:0}}
+
+@media(min-width:1201px) and (max-width:1500px){html:not([lang="en"]) .menu-toggle{display:flex;gap:12px;align-items:center;border:1px solid var(--line);padding:10px 14px;background:transparent;font-size:16px;color:var(--ink)}html:not([lang="en"]) nav{display:none;position:absolute;left:0;right:0;top:112px;background:var(--paper);padding:15px 32px 28px;border-bottom:1px solid var(--line);font-size:17px}html:not([lang="en"]) nav.open{display:flex;flex-direction:column;align-items:stretch;gap:0}html:not([lang="en"]) nav a{padding:11px 0}html:not([lang="en"]) .nav-contact{border:none}}

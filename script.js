@@ -1,4 +1,38 @@
 'use strict';
+// Translate text nodes without replacing elements, links, or event handlers.
+let activeLanguage = 'en';
+try { const saved = localStorage.getItem('bieegl-language'); if (['en', 'es', 'zh-Hans'].includes(saved)) activeLanguage = saved; } catch {}
+const sourceText = new WeakMap();
+const sourceAttributes = new WeakMap();
+function translateText(value) {
+  const key = value.trim();
+  if (activeLanguage === 'en') return value;
+  let translated = window.LAB_TRANSLATIONS[key]?.[activeLanguage];
+  const count = key.match(/^(\d+) entr(?:y|ies)(?: · (.*))?$/);
+  if (count) {
+    const suffix = count[2] === 'Full lab directory' ? (activeLanguage === 'es' ? 'Directorio completo' : '完整团队名录') : (window.LAB_TRANSLATIONS[count[2]]?.[activeLanguage] || count[2]);
+    translated = activeLanguage === 'es' ? `${count[1]} ${count[1] === '1' ? 'miembro' : 'miembros'}${suffix ? ' · ' + suffix : ''}` : `${count[1]} 位成员${suffix ? ' · ' + suffix : ''}`;
+  }
+  if (key.startsWith('Biography of ')) translated = activeLanguage === 'es' ? `Biografía de ${key.slice(13)}` : `${key.slice(13)}的个人简介`;
+  if (key === 'Biography of volunteers (to be determined)') translated = activeLanguage === 'es' ? 'Biografía del voluntariado (por confirmar)' : '志愿者个人简介（待确认）';
+  if (key.startsWith('Portrait of ')) translated = activeLanguage === 'es' ? `Retrato de ${key.slice(12)}` : `${key.slice(12)}的照片`;
+  return translated ? value.replace(key, translated) : value;
+}
+function applyTranslations() {
+  document.documentElement.lang = activeLanguage;
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let node;
+  while ((node = walker.nextNode())) {
+    if (node.parentElement.closest('script, style, select, .monogram')) continue;
+    if (!sourceText.has(node)) sourceText.set(node, node.nodeValue);
+    node.nodeValue = translateText(sourceText.get(node));
+  }
+  document.querySelectorAll('[aria-label], [placeholder], img[alt]').forEach(node => {
+    if (!sourceAttributes.has(node)) sourceAttributes.set(node, Object.fromEntries(['aria-label', 'placeholder', 'alt'].filter(attr => node.hasAttribute(attr)).map(attr => [attr, node.getAttribute(attr)])));
+    for (const [attr, text] of Object.entries(sourceAttributes.get(node))) node.setAttribute(attr, translateText(text));
+  });
+  document.title = translateText('Brain Imaging and EEG Laboratory · BIEEGL');
+}
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#main-nav');
 function closeMenu() { menu.setAttribute('aria-expanded', 'false'); nav.classList.remove('open'); }
@@ -24,7 +58,7 @@ function renderPeople() {
   const query = search.value.trim().toLocaleLowerCase();
   const people = window.LAB_PEOPLE.filter(person =>
     (activeFilter === 'all' || person.group === activeFilter) &&
-    `${person.name} ${person.role} ${person.group}`.toLocaleLowerCase().includes(query)
+    `${person.name} ${person.role} ${person.group} ${translateText(person.role)} ${translateText(person.group)}`.toLocaleLowerCase().includes(query)
   );
   grid.replaceChildren();
   for (const person of people) {
@@ -49,6 +83,7 @@ function renderPeople() {
   }
   if (!people.length) grid.append(element('p', 'empty-results', 'No matching lab members. Try another name or select Everyone.'));
   document.querySelector('#people-count').textContent = `${people.length} ${people.length === 1 ? 'entry' : 'entries'}${activeFilter === 'all' ? ' · Full lab directory' : ` · ${activeFilter}`}`;
+  applyTranslations();
 }
 document.querySelectorAll('.filter').forEach(button => button.addEventListener('click', () => {
   activeFilter = button.dataset.filter;
@@ -74,3 +109,12 @@ if ('IntersectionObserver' in window) {
   }, {rootMargin: '-15% 0px -65% 0px'});
   document.querySelectorAll('main section[id]').forEach(section => observer.observe(section));
 }
+
+const languageSelect = document.querySelector('#language-select');
+languageSelect.value = activeLanguage;
+languageSelect.addEventListener('change', () => {
+  activeLanguage = languageSelect.value;
+  try { localStorage.setItem('bieegl-language', activeLanguage); } catch {}
+  renderPeople();
+  closeMenu();
+});
