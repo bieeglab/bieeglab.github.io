@@ -14,3 +14,7 @@
 - `institutions/ucsf-signature-navy.png`: user-supplied `UCSF_Sig_21_Navy_300dpi_RGB.png`, copied unchanged. UCSF institutional signature.
 - `institutions/va-stacked-navy.png`: user-supplied `Stacked-One-Color-on-Light.png`, copied unchanged. U.S. Department of Veterans Affairs institutional mark.
 These marks identify the lab’s institutional affiliations and are not AI-generated artwork.
+
+## Program artwork
+- `programs/ucsf-path-program.png`: user-supplied `UCSF_Campus_Lockup_21_PathProgramforEarlyPsychosis_logo_navy_RGB.png`, copied unchanged; UCSF Path Program for Early Psychosis lockup.
+- `programs/early-intervention.png`: user-supplied `amp-scz-logo.png`, copied unchanged; artwork reads “Early Intervention.” Displayed alongside the AMP SCZ program name without treating the artwork as a verified official AMP SCZ wordmark.

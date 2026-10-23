@@ -916,5 +916,33 @@ window.LAB_TRANSLATIONS = {
     "hi": "सहयोगी निदेशक",
     "ar": "مديرة مشاركة",
     "vi": "Phó giám đốc"
+  },
+  "UCSF Path Program for Early Psychosis": {
+    "es": "Programa Path de UCSF para la psicosis temprana",
+    "zh-Hans": "UCSF 早期精神病性症状 Path 项目",
+    "hi": "प्रारंभिक मनोविकृति के लिए यूसीएसएफ पाथ कार्यक्रम",
+    "ar": "برنامج Path في UCSF للذهان المبكر",
+    "vi": "Chương trình Path của UCSF về loạn thần giai đoạn sớm"
+  },
+  "Early intervention": {
+    "es": "Intervención temprana",
+    "zh-Hans": "早期干预",
+    "hi": "प्रारंभिक हस्तक्षेप",
+    "ar": "التدخل المبكر",
+    "vi": "Can thiệp sớm"
+  },
+  "Accelerating Medicines Partnership": {
+    "es": "Alianza para acelerar el desarrollo de medicamentos",
+    "zh-Hans": "加速药物研发合作计划",
+    "hi": "दवा विकास को गति देने की साझेदारी",
+    "ar": "شراكة تسريع تطوير الأدوية",
+    "vi": "Quan hệ đối tác thúc đẩy phát triển thuốc"
+  },
+  "Schizophrenia": {
+    "es": "Esquizofrenia",
+    "zh-Hans": "精神分裂症",
+    "hi": "सिज़ोफ्रेनिया",
+    "ar": "الفصام",
+    "vi": "Tâm thần phân liệt"
   }
 };
