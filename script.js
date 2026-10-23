@@ -1,7 +1,7 @@
 'use strict';
 // Translate text nodes without replacing elements, links, or event handlers.
 let activeLanguage = 'en';
-try { const saved = localStorage.getItem('bieegl-language'); if (['en', 'es', 'zh-Hans'].includes(saved)) activeLanguage = saved; } catch {}
+try { const saved = localStorage.getItem('bieegl-language'); if (['en', 'es', 'zh-Hans', 'hi', 'ar'].includes(saved)) activeLanguage = saved; } catch {}
 const sourceText = new WeakMap();
 const sourceAttributes = new WeakMap();
 function translateText(value) {
@@ -10,16 +10,17 @@ function translateText(value) {
   let translated = window.LAB_TRANSLATIONS[key]?.[activeLanguage];
   const count = key.match(/^(\d+) entr(?:y|ies)(?: · (.*))?$/);
   if (count) {
-    const suffix = count[2] === 'Full lab directory' ? (activeLanguage === 'es' ? 'Directorio completo' : '完整团队名录') : (window.LAB_TRANSLATIONS[count[2]]?.[activeLanguage] || count[2]);
-    translated = activeLanguage === 'es' ? `${count[1]} ${count[1] === '1' ? 'miembro' : 'miembros'}${suffix ? ' · ' + suffix : ''}` : `${count[1]} 位成员${suffix ? ' · ' + suffix : ''}`;
+    const suffix = count[2] === 'Full lab directory' ? ({es: 'Directorio completo', 'zh-Hans': '完整团队名录', vi: 'Danh sách đầy đủ thành viên', hi: 'सभी सदस्यों की सूची', ar: 'دليل المختبر الكامل'}[activeLanguage]) : (window.LAB_TRANSLATIONS[count[2]]?.[activeLanguage] || count[2]);
+    translated = ['hi', 'ar'].includes(activeLanguage) ? `${window.LAB_TRANSLATIONS['{count} members'][activeLanguage].replace('{count}', count[1])}${suffix ? ' · ' + suffix : ''}` : activeLanguage === 'vi' ? `${count[1]} thành viên${suffix ? ' · ' + suffix : ''}` : activeLanguage === 'es' ? `${count[1]} ${count[1] === '1' ? 'miembro' : 'miembros'}${suffix ? ' · ' + suffix : ''}` : `${count[1]} 位成员${suffix ? ' · ' + suffix : ''}`;
   }
-  if (key.startsWith('Biography of ')) translated = activeLanguage === 'es' ? `Biografía de ${key.slice(13)}` : `${key.slice(13)}的个人简介`;
-  if (key === 'Biography of volunteers (to be determined)') translated = activeLanguage === 'es' ? 'Biografía del voluntariado (por confirmar)' : '志愿者个人简介（待确认）';
-  if (key.startsWith('Portrait of ')) translated = activeLanguage === 'es' ? `Retrato de ${key.slice(12)}` : `${key.slice(12)}的照片`;
+  if (key.startsWith('Biography of ')) translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS['Biography of {name}'][activeLanguage].replace('{name}', key.slice(13)) : activeLanguage === 'vi' ? `Tiểu sử của ${key.slice(13)}` : activeLanguage === 'es' ? `Biografía de ${key.slice(13)}` : `${key.slice(13)}的个人简介`;
+  if (key === 'Biography of volunteers (to be determined)') translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS[key][activeLanguage] : activeLanguage === 'vi' ? 'Tiểu sử tình nguyện viên (chưa xác định)' : activeLanguage === 'es' ? 'Biografía del voluntariado (por confirmar)' : '志愿者个人简介（待确认）';
+  if (key.startsWith('Portrait of ')) translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS['Portrait of {name}'][activeLanguage].replace('{name}', key.slice(12)) : activeLanguage === 'vi' ? `Ảnh của ${key.slice(12)}` : activeLanguage === 'es' ? `Retrato de ${key.slice(12)}` : `${key.slice(12)}的照片`;
   return translated ? value.replace(key, translated) : value;
 }
 function applyTranslations() {
   document.documentElement.lang = activeLanguage;
+  document.documentElement.dir = activeLanguage === 'ar' ? 'rtl' : 'ltr';
   const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
   let node;
   while ((node = walker.nextNode())) {
