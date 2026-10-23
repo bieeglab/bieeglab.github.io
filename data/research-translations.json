@@ -149,12 +149,6 @@
     "hi": "प्रकाशन अवधि",
     "ar": "الفترة المشمولة"
   },
-  "Metadata and citation counts come from Semantic Scholar. Coverage is limited to verified author IDs and source-checked lab publications; this is not a complete bibliography. Paper titles and automated summary previews retain their source language.": {
-    "es": "Los metadatos y las citas proceden de Semantic Scholar. La cobertura se limita a identificadores de autor verificados y publicaciones del laboratorio contrastadas; no es una bibliografía completa. Los títulos y las vistas previas automáticas conservan el idioma de la fuente.",
-    "zh-Hans": "元数据与引用次数来自Semantic Scholar。收录范围限于已核实的作者ID及有来源依据的实验室论文，并非完整书目。论文标题和自动摘要预览保留原始语言。",
-    "hi": "मेटाडेटा और उद्धरण संख्या Semantic Scholar से हैं। कवरेज सत्यापित लेखक पहचान और स्रोत-जाँचे प्रयोगशाला प्रकाशनों तक सीमित है; यह पूर्ण ग्रंथसूची नहीं है। शोधपत्रों के शीर्षक और स्वचालित सारांश पूर्वावलोकन मूल भाषा में रहते हैं।",
-    "ar": "تأتي البيانات الوصفية وأعداد الاستشهادات من Semantic Scholar. تقتصر التغطية على معرفات المؤلفين المتحقق منها وأبحاث المختبر الموثقة، وليست قائمة شاملة. تبقى عناوين الأبحاث ومعاينات الملخصات الآلية بلغتها الأصلية."
-  },
   "Recommended reading": {
     "es": "Lecturas recomendadas",
     "zh-Hans": "推荐阅读",
@@ -250,5 +244,11 @@
     "zh-Hans": "引用次数",
     "hi": "उद्धरण संख्या",
     "ar": "عدد الاستشهادات"
+  },
+  "Metadata comes from Semantic Scholar. Coverage is limited to verified author IDs and source-checked lab publications; this is not a complete bibliography. Paper titles and automated summary previews retain their source language.": {
+    "es": "Los metadatos proceden de Semantic Scholar. La cobertura se limita a identificadores de autor verificados y publicaciones del laboratorio contrastadas; no es una bibliografía completa. Los títulos y las vistas previas automáticas conservan el idioma de la fuente.",
+    "zh-Hans": "元数据来自Semantic Scholar。收录范围限于已核实的作者ID及有来源依据的实验室论文，并非完整书目。论文标题和自动摘要预览保留原始语言。",
+    "hi": "मेटाडेटा Semantic Scholar से है। कवरेज सत्यापित लेखक पहचान और स्रोत-जाँचे प्रयोगशाला प्रकाशनों तक सीमित है; यह पूर्ण ग्रंथसूची नहीं है। शोधपत्रों के शीर्षक और स्वचालित सारांश पूर्वावलोकन मूल भाषा में रहते हैं।",
+    "ar": "تأتي البيانات الوصفية من Semantic Scholar. تقتصر التغطية على معرفات المؤلفين المتحقق منها وأبحاث المختبر الموثقة، وليست قائمة شاملة. تبقى عناوين الأبحاث ومعاينات الملخصات الآلية بلغتها الأصلية."
   }
 }
