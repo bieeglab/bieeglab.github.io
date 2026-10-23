@@ -134,12 +134,12 @@ window.LAB_TRANSLATIONS = {
     "hi": "मस्तिष्क इमेजिंग और ईईजी प्रयोगशाला (BIEEGL) में हम मनोविकृति के लक्षणों के पीछे के तंत्र को बेहतर समझने के लिए मस्तिष्क की संरचना और कार्यप्रणाली का अध्ययन करते हैं। हमारा काम मस्तिष्क इमेजिंग, इलेक्ट्रोएन्सेफ़लोग्राफ़ी (ईईजी) और संज्ञान के अध्ययन को एक साथ लाता है।",
     "ar": "في مختبر تصوير الدماغ وتخطيط كهربائيته (BIEEGL)، ندرس بنية الدماغ ووظائفه لفهم الآليات الكامنة وراء الأعراض الذهانية بشكل أفضل. يجمع عملنا بين تصوير الدماغ وتخطيط كهربائية الدماغ (EEG) ودراسة العمليات المعرفية."
   },
-  "Comparing brain activity in people with schizophrenia and people without the condition helps us investigate how differences in brain function relate to experience. Our research also asks how the brain predicts and responds to sensations we generate ourselves, including speech.": {
-    "es": "Comparar la actividad cerebral de personas con y sin esquizofrenia nos ayuda a investigar cómo se relacionan las diferencias en la función cerebral con la experiencia. También estudiamos cómo el cerebro predice y responde a las sensaciones que generamos, incluido el habla.",
-    "zh-Hans": "通过比较精神分裂症患者与无该疾病者的脑活动，我们探索脑功能差异如何与个体体验相关。我们还研究大脑如何预测和响应自身产生的感觉，包括言语。",
-    "vi": "Việc so sánh hoạt động não ở người mắc bệnh tâm thần phân liệt và người không mắc bệnh giúp chúng tôi tìm hiểu mối liên hệ giữa những khác biệt về chức năng não và trải nghiệm. Chúng tôi cũng nghiên cứu cách não dự đoán và phản ứng với những cảm giác do chính chúng ta tạo ra, bao gồm lời nói.",
-    "hi": "सिज़ोफ्रेनिया वाले और बिना सिज़ोफ्रेनिया वाले लोगों की मस्तिष्क गतिविधि की तुलना करके हम जाँचते हैं कि मस्तिष्क की कार्यप्रणाली में अंतर अनुभवों से कैसे जुड़े हैं। हम यह भी अध्ययन करते हैं कि मस्तिष्क बोलने सहित स्वयं उत्पन्न संवेदनाओं का पूर्वानुमान कैसे लगाता है और उन पर कैसे प्रतिक्रिया देता है।",
-    "ar": "تساعدنا مقارنة نشاط الدماغ لدى الأشخاص المصابين بالفصام وغير المصابين به على دراسة العلاقة بين اختلافات وظائف الدماغ والتجربة الإنسانية. كما ندرس كيف يتنبأ الدماغ بالأحاسيس التي نولدها بأنفسنا، بما فيها الكلام، وكيف يستجيب لها."
+  "Comparing brain activity in people with schizophrenia and people without the condition helps us investigate how differences in brain function relate to experience.": {
+    "es": "Comparar la actividad cerebral de personas con y sin esquizofrenia nos ayuda a investigar cómo se relacionan las diferencias en la función cerebral con la experiencia.",
+    "zh-Hans": "通过比较精神分裂症患者与无该疾病者的脑活动，我们探索脑功能差异如何与个体体验相关。",
+    "vi": "Việc so sánh hoạt động não ở người mắc bệnh tâm thần phân liệt và người không mắc bệnh giúp chúng tôi tìm hiểu mối liên hệ giữa những khác biệt về chức năng não và trải nghiệm.",
+    "hi": "सिज़ोफ्रेनिया वाले और बिना सिज़ोफ्रेनिया वाले लोगों की मस्तिष्क गतिविधि की तुलना करके हम जाँचते हैं कि मस्तिष्क की कार्यप्रणाली में अंतर अनुभवों से कैसे जुड़े हैं।",
+    "ar": "تساعدنا مقارنة نشاط الدماغ لدى الأشخاص المصابين بالفصام وغير المصابين به على دراسة العلاقة بين اختلافات وظائف الدماغ والتجربة الإنسانية."
   },
   "Our lab is affiliated with the University of California, San Francisco and the San Francisco VA.": {
     "es": "Nuestro laboratorio está afiliado a la Universidad de California en San Francisco y al sistema de salud de veteranos de San Francisco.",
