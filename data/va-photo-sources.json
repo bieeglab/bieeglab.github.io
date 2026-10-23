@@ -1,0 +1,12 @@
+{
+  "Jessica Mow": {
+    "path": "assets/people/jessica-mow.jpg",
+    "source": "https://www.mirecc.va.gov/visn21/staff.asp",
+    "imageSource": "https://www.mirecc.va.gov/MIRECC/visn21/images/MowJessica.jpg"
+  },
+  "Maya Wong": {
+    "path": "assets/people/maya-wong.png",
+    "source": "https://www.mirecc.va.gov/visn21/staff.asp",
+    "imageSource": "https://www.mirecc.va.gov/MIRECC/visn21/images/Maya_Wong2.png"
+  }
+}

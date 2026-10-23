@@ -1,0 +1,12 @@
+{
+  "holly-hamilton": {
+    "path": "assets/people/holly-hamilton-ccpl.avif",
+    "imageSource": "https://ccpl.umn.edu/sites/ccpl.umn.edu/files/styles/folwell_full/public/2026-10/hamilton-callout.jpg.avif?itok=veVW4apo",
+    "source": "https://ccpl.umn.edu/lab-members"
+  },
+  "maya-wong": {
+    "path": "assets/people/maya-wong-ccpl.avif",
+    "imageSource": "https://ccpl.umn.edu/sites/ccpl.umn.edu/files/styles/folwell_full/public/2026-10/wong-callout.jpg.avif?itok=k1aQokNG",
+    "source": "https://ccpl.umn.edu/lab-members"
+  }
+}

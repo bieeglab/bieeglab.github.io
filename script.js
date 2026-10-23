@@ -1,5 +1,6 @@
 'use strict';
 // Translate text nodes without replacing elements, links, or event handlers.
+const pageTitleSource = document.title;
 let activeLanguage = 'en';
 try { const saved = localStorage.getItem('bieegl-language'); if (['en', 'es', 'zh-Hans', 'hi', 'ar'].includes(saved)) activeLanguage = saved; } catch {}
 const sourceText = new WeakMap();
@@ -16,6 +17,7 @@ function translateText(value) {
   if (key.startsWith('Biography of ')) translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS['Biography of {name}'][activeLanguage].replace('{name}', key.slice(13)) : activeLanguage === 'vi' ? `Tiểu sử của ${key.slice(13)}` : activeLanguage === 'es' ? `Biografía de ${key.slice(13)}` : `${key.slice(13)}的个人简介`;
   if (key === 'Biography of volunteers (to be determined)') translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS[key][activeLanguage] : activeLanguage === 'vi' ? 'Tiểu sử tình nguyện viên (chưa xác định)' : activeLanguage === 'es' ? 'Biografía del voluntariado (por confirmar)' : '志愿者个人简介（待确认）';
   if (key.startsWith('Portrait of ')) translated = ['hi', 'ar'].includes(activeLanguage) ? window.LAB_TRANSLATIONS['Portrait of {name}'][activeLanguage].replace('{name}', key.slice(12)) : activeLanguage === 'vi' ? `Ảnh của ${key.slice(12)}` : activeLanguage === 'es' ? `Retrato de ${key.slice(12)}` : `${key.slice(12)}的照片`;
+  if (key.startsWith('View profile of ')) translated = window.LAB_TRANSLATIONS['View profile of {name}']?.[activeLanguage]?.replace('{name}', key.slice(16));
   return translated ? value.replace(key, translated) : value;
 }
 function applyTranslations() {
@@ -24,7 +26,7 @@ function applyTranslations() {
   const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
   let node;
   while ((node = walker.nextNode())) {
-    if (node.parentElement.closest('script, style, select, .monogram')) continue;
+    if (node.parentElement.closest('script, style, select, .monogram, [data-original-language]')) continue;
     if (!sourceText.has(node)) sourceText.set(node, node.nodeValue);
     node.nodeValue = translateText(sourceText.get(node));
   }
@@ -32,7 +34,11 @@ function applyTranslations() {
     if (!sourceAttributes.has(node)) sourceAttributes.set(node, Object.fromEntries(['aria-label', 'placeholder', 'alt'].filter(attr => node.hasAttribute(attr)).map(attr => [attr, node.getAttribute(attr)])));
     for (const [attr, text] of Object.entries(sourceAttributes.get(node))) node.setAttribute(attr, translateText(text));
   });
-  document.title = translateText('Brain Imaging and EEG Laboratory · BIEEGL');
+  document.title = translateText(pageTitleSource);
+  document.querySelectorAll('[data-localized]').forEach(node => {
+    node.lang = activeLanguage;
+    node.dir = activeLanguage === 'ar' ? 'rtl' : 'ltr';
+  });
 }
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#main-nav');
@@ -56,6 +62,7 @@ function element(tag, className, text) {
   return node;
 }
 function renderPeople() {
+  if (!grid) { applyTranslations(); return; }
   const query = search.value.trim().toLocaleLowerCase();
   const people = window.LAB_PEOPLE.filter(person =>
     (activeFilter === 'all' || person.group === activeFilter) &&
@@ -64,8 +71,10 @@ function renderPeople() {
   grid.replaceChildren();
   for (const person of people) {
     const card = element('article', 'person-card');
-    const portrait = element('div', 'portrait');
+    const portrait = element(person.profile ? 'a' : 'div', 'portrait');
+    if (person.profile) { portrait.href = person.profile; portrait.setAttribute('aria-label', `View profile of ${person.name}`); }
     if (person.portrait) {
+      portrait.classList.add('has-photo');
       const img = element('img'); img.src = person.portrait; img.alt = `Portrait of ${person.name}`; img.loading = 'lazy'; portrait.append(img);
     } else {
       const initials = person.name === 'TBD' ? '+' : person.name.split(' ').map(part => part[0]).join('');
@@ -73,14 +82,20 @@ function renderPeople() {
       portrait.append(monogram, element('span', 'portrait-caption', 'PORTRAIT TO COME'));
     }
     const body = element('div', 'person-body');
-    body.append(element('h3', '', person.name), element('p', 'person-role', person.role));
+    const title = element('h3');
+    if (person.profile) { const link = element('a', '', person.name); link.href = person.profile; title.append(link); } else title.textContent = person.name;
+    body.append(title, element('p', 'person-role', person.role));
+    if (person.draft) body.append(element('span', 'draft-badge', 'Draft biography'));
     if (person.provisional) body.append(element('span', 'provisional', 'Provisional title'));
     const detail = element('details', 'person-bio');
     const summary = element('summary', '', 'Biography');
     summary.append(element('span', '', '+'));
     summary.setAttribute('aria-label', `Biography of ${person.name === 'TBD' ? 'volunteers (to be determined)' : person.name}`);
     detail.append(summary, element('p', '', person.bio || (person.name === 'TBD' ? 'Volunteer names, portraits, and biographies will be added once confirmed.' : 'Biography to come. An approved introduction, research interests, and links will be added here.')));
-    body.append(detail); card.append(portrait, body); grid.append(card);
+    detail.querySelector('p').setAttribute('data-localized', '');
+    body.append(detail);
+    if (person.profile) { const link = element('a', 'person-profile-link', 'View profile'); link.href = person.profile; body.append(link); }
+    card.append(portrait, body); grid.append(card);
   }
   if (!people.length) grid.append(element('p', 'empty-results', 'No matching lab members. Try another name or select Everyone.'));
   document.querySelector('#people-count').textContent = `${people.length} ${people.length === 1 ? 'entry' : 'entries'}${activeFilter === 'all' ? ' · Full lab directory' : ` · ${activeFilter}`}`;
@@ -94,7 +109,7 @@ document.querySelectorAll('.filter').forEach(button => button.addEventListener('
   });
   renderPeople();
 }));
-search.addEventListener('input', renderPeople);
+search?.addEventListener('input', renderPeople);
 renderPeople();
 // Keep the current section visible in navigation without moving keyboard focus.
 if ('IntersectionObserver' in window) {

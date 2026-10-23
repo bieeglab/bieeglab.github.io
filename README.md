@@ -15,12 +15,12 @@ Open http://localhost:4173. Stop the server with Ctrl+C. There is no installatio
 ## Edit
 
 - `index.html`: page sections, draft research themes, selected publications and news placeholders, join/participate and contact copy.
-- `content.js`: complete roster, roles, biographies, portrait paths. Replace each `bio: null` with approved plain text and `portrait: null` with a relative local image path (for example `assets/people/judy-ford.jpg`). The shared defaults are in the final `.map()`; add individual fields to the relevant member object. Put the photos in that folder, with permission. Portrait images should be cropped consistently and compressed before adding them.
+- `data/people-profiles.json`: editable roster, roles, biographies, profile details, portrait paths, and sources. Run `python3 scripts/build_people_pages.py` to regenerate `content.js` and the individual pages. Add local photos under `assets/people/` with their source recorded. Do not edit generated pages or `content.js` directly.
 - `styles.css`: colors, layout, responsive breakpoints, typography, focus and reduced-motion styles.
 - `script.js`: mobile navigation, directory search/group filters and profile expansion.
 - `assets/brain-bridge.svg`: original decorative scientific / Golden Gate Bridge illustration; `favicon.svg`: original signal mark. Neither represents measured data or official institutional branding.
 
-Search and group filters combine. Use Everyone and clear the search to reset. All 18 entries (17 named members plus the volunteer placeholder) appear initially. Individual biography panels are native keyboard-accessible disclosure controls. No personal biography, current publication, news item, address, phone, email, study eligibility, or recruitment availability is invented. Historical content is identified explicitly. There is no inquiry form.
+Search and group filters combine. Use Everyone and clear the search to reset. All 18 named members appear initially. Individual biography panels are native keyboard-accessible disclosure controls. Biographies use user-supplied material and linked public professional sources. No education, personal interests, or current recruitment availability is inferred for people without a supporting source. Historical content is identified explicitly. There is no inquiry form.
 
 ## Roster supplied for the mockup
 
@@ -28,14 +28,14 @@ Search and group filters combine. Use Everyone and clear the search to reset. Al
 | --- | --- |
 | Directors | Daniel Mathalon (Co-Director); Judith Ford (Co-Director); Susanna Fryer (Associate Director) |
 | Principal Investigators | Samantha Abram; Michael Jacob; Jessica Hua; Maria Kryza-Lacombe |
-| Postdoctoral Fellows | Jessica Mow; Carlos Carrasco; Maya Wong; Wendy Torrens |
+| Postdoctoral Fellows | Jessica Mow; Carlos Daniel Carrasco; Maya Wong; Wendy Torrens |
 | CRCs / RAs | Juliette Kyner; Zoe Rygg; Olivia Dance |
 | Lab Manager | Paul Betancourt |
 | Research engineering | Spero Nicholas — Computational Research Engineer (provisional title) |
 | Consultant | Brian Roach |
 | Volunteers | TBD |
 
-CRCs/RAs, the lab manager, research engineering, and the consultant appear under the **Staff & collaborators** filter; each card retains its supplied role. All portraits remain placeholders. Judith Ford has a clearly labeled historical biography adapted from the supplied screenshot; other biographies and the volunteer entry remain placeholders.
+Staff are split into Senior Staff (Spero Nicholas and Paul Betancourt), Junior Staff (Juliette Kyner, Zoe Rygg, Olivia Dance), and Collaborators (Holly Hamilton and consultant Brian Roach). The volunteer entry and filter have been removed. Available public institutional portraits and Carlos’s supplied personal-site photo are used; other members retain initials until a photo is available.
 
 ## Content needed before publication
 
@@ -121,3 +121,15 @@ Institutional logos: the user-supplied UCSF signature and VA stacked logo appear
 Language scope was reduced to five choices by the user: English, Chinese, Hindi, Spanish, and Arabic, based on total-speaker ranking. Hindi and Arabic were drafted locally, with no website text sent to an external translation service. Arabic sets the page direction to right-to-left; published titles and citations keep their original direction. Previously drafted Vietnamese text is retained in the source but is not offered in the five-language selector. Fluent-speaker review remains appropriate before publishing.
 
 Program-card headers now use the supplied UCSF Path lockup and supplied Early Intervention emblem. The latter was uploaded as `amp-scz-logo.png` and is paired with a visible AMP SCZ title because the image itself does not contain that program name. Both assets are copied unchanged into `assets/programs/`; their accessible descriptions follow the selected language.
+
+
+## Individual profile pages
+`data/people-profiles.json` is the editable source for all 18 named profiles. Run `python3 scripts/build_people_pages.py` after editing it to rebuild `people/*.html` and `content.js`. Pages are static HTML: biographies, education, links, and source notes remain readable without JavaScript. Shared navigation, directory controls, and profile interface labels retain the five-language selector. All biographies and directory summaries are translated into Spanish, Simplified Chinese, Hindi, and Arabic, in addition to the English originals. Locally drafted translations are stored in `data/profile-translations.json`; the generator checks coverage and writes `profile-translations.js`. Academic appointments, training records, source notes, and published citations retain their original wording. Arabic biographies follow right-to-left text direction.
+
+The three director biographies combine user-supplied writing with current UCSF titles and records. Other bios are marked as drafts, tied to public professional sources, and deliberately brief where evidence is limited. Academic affiliations are distinct from the user-supplied BIEEGL roles: Holly’s current lab is at Minnesota, and Maya holds a joint postdoctoral appointment with BIEEGL and Holly’s Minnesota lab, as supplied by the lab. Older UCSF/VA records are not used to override this newer information. Brian’s consultant role comes from the user; his research description is supported by coauthored papers.
+
+Carlos Daniel Carrasco’s profile uses his personal-site `_pages/about.md` and `_pages/cv.md`, official research records, and the provided BIEEGL position. Sample/template data from `_data/cv.json` was excluded. No other chat history was assumed available. His original personal-site photo is copied unchanged. Judith Ford’s portrait uses the BBRF image supplied by the lab; its source is recorded in `data/judith-photo-source.json`. Profile-source URLs and photo provenance are recorded in the `data/*photo-sources.json` files and `assets/IMAGE-CREDITS.md`. No photos or biographies were generated or submitted to external translation services.
+
+Historical project years are shown as source-record dates, without claiming current funding or recruitment. Institutional mailing addresses and archived telephone numbers were not copied into individual pages; official profile and vCard links are available where provided. Profile pages link to selected verified publications and the authoritative professional sources.
+
+Education and training on all member profiles is ordered from most recent to oldest. Undated entries follow the known career sequence without inferred dates. Wendy Torrens’s portrait comes from her personal faculty page; provenance is recorded in `data/wendy-photo-source.json`.

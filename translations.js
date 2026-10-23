@@ -944,5 +944,119 @@ window.LAB_TRANSLATIONS = {
     "hi": "सिज़ोफ्रेनिया",
     "ar": "الفصام",
     "vi": "Tâm thần phân liệt"
+  },
+  "Senior Staff": {
+    "es": "Personal sénior",
+    "zh-Hans": "资深工作人员",
+    "hi": "वरिष्ठ कर्मचारी",
+    "ar": "كبار الموظفين"
+  },
+  "Junior Staff": {
+    "es": "Personal júnior",
+    "zh-Hans": "初级工作人员",
+    "hi": "कनिष्ठ कर्मचारी",
+    "ar": "الموظفون المبتدئون"
+  },
+  "Collaborators": {
+    "es": "Colaboradores",
+    "zh-Hans": "合作人员",
+    "hi": "सहयोगी",
+    "ar": "المتعاونون"
+  },
+  "Collaborator": {
+    "es": "Colaboradora",
+    "zh-Hans": "合作研究员",
+    "hi": "सहयोगी",
+    "ar": "باحثة متعاونة"
+  },
+  "Draft biography": {
+    "es": "Biografía provisional",
+    "zh-Hans": "个人简介草稿",
+    "hi": "परिचय का प्रारूप",
+    "ar": "مسودة السيرة الذاتية"
+  },
+  "View profile": {
+    "es": "Ver perfil",
+    "zh-Hans": "查看个人页面",
+    "hi": "प्रोफ़ाइल देखें",
+    "ar": "عرض الملف الشخصي"
+  },
+  "View profile of {name}": {
+    "es": "Ver perfil de {name}",
+    "zh-Hans": "查看{name}的个人页面",
+    "hi": "{name} की प्रोफ़ाइल देखें",
+    "ar": "عرض الملف الشخصي لـ {name}"
+  },
+  "← Back to the lab directory": {
+    "es": "← Volver al directorio",
+    "zh-Hans": "← 返回团队名录",
+    "hi": "← टीम की सूची पर लौटें",
+    "ar": "العودة إلى دليل المختبر ←"
+  },
+  "Photo to come": {
+    "es": "Foto pendiente",
+    "zh-Hans": "照片待添加",
+    "hi": "फ़ोटो जल्द जोड़ी जाएगी",
+    "ar": "ستضاف الصورة لاحقا"
+  },
+  "Research interests": {
+    "es": "Intereses de investigación",
+    "zh-Hans": "研究兴趣",
+    "hi": "अनुसंधान की रुचियाँ",
+    "ar": "الاهتمامات البحثية"
+  },
+  "Education and training": {
+    "es": "Formación académica",
+    "zh-Hans": "教育与培训",
+    "hi": "शिक्षा और प्रशिक्षण",
+    "ar": "التعليم والتدريب"
+  },
+  "Awards and honors": {
+    "es": "Premios y distinciones",
+    "zh-Hans": "奖项与荣誉",
+    "hi": "पुरस्कार और सम्मान",
+    "ar": "الجوائز والتكريمات"
+  },
+  "Selected research projects": {
+    "es": "Proyectos de investigación seleccionados",
+    "zh-Hans": "精选研究项目",
+    "hi": "चुनी हुई अनुसंधान परियोजनाएँ",
+    "ar": "مشاريع بحثية مختارة"
+  },
+  "Dates reflect the source records; project listings do not indicate recruitment.": {
+    "es": "Las fechas corresponden a las fuentes; los proyectos no indican que se estén reclutando participantes.",
+    "zh-Hans": "日期以来源记录为准；所列项目不表示正在招募参与者。",
+    "hi": "तिथियाँ स्रोत अभिलेखों पर आधारित हैं; परियोजना सूची से भर्ती का संकेत नहीं मिलता।",
+    "ar": "التواريخ مأخوذة من السجلات المصدرية؛ ولا تعني قائمة المشاريع وجود تجنيد للمشاركين."
+  },
+  "Selected publications": {
+    "es": "Publicaciones seleccionadas",
+    "zh-Hans": "精选论文",
+    "hi": "चुने हुए प्रकाशन",
+    "ar": "منشورات مختارة"
+  },
+  "Profile sources": {
+    "es": "Fuentes del perfil",
+    "zh-Hans": "资料来源",
+    "hi": "प्रोफ़ाइल के स्रोत",
+    "ar": "مصادر الملف الشخصي"
+  },
+  "All lab members": {
+    "es": "Todo el equipo",
+    "zh-Hans": "所有团队成员",
+    "hi": "टीम के सभी सदस्य",
+    "ar": "جميع أعضاء المختبر"
+  },
+  "More lab members": {
+    "es": "Más miembros del equipo",
+    "zh-Hans": "更多团队成员",
+    "hi": "टीम के अन्य सदस्य",
+    "ar": "المزيد من أعضاء المختبر"
+  },
+  "Profile content is currently available in English.": {
+    "es": "El contenido del perfil está disponible actualmente en inglés.",
+    "zh-Hans": "个人资料内容目前提供英文版本。",
+    "hi": "प्रोफ़ाइल की सामग्री फिलहाल अंग्रेज़ी में उपलब्ध है।",
+    "ar": "محتوى الملف الشخصي متاح حاليا باللغة الإنجليزية."
   }
 };

@@ -1,0 +1,42 @@
+{
+  "daniel.mathalon": {
+    "path": "assets/people/daniel-mathalon.jpg",
+    "source": "https://profiles.ucsf.edu/daniel.mathalon",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=174489&cachekey=e490f7cb-76e4-4b95-931f-3cfb1bd64038",
+    "bytes": 3752
+  },
+  "judith.ford": {
+    "path": null,
+    "source": "https://profiles.ucsf.edu/judith.ford"
+  },
+  "susanna.fryer": {
+    "path": "assets/people/susanna-fryer.jpg",
+    "source": "https://profiles.ucsf.edu/susanna.fryer",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=188236&cachekey=6b41711d-f32a-4bf6-a124-2440c5302032",
+    "bytes": 3887
+  },
+  "samantha.abram": {
+    "path": "assets/people/samantha-abram.jpg",
+    "source": "https://profiles.ucsf.edu/samantha.abram",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=270813487&cachekey=fc4025d9-feb1-459d-9056-372be851a9a7",
+    "bytes": 5269
+  },
+  "michael.jacob": {
+    "path": "assets/people/michael-jacob.jpg",
+    "source": "https://profiles.ucsf.edu/michael.jacob",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=188757&cachekey=6196eba4-f849-4980-913d-6985c0fb2636",
+    "bytes": 5218
+  },
+  "jessica.hua": {
+    "path": "assets/people/jessica-hua.jpg",
+    "source": "https://profiles.ucsf.edu/jessica.hua",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=371173157&cachekey=b0dcc701-5ffa-4ea0-b8a5-05b28aa7cd05",
+    "bytes": 7191
+  },
+  "maria.kryza-lacombe": {
+    "path": "assets/people/maria-kryza-lacombe.jpg",
+    "source": "https://profiles.ucsf.edu/maria.kryza-lacombe",
+    "imageSource": "https://researcherprofiles.org/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=651453977&cachekey=ca522b19-cf6f-4eca-9f79-9641fe59bd40",
+    "bytes": 4372
+  }
+}

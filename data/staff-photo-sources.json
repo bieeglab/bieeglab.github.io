@@ -1,0 +1,26 @@
+[
+  {
+    "person": "Juliette Kyner",
+    "share": "https://share.google/WvmoTzvncrPpTDfgu",
+    "page": "https://www.linkedin.com/in/juliette-marie-kyner",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQGUMXA3TXmXZg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1676935418635?e=2147483647&v=beta&t=fCH9oxSlA7PjffOVkpdc-Tz0LtZMq8O2jtCa_RURmLE",
+    "local": "assets/people/juliette-kyner-linkedin.jpg",
+    "retrieved": "2026-10-23"
+  },
+  {
+    "person": "Olivia Dance",
+    "share": "https://share.google/NlbU062tONBO7bQAp",
+    "page": "https://www.linkedin.com/in/oliviacdance",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQFeEJ4wpAiztA/profile-displayphoto-shrink_200_200/B56ZSFRA_yHQAY-/0/1737402618340?e=2147483647&v=beta&t=rUyK0kzpZeh-nkXmcoSJpDU6eYEY9SnRByWMPx2q-lg",
+    "local": "assets/people/olivia-dance-linkedin.jpg",
+    "retrieved": "2026-10-23"
+  },
+  {
+    "person": "Zoe Rygg",
+    "share": "https://share.google/170eiT4Nz96QIMA2A",
+    "page": "https://www.linkedin.com/in/zo%C3%AB-rygg-7a5347223",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQG-cHn9IY4Q5w/profile-displayphoto-scale_200_200/B56ZuZiCSjGwAY-/0/1767807402637?e=2147483647&v=beta&t=Q7kj68nx6GXD9Uk2HfTKIAoNZop5Rm3uTTFZmjRbQpY",
+    "local": "assets/people/zoe-rygg-linkedin.jpg",
+    "retrieved": "2026-10-23"
+  }
+]
