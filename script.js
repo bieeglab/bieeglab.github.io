@@ -134,3 +134,44 @@ languageSelect.addEventListener('change', () => {
   renderPeople();
   closeMenu();
 });
+
+// Every section's first content line lands below the measured sticky header.
+const stickyHeader = document.querySelector('.site-header');
+const anchorTargets = [...document.querySelectorAll('main section[id], main #about')];
+let anchorScrollSpace;
+if (anchorTargets.length) {
+  anchorScrollSpace = document.createElement('div');
+  anchorScrollSpace.className = 'anchor-scroll-space';
+  anchorScrollSpace.setAttribute('aria-hidden', 'true');
+  document.body.append(anchorScrollSpace);
+}
+function updateAnchorOffsets() {
+  if (!stickyHeader || !anchorTargets.length) return;
+  const pageOffset = parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop) || 0;
+  const headerHeight = stickyHeader.getBoundingClientRect().height;
+  for (const target of anchorTargets) {
+    const inset = parseFloat(getComputedStyle(target).paddingTop) || 0;
+    target.style.scrollMarginTop = `${headerHeight - pageOffset - inset + 24}px`;
+  }
+  // Allow the final section to reach the same position without the page-end clamp.
+  const contact = document.querySelector('#contact');
+  const footer = document.querySelector('footer');
+  if (contact && footer && anchorScrollSpace) {
+    const contentTop = contact.getBoundingClientRect().top + window.scrollY + (parseFloat(getComputedStyle(contact).paddingTop) || 0);
+    const footerBottom = footer.getBoundingClientRect().bottom + window.scrollY;
+    anchorScrollSpace.style.height = `${Math.max(0, contentTop - headerHeight - 24 + window.innerHeight - footerBottom)}px`;
+  }
+}
+updateAnchorOffsets();
+window.addEventListener('resize', updateAnchorOffsets);
+if ('ResizeObserver' in window && stickyHeader) {
+  new ResizeObserver(updateAnchorOffsets).observe(stickyHeader);
+}
+window.addEventListener('load', () => {
+  updateAnchorOffsets();
+  // Direct links from profile pages use the same framing once images have loaded.
+  const target = anchorTargets.find(section => `#${section.id}` === window.location.hash);
+  if (target) target.scrollIntoView({block: 'start', behavior: 'auto'});
+});
+if (document.fonts) document.fonts.ready.then(updateAnchorOffsets);
+languageSelect.addEventListener('change', updateAnchorOffsets);

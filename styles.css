@@ -108,3 +108,11 @@ html[dir="rtl"] .affiliation-logos,html[dir="rtl"] .publication-entry{direction:
 @media(max-width:640px){
   .hero-grid{grid-template-columns:minmax(0,1fr)}
 }
+
+/* Match native section anchors to the content inset beneath an opaque header. */
+.site-header{background:#fff}
+main section.section[id]{scroll-margin-top:-76px}
+#home{scroll-margin-top:-24px}
+.anchor-scroll-space{height:0;background:#F2F3F4;pointer-events:none}
+@media(max-width:900px){main section.section[id]{scroll-margin-top:-51px}}
+@media(max-width:640px){main section.section[id]{scroll-margin-top:-34px}}
